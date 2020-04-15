@@ -1,0 +1,4343 @@
+Date,Region,Province,Country,Total_Confirmed,Total_Deaths,Total_Recovered
+2020-04-02,Beadle,South Dakota,US,21,1.0,13
+2020-04-02,Bon Homme,South Dakota,US,1,0.0,1
+2020-04-02,Charles Mix,South Dakota,US,1,0.0,1
+2020-04-02,Davison,South Dakota,US,3,0.0,2
+2020-04-02,McCook,South Dakota,US,2,0.0,1
+2020-04-02,Minnehaha,South Dakota,US,54,0.0,12
+2020-04-02,Brown,South Dakota,US,6,0.0,2
+2020-04-02,Pennington,South Dakota,US,6,0.0,1
+2020-04-02,Brookings,South Dakota,US,2,0.0,2
+2020-04-02,Codington,South Dakota,US,6,0.0,2
+2020-04-02,Hughes,South Dakota,US,3,0.0,2
+2020-04-02,Lyman,South Dakota,US,1,0.0,1
+2020-04-02,Meade,South Dakota,US,1,0.0,1
+2020-04-02,Lincoln,South Dakota,US,17,0.0,1
+2020-04-02,Aurora,South Dakota,US,1,0.0,1
+2020-04-02,Faulk,South Dakota,US,1,0.0,1
+2020-04-02,Lawrence,South Dakota,US,9,0.0,3
+2020-04-02,Todd,South Dakota,US,1,0.0,0
+2020-04-02,Union,South Dakota,US,3,0.0,1
+2020-04-02,Clark,South Dakota,US,1,0.0,1
+2020-04-02,Clay,South Dakota,US,3,0.0,2
+2020-04-02,Deuel,South Dakota,US,1,0.0,0
+2020-04-02,Fall River,South Dakota,US,1,0.0,1
+2020-04-02,Hamlin,South Dakota,US,1,0.0,0
+2020-04-02,Hutchinson,South Dakota,US,2,0.0,2
+2020-04-02,Marshall,South Dakota,US,1,0.0,1
+2020-04-02,Kingsbury,South Dakota,US,0,0.0,1
+2020-04-02,Roberts,South Dakota,US,2,0.0,0
+2020-04-02,Turner,South Dakota,US,2,0.0,0
+2020-04-03,Beadle,South Dakota,US,21,1.0,13
+2020-04-03,Bon Homme,South Dakota,US,1,0.0,1
+2020-04-03,Charles Mix,South Dakota,US,1,0.0,1
+2020-04-03,Davison,South Dakota,US,3,0.0,2
+2020-04-03,McCook,South Dakota,US,2,0.0,1
+2020-04-03,Minnehaha,South Dakota,US,54,0.0,12
+2020-04-03,Brown,South Dakota,US,6,0.0,2
+2020-04-03,Pennington,South Dakota,US,6,0.0,1
+2020-04-03,Brookings,South Dakota,US,2,0.0,2
+2020-04-03,Codington,South Dakota,US,6,0.0,2
+2020-04-03,Hughes,South Dakota,US,3,0.0,2
+2020-04-03,Lyman,South Dakota,US,1,0.0,1
+2020-04-03,Meade,South Dakota,US,1,0.0,1
+2020-04-03,Lincoln,South Dakota,US,17,0.0,1
+2020-04-03,Aurora,South Dakota,US,1,0.0,1
+2020-04-03,Faulk,South Dakota,US,1,0.0,1
+2020-04-03,Lawrence,South Dakota,US,9,0.0,3
+2020-04-03,Todd,South Dakota,US,1,0.0,0
+2020-04-03,Union,South Dakota,US,3,0.0,1
+2020-04-03,Clark,South Dakota,US,1,0.0,1
+2020-04-03,Clay,South Dakota,US,3,0.0,2
+2020-04-03,Deuel,South Dakota,US,1,0.0,0
+2020-04-03,Fall River,South Dakota,US,1,0.0,1
+2020-04-03,Hamlin,South Dakota,US,1,0.0,0
+2020-04-03,Hutchinson,South Dakota,US,2,0.0,2
+2020-04-03,Marshall,South Dakota,US,1,0.0,1
+2020-04-03,Kingsbury,South Dakota,US,0,0.0,1
+2020-04-03,Roberts,South Dakota,US,2,0.0,0
+2020-04-03,Turner,South Dakota,US,2,0.0,0
+2020-04-04,Beadle,South Dakota,US,21,1.0,18
+2020-04-04,Bon Homme,South Dakota,US,1,0.0,1
+2020-04-04,Charles Mix,South Dakota,US,2,0.0,1
+2020-04-04,Davison,South Dakota,US,3,0.0,2
+2020-04-04,McCook,South Dakota,US,2,0.0,1
+2020-04-04,Minnehaha,South Dakota,US,81,0.0,15
+2020-04-04,Brown,South Dakota,US,9,0.0,5
+2020-04-04,Pennington,South Dakota,US,6,0.0,1
+2020-04-04,Brookings,South Dakota,US,3,0.0,2
+2020-04-04,Codington,South Dakota,US,9,0.0,3
+2020-04-04,Hughes,South Dakota,US,3,0.0,2
+2020-04-04,Lyman,South Dakota,US,1,0.0,1
+2020-04-04,Meade,South Dakota,US,1,0.0,1
+2020-04-04,Lincoln,South Dakota,US,21,0.0,4
+2020-04-04,Aurora,South Dakota,US,1,0.0,1
+2020-04-04,Faulk,South Dakota,US,1,0.0,1
+2020-04-04,Lawrence,South Dakota,US,9,0.0,4
+2020-04-04,Todd,South Dakota,US,1,0.0,0
+2020-04-04,Union,South Dakota,US,3,0.0,1
+2020-04-04,Clark,South Dakota,US,1,0.0,1
+2020-04-04,Clay,South Dakota,US,3,0.0,2
+2020-04-04,Deuel,South Dakota,US,1,0.0,0
+2020-04-04,Fall River,South Dakota,US,1,0.0,1
+2020-04-04,Hamlin,South Dakota,US,1,0.0,0
+2020-04-04,Hutchinson,South Dakota,US,2,0.0,2
+2020-04-04,Marshall,South Dakota,US,1,0.0,1
+2020-04-04,Kingsbury,South Dakota,US,1,0.0,1
+2020-04-04,Roberts,South Dakota,US,4,0.0,0
+2020-04-04,Turner,South Dakota,US,3,0.0,1
+2020-04-05,Beadle,South Dakota,US,21,1.0,18
+2020-04-05,Bon Homme,South Dakota,US,1,0.0,1
+2020-04-05,Charles Mix,South Dakota,US,2,0.0,1
+2020-04-05,Davison,South Dakota,US,3,0.0,2
+2020-04-05,McCook,South Dakota,US,2,0.0,1
+2020-04-05,Minnehaha,South Dakota,US,104,0.0,18
+2020-04-05,Brown,South Dakota,US,9,0.0,5
+2020-04-05,Pennington,South Dakota,US,6,0.0,2
+2020-04-05,Brookings,South Dakota,US,3,0.0,2
+2020-04-05,Codington,South Dakota,US,10,0.0,4
+2020-04-05,Hughes,South Dakota,US,3,0.0,2
+2020-04-05,Lyman,South Dakota,US,1,0.0,1
+2020-04-05,Meade,South Dakota,US,1,0.0,1
+2020-04-05,Lincoln,South Dakota,US,23,0.0,4
+2020-04-05,Aurora,South Dakota,US,1,0.0,1
+2020-04-05,Faulk,South Dakota,US,1,0.0,1
+2020-04-05,Lawrence,South Dakota,US,9,0.0,5
+2020-04-05,Todd,South Dakota,US,1,0.0,0
+2020-04-05,Union,South Dakota,US,3,0.0,1
+2020-04-05,Clark,South Dakota,US,1,0.0,1
+2020-04-05,Clay,South Dakota,US,3,0.0,2
+2020-04-05,Deuel,South Dakota,US,1,0.0,0
+2020-04-05,Fall River,South Dakota,US,1,0.0,1
+2020-04-05,Hamlin,South Dakota,US,1,0.0,0
+2020-04-05,Hutchinson,South Dakota,US,2,0.0,2
+2020-04-05,Marshall,South Dakota,US,1,0.0,1
+2020-04-05,Kingsbury,South Dakota,US,1,0.0,1
+2020-04-05,Roberts,South Dakota,US,4,0.0,0
+2020-04-05,Turner,South Dakota,US,4,0.0,1
+2020-04-06,Beadle,South Dakota,US,21,2.0,18
+2020-04-06,Bon Homme,South Dakota,US,2,0.0,1
+2020-04-06,Charles Mix,South Dakota,US,2,0.0,1
+2020-04-06,Davison,South Dakota,US,3,0.0,2
+2020-04-06,McCook,South Dakota,US,2,0.0,1
+2020-04-06,Minnehaha,South Dakota,US,140,1.0,23
+2020-04-06,Brown,South Dakota,US,13,0.0,5
+2020-04-06,Pennington,South Dakota,US,6,0.0,3
+2020-04-06,Brookings,South Dakota,US,4,0.0,2
+2020-04-06,Codington,South Dakota,US,11,0.0,4
+2020-04-06,Hughes,South Dakota,US,3,0.0,2
+2020-04-06,Lyman,South Dakota,US,1,0.0,1
+2020-04-06,Meade,South Dakota,US,1,0.0,1
+2020-04-06,Lincoln,South Dakota,US,24,0.0,4
+2020-04-06,Aurora,South Dakota,US,1,0.0,1
+2020-04-06,Faulk,South Dakota,US,1,0.0,1
+2020-04-06,Lawrence,South Dakota,US,9,0.0,6
+2020-04-06,Todd,South Dakota,US,1,0.0,0
+2020-04-06,Union,South Dakota,US,3,0.0,1
+2020-04-06,Clark,South Dakota,US,1,0.0,1
+2020-04-06,Clay,South Dakota,US,3,0.0,2
+2020-04-06,Deuel,South Dakota,US,1,0.0,0
+2020-04-06,Fall River,South Dakota,US,1,0.0,1
+2020-04-06,Hamlin,South Dakota,US,1,0.0,0
+2020-04-06,Hutchinson,South Dakota,US,2,0.0,2
+2020-04-06,Marshall,South Dakota,US,1,0.0,1
+2020-04-06,Kingsbury,South Dakota,US,1,0.0,1
+2020-04-06,Roberts,South Dakota,US,4,0.0,0
+2020-04-06,Turner,South Dakota,US,4,0.0,1
+2020-04-08,Beadle,South Dakota,US,21,2.0,18
+2020-04-08,Bon Homme,South Dakota,US,2,0.0,1
+2020-04-08,Charles Mix,South Dakota,US,2,0.0,1
+2020-04-08,Davison,South Dakota,US,3,0.0,2
+2020-04-08,McCook,South Dakota,US,2,0.0,1
+2020-04-08,Minnehaha,South Dakota,US,140,1.0,23
+2020-04-08,Brown,South Dakota,US,13,0.0,5
+2020-04-08,Pennington,South Dakota,US,6,0.0,3
+2020-04-08,Brookings,South Dakota,US,4,0.0,2
+2020-04-08,Codington,South Dakota,US,11,0.0,4
+2020-04-08,Hughes,South Dakota,US,3,0.0,2
+2020-04-08,Lyman,South Dakota,US,1,0.0,1
+2020-04-08,Meade,South Dakota,US,1,0.0,1
+2020-04-08,Lincoln,South Dakota,US,24,0.0,4
+2020-04-08,Aurora,South Dakota,US,1,0.0,1
+2020-04-08,Faulk,South Dakota,US,1,0.0,1
+2020-04-08,Lawrence,South Dakota,US,9,0.0,6
+2020-04-08,Todd,South Dakota,US,1,0.0,0
+2020-04-08,Union,South Dakota,US,3,0.0,1
+2020-04-08,Clark,South Dakota,US,1,0.0,1
+2020-04-08,Clay,South Dakota,US,3,0.0,2
+2020-04-08,Deuel,South Dakota,US,1,0.0,0
+2020-04-08,Fall River,South Dakota,US,1,0.0,1
+2020-04-08,Hamlin,South Dakota,US,1,0.0,0
+2020-04-08,Hutchinson,South Dakota,US,2,0.0,2
+2020-04-08,Marshall,South Dakota,US,1,0.0,1
+2020-04-08,Kingsbury,South Dakota,US,1,0.0,1
+2020-04-08,Roberts,South Dakota,US,4,0.0,0
+2020-04-08,Turner,South Dakota,US,4,0.0,1
+2020-04-11,Aurora,South Dakota,US,1,0.0,1
+2020-04-11,Beadle,South Dakota,US,22,2.0,19
+2020-04-11,Bon Homme,South Dakota,US,3,0.0,2
+2020-04-11,Brookings,South Dakota,US,7,0.0,7
+2020-04-11,Charles Mix,South Dakota,US,3,0.0,1
+2020-04-11,Clark,South Dakota,US,1,0.0,1
+2020-04-11,Clay,South Dakota,US,6,0.0,3
+2020-04-11,Codington,South Dakota,US,12,0.0,11
+2020-04-11,Davison,South Dakota,US,3,0.0,3
+2020-04-11,Deuel,South Dakota,US,1,0.0,1
+2020-04-11,Fall River,South Dakota,US,1,0.0,1
+2020-04-11,Faulk,South Dakota,US,1,0.0,1
+2020-04-11,Hamlin,South Dakota,US,1,0.0,1
+2020-04-11,Hughes,South Dakota,US,4,0.0,3
+2020-04-11,Hutchinson,South Dakota,US,2,0.0,2
+2020-04-11,Lake,South Dakota,US,2,0.0,1
+2020-04-11,Lawrence,South Dakota,US,9,0.0,8
+2020-04-11,Lincoln,South Dakota,US,38,0.0,16
+2020-04-11,Lyman,South Dakota,US,2,0.0,1
+2020-04-11,Marshall,South Dakota,US,1,0.0,1
+2020-04-11,McCook,South Dakota,US,2,1.0,1
+2020-04-11,Meade,South Dakota,US,1,0.0,1
+2020-04-11,Minnehaha,South Dakota,US,352,2.0,56
+2020-04-11,Pennington,South Dakota,US,8,1.0,5
+2020-04-11,Roberts,South Dakota,US,4,0.0,3
+2020-04-12,Aurora,South Dakota,US,1,0.0,1
+2020-04-12,Beadle,South Dakota,US,21,2.0,19
+2020-04-12,Bon Homme,South Dakota,US,3,0.0,2
+2020-04-12,Brookings,South Dakota,US,6,0.0,6
+2020-04-12,Charles Mix,South Dakota,US,3,0.0,1
+2020-04-12,Clark,South Dakota,US,1,0.0,1
+2020-04-12,Clay,South Dakota,US,6,0.0,3
+2020-04-12,Codington,South Dakota,US,12,0.0,11
+2020-04-12,Davison,South Dakota,US,3,0.0,3
+2020-04-12,Deuel,South Dakota,US,1,0.0,1
+2020-04-12,Fall River,South Dakota,US,1,0.0,1
+2020-04-12,Faulk,South Dakota,US,1,0.0,1
+2020-04-12,Hamlin,South Dakota,US,1,0.0,1
+2020-04-12,Hughes,South Dakota,US,4,0.0,3
+2020-04-12,Hutchinson,South Dakota,US,2,0.0,2
+2020-04-12,Lake,South Dakota,US,2,0.0,1
+2020-04-12,Lawrence,South Dakota,US,9,0.0,8
+2020-04-12,Lincoln,South Dakota,US,39,0.0,17
+2020-04-12,Lyman,South Dakota,US,2,0.0,2
+2020-04-12,Marshall,South Dakota,US,1,0.0,1
+2020-04-12,McCook,South Dakota,US,2,1.0,1
+2020-04-12,Meade,South Dakota,US,1,0.0,1
+2020-04-12,Minnehaha,South Dakota,US,438,2.0,66
+2020-04-12,Pennington,South Dakota,US,8,1.0,5
+2020-04-12,Roberts,South Dakota,US,4,0.0,3
+2020-04-13,Aurora,South Dakota,US,1,0.0,1
+2020-04-13,Beadle,South Dakota,US,21,2.0,19
+2020-04-13,Bon Homme,South Dakota,US,3,0.0,2
+2020-04-13,Brookings,South Dakota,US,6,0.0,6
+2020-04-13,Charles Mix,South Dakota,US,3,0.0,1
+2020-04-13,Clark,South Dakota,US,1,0.0,1
+2020-04-13,Clay,South Dakota,US,6,0.0,3
+2020-04-13,Codington,South Dakota,US,12,0.0,11
+2020-04-13,Davison,South Dakota,US,3,0.0,3
+2020-04-13,Deuel,South Dakota,US,1,0.0,1
+2020-04-13,Fall River,South Dakota,US,1,0.0,1
+2020-04-13,Faulk,South Dakota,US,1,0.0,1
+2020-04-13,Hamlin,South Dakota,US,1,0.0,1
+2020-04-13,Hughes,South Dakota,US,4,0.0,3
+2020-04-13,Hutchinson,South Dakota,US,2,0.0,2
+2020-04-13,Lake,South Dakota,US,2,0.0,1
+2020-04-13,Lawrence,South Dakota,US,9,0.0,8
+2020-04-13,Lincoln,South Dakota,US,39,0.0,17
+2020-04-13,Lyman,South Dakota,US,2,0.0,2
+2020-04-13,Marshall,South Dakota,US,1,0.0,1
+2020-04-13,McCook,South Dakota,US,2,1.0,1
+2020-04-13,Meade,South Dakota,US,1,0.0,1
+2020-04-13,Minnehaha,South Dakota,US,438,2.0,66
+2020-04-13,Pennington,South Dakota,US,8,1.0,5
+2020-04-13,Roberts,South Dakota,US,4,0.0,3
+2020-04-14,Aurora,South Dakota,US,1,0.0,1
+2020-04-14,Beadle,South Dakota,US,21,2.0,19
+2020-04-14,Bon Homme,South Dakota,US,3,0.0,2
+2020-04-14,Brookings,South Dakota,US,6,0.0,6
+2020-04-14,Charles Mix,South Dakota,US,3,0.0,1
+2020-04-14,Clark,South Dakota,US,1,0.0,1
+2020-04-14,Clay,South Dakota,US,6,0.0,3
+2020-04-14,Codington,South Dakota,US,12,0.0,11
+2020-04-14,Davison,South Dakota,US,3,0.0,3
+2020-04-14,Deuel,South Dakota,US,1,0.0,1
+2020-04-14,Fall River,South Dakota,US,1,0.0,1
+2020-04-14,Faulk,South Dakota,US,1,0.0,1
+2020-04-14,Hamlin,South Dakota,US,1,0.0,1
+2020-04-14,Hughes,South Dakota,US,4,0.0,3
+2020-04-14,Hutchinson,South Dakota,US,2,0.0,2
+2020-04-14,Lake,South Dakota,US,2,0.0,1
+2020-04-14,Lawrence,South Dakota,US,9,0.0,8
+2020-04-14,Lincoln,South Dakota,US,39,0.0,17
+2020-04-14,Lyman,South Dakota,US,2,0.0,2
+2020-04-14,Marshall,South Dakota,US,1,0.0,1
+2020-04-14,McCook,South Dakota,US,2,1.0,1
+2020-04-14,Meade,South Dakota,US,1,0.0,1
+2020-04-14,Minnehaha,South Dakota,US,438,2.0,66
+2020-04-14,Pennington,South Dakota,US,8,1.0,5
+2020-04-14,Roberts,South Dakota,US,4,0.0,3
+2020-03-20,Adams,Illinois,US,1,0.0,0
+2020-03-20,Champaign,Illinois,US,1,0.0,0
+2020-03-20,Christian,Illinois,US,1,0.0,0
+2020-03-20,Clinton,Illinois,US,3,0.0,0
+2020-03-20,Cook,Illinois,US,411,3.0,2
+2020-03-20,Cumberland,Illinois,US,1,0.0,0
+2020-03-20,DuPage,Illinois,US,57,0.0,0
+2020-03-20,Jackson,Illinois,US,1,0.0,0
+2020-03-20,Kane,Illinois,US,8,0.0,0
+2020-03-20,Kankakee,Illinois,US,1,0.0,0
+2020-03-20,Kendall,Illinois,US,2,0.0,0
+2020-03-20,Lake,Illinois,US,53,0.0,0
+2020-03-20,LaSalle,Illinois,US,1,0.0,0
+2020-03-20,Madison,Illinois,US,1,0.0,0
+2020-03-20,McHenry,Illinois,US,8,0.0,0
+2020-03-20,McLean,Illinois,US,4,0.0,0
+2020-03-20,Peoria,Illinois,US,3,0.0,0
+2020-03-20,Sangamon,Illinois,US,4,1.0,0
+2020-03-20,St. Clair,Illinois,US,3,0.0,0
+2020-03-20,Washington,Illinois,US,1,0.0,0
+2020-03-20,Whiteside,Illinois,US,1,0.0,0
+2020-03-20,Will,Illinois,US,10,1.0,0
+2020-03-20,Williamson,Illinois,US,1,0.0,0
+2020-03-20,Winnebago,Illinois,US,2,0.0,0
+2020-03-21,Adams,Illinois,US,0,1.0,0
+2020-03-21,Champaign,Illinois,US,0,1.0,0
+2020-03-21,Christian,Illinois,US,0,1.0,0
+2020-03-21,Clinton,Illinois,US,0,3.0,0
+2020-03-21,Cook,Illinois,US,2,542.0,4
+2020-03-21,Cumberland,Illinois,US,0,1.0,0
+2020-03-21,DeKalb,Illinois,US,0,1.0,0
+2020-03-21,DuPage,Illinois,US,0,65.0,0
+2020-03-21,Jackson,Illinois,US,0,1.0,0
+2020-03-21,Kane,Illinois,US,0,8.0,0
+2020-03-21,Kankakee,Illinois,US,0,2.0,0
+2020-03-21,Kendall,Illinois,US,0,2.0,0
+2020-03-21,Lake,Illinois,US,0,63.0,0
+2020-03-21,LaSalle,Illinois,US,0,1.0,0
+2020-03-21,Madison,Illinois,US,0,2.0,0
+2020-03-21,McHenry,Illinois,US,0,11.0,0
+2020-03-21,McLean,Illinois,US,0,6.0,0
+2020-03-21,Peoria,Illinois,US,0,3.0,0
+2020-03-21,Sangamon,Illinois,US,0,3.0,1
+2020-03-21,St. Clair,Illinois,US,0,3.0,0
+2020-03-21,Washington,Illinois,US,0,1.0,0
+2020-03-21,Whiteside,Illinois,US,0,1.0,0
+2020-03-21,Will,Illinois,US,0,11.0,1
+2020-03-21,Williamson,Illinois,US,0,1.0,0
+2020-03-21,Winnebago,Illinois,US,0,4.0,0
+2020-03-22,Adams,Illinois,US,0,1.0,0
+2020-03-22,Champaign,Illinois,US,0,2.0,0
+2020-03-22,Christian,Illinois,US,0,1.0,0
+2020-03-22,Clinton,Illinois,US,0,3.0,0
+2020-03-22,Cook,Illinois,US,2,797.0,6
+2020-03-22,Cumberland,Illinois,US,0,1.0,0
+2020-03-22,DeKalb,Illinois,US,0,1.0,0
+2020-03-22,DuPage,Illinois,US,0,79.0,0
+2020-03-22,Jackson,Illinois,US,0,1.0,0
+2020-03-22,Jo Daviess,Illinois,US,0,1.0,0
+2020-03-22,Kane,Illinois,US,0,13.0,0
+2020-03-22,Kankakee,Illinois,US,0,2.0,0
+2020-03-22,Kendall,Illinois,US,0,4.0,0
+2020-03-22,Lake,Illinois,US,0,69.0,0
+2020-03-22,LaSalle,Illinois,US,0,1.0,0
+2020-03-22,Livingston,Illinois,US,0,1.0,0
+2020-03-22,Madison,Illinois,US,0,2.0,0
+2020-03-22,McHenry,Illinois,US,0,12.0,0
+2020-03-22,McLean,Illinois,US,0,5.0,1
+2020-03-22,Peoria,Illinois,US,0,3.0,0
+2020-03-22,Rock Island,Illinois,US,0,1.0,0
+2020-03-22,Sangamon,Illinois,US,0,3.0,1
+2020-03-22,St. Clair,Illinois,US,0,3.0,0
+2020-03-22,Stephenson,Illinois,US,0,1.0,0
+2020-03-22,Washington,Illinois,US,0,1.0,0
+2020-03-22,Whiteside,Illinois,US,0,1.0,0
+2020-03-22,Will,Illinois,US,0,21.0,1
+2020-03-22,Williamson,Illinois,US,0,1.0,0
+2020-03-22,Winnebago,Illinois,US,0,4.0,0
+2020-03-23,Adams,Illinois,US,0,1.0,0
+2020-03-23,Champaign,Illinois,US,0,2.0,0
+2020-03-23,Christian,Illinois,US,0,1.0,0
+2020-03-23,Clinton,Illinois,US,0,3.0,0
+2020-03-23,Cook,Illinois,US,2,911.0,9
+2020-03-23,Cumberland,Illinois,US,0,1.0,0
+2020-03-23,DeKalb,Illinois,US,0,1.0,0
+2020-03-23,DuPage,Illinois,US,0,95.0,0
+2020-03-23,Jackson,Illinois,US,0,1.0,0
+2020-03-23,Jo Daviess,Illinois,US,0,1.0,0
+2020-03-23,Kane,Illinois,US,0,18.0,0
+2020-03-23,Kankakee,Illinois,US,0,3.0,0
+2020-03-23,Kendall,Illinois,US,0,4.0,0
+2020-03-23,Lake,Illinois,US,0,96.0,0
+2020-03-23,LaSalle,Illinois,US,0,2.0,0
+2020-03-23,Livingston,Illinois,US,0,1.0,0
+2020-03-23,Madison,Illinois,US,0,2.0,0
+2020-03-23,McHenry,Illinois,US,0,12.0,0
+2020-03-23,McLean,Illinois,US,0,6.0,1
+2020-03-23,Monroe,Illinois,US,0,1.0,0
+2020-03-23,Peoria,Illinois,US,0,3.0,0
+2020-03-23,Rock Island,Illinois,US,0,1.0,0
+2020-03-23,Sangamon,Illinois,US,0,3.0,1
+2020-03-23,St. Clair,Illinois,US,0,4.0,0
+2020-03-23,Stephenson,Illinois,US,0,1.0,0
+2020-03-23,Washington,Illinois,US,0,1.0,0
+2020-03-23,Whiteside,Illinois,US,0,1.0,0
+2020-03-23,Will,Illinois,US,0,23.0,1
+2020-03-23,Williamson,Illinois,US,0,1.0,0
+2020-03-23,Winnebago,Illinois,US,0,5.0,0
+2020-03-24,Adams,Illinois,US,0,1.0,0
+2020-03-24,Champaign,Illinois,US,0,2.0,0
+2020-03-24,Christian,Illinois,US,0,1.0,0
+2020-03-24,Clinton,Illinois,US,0,3.0,0
+2020-03-24,Cook,Illinois,US,2,1180.0,12
+2020-03-24,Cumberland,Illinois,US,0,1.0,0
+2020-03-24,DeKalb,Illinois,US,0,1.0,0
+2020-03-24,DuPage,Illinois,US,0,102.0,1
+2020-03-24,Grundy,Illinois,US,0,1.0,0
+2020-03-24,Jackson,Illinois,US,0,1.0,0
+2020-03-24,Jo Daviess,Illinois,US,0,1.0,0
+2020-03-24,Kane,Illinois,US,0,24.0,0
+2020-03-24,Kankakee,Illinois,US,0,4.0,0
+2020-03-24,Kendall,Illinois,US,0,4.0,0
+2020-03-24,Lake,Illinois,US,0,111.0,0
+2020-03-24,LaSalle,Illinois,US,0,3.0,0
+2020-03-24,Livingston,Illinois,US,0,1.0,0
+2020-03-24,Madison,Illinois,US,0,2.0,0
+2020-03-24,McHenry,Illinois,US,0,14.0,0
+2020-03-24,McLean,Illinois,US,0,6.0,1
+2020-03-24,Monroe,Illinois,US,0,1.0,0
+2020-03-24,Peoria,Illinois,US,0,3.0,0
+2020-03-24,Rock Island,Illinois,US,0,1.0,0
+2020-03-24,Sangamon,Illinois,US,0,4.0,1
+2020-03-24,St. Clair,Illinois,US,0,7.0,0
+2020-03-24,Stephenson,Illinois,US,0,1.0,0
+2020-03-24,Washington,Illinois,US,0,1.0,0
+2020-03-24,Whiteside,Illinois,US,0,1.0,0
+2020-03-24,Will,Illinois,US,0,27.0,1
+2020-03-24,Williamson,Illinois,US,0,1.0,0
+2020-03-24,Winnebago,Illinois,US,0,5.0,0
+2020-03-25,Adams,Illinois,US,0,1.0,0
+2020-03-25,Champaign,Illinois,US,0,4.0,0
+2020-03-25,Christian,Illinois,US,0,1.0,0
+2020-03-25,Clinton,Illinois,US,0,4.0,0
+2020-03-25,Cook,Illinois,US,2,1403.0,13
+2020-03-25,Cumberland,Illinois,US,0,1.0,0
+2020-03-25,DeKalb,Illinois,US,0,1.0,0
+2020-03-25,Douglas,Illinois,US,0,1.0,0
+2020-03-25,DuPage,Illinois,US,0,130.0,1
+2020-03-25,Grundy,Illinois,US,0,1.0,0
+2020-03-25,Jackson,Illinois,US,0,1.0,0
+2020-03-25,Jo Daviess,Illinois,US,0,1.0,0
+2020-03-25,Kane,Illinois,US,0,37.0,1
+2020-03-25,Kankakee,Illinois,US,0,6.0,0
+2020-03-25,Kendall,Illinois,US,0,6.0,0
+2020-03-25,Lake,Illinois,US,0,139.0,0
+2020-03-25,LaSalle,Illinois,US,0,3.0,0
+2020-03-25,Livingston,Illinois,US,0,1.0,0
+2020-03-25,Logan,Illinois,US,0,1.0,0
+2020-03-25,Madison,Illinois,US,0,3.0,0
+2020-03-25,Marshall,Illinois,US,0,1.0,0
+2020-03-25,McHenry,Illinois,US,0,19.0,0
+2020-03-25,McLean,Illinois,US,0,6.0,1
+2020-03-25,Monroe,Illinois,US,0,2.0,0
+2020-03-25,Morgan,Illinois,US,0,1.0,0
+2020-03-25,Peoria,Illinois,US,0,4.0,0
+2020-03-25,Rock Island,Illinois,US,0,3.0,0
+2020-03-25,Sangamon,Illinois,US,0,4.0,1
+2020-03-25,St. Clair,Illinois,US,0,7.0,0
+2020-03-25,Stephenson,Illinois,US,0,1.0,0
+2020-03-25,Washington,Illinois,US,0,1.0,0
+2020-03-25,Whiteside,Illinois,US,0,1.0,0
+2020-03-25,Will,Illinois,US,0,39.0,2
+2020-03-25,Williamson,Illinois,US,0,1.0,0
+2020-03-25,Winnebago,Illinois,US,0,6.0,0
+2020-03-26,Adams,Illinois,US,0,1.0,0
+2020-03-26,Champaign,Illinois,US,0,8.0,0
+2020-03-26,Christian,Illinois,US,0,1.0,0
+2020-03-26,Clinton,Illinois,US,0,5.0,0
+2020-03-26,Cook,Illinois,US,2,1884.0,18
+2020-03-26,Cumberland,Illinois,US,0,1.0,0
+2020-03-26,DeKalb,Illinois,US,0,3.0,0
+2020-03-26,Douglas,Illinois,US,0,1.0,0
+2020-03-26,DuPage,Illinois,US,0,181.0,1
+2020-03-26,Franklin,Illinois,US,0,1.0,0
+2020-03-26,Grundy,Illinois,US,0,2.0,0
+2020-03-26,Jackson,Illinois,US,0,1.0,0
+2020-03-26,Jo Daviess,Illinois,US,0,1.0,0
+2020-03-26,Kane,Illinois,US,0,56.0,1
+2020-03-26,Kankakee,Illinois,US,0,15.0,0
+2020-03-26,Kendall,Illinois,US,0,7.0,0
+2020-03-26,Lake,Illinois,US,0,185.0,0
+2020-03-26,LaSalle,Illinois,US,0,3.0,0
+2020-03-26,Livingston,Illinois,US,0,1.0,0
+2020-03-26,Madison,Illinois,US,0,6.0,0
+2020-03-26,Marshall,Illinois,US,0,1.0,0
+2020-03-26,McHenry,Illinois,US,0,26.0,1
+2020-03-26,McLean,Illinois,US,0,6.0,1
+2020-03-26,Monroe,Illinois,US,0,3.0,0
+2020-03-26,Morgan,Illinois,US,0,1.0,0
+2020-03-26,Peoria,Illinois,US,0,5.0,0
+2020-03-26,Rock Island,Illinois,US,0,4.0,0
+2020-03-26,Sangamon,Illinois,US,0,6.0,1
+2020-03-26,St. Clair,Illinois,US,0,13.0,0
+2020-03-26,Stephenson,Illinois,US,0,2.0,0
+2020-03-26,Tazewell,Illinois,US,0,2.0,0
+2020-03-26,Washington,Illinois,US,0,1.0,0
+2020-03-26,Whiteside,Illinois,US,0,1.0,0
+2020-03-26,Will,Illinois,US,0,64.0,3
+2020-03-26,Williamson,Illinois,US,0,1.0,0
+2020-03-26,Winnebago,Illinois,US,0,8.0,0
+2020-03-27,Adams,Illinois,US,0,1.0,0
+2020-03-27,Bureau,Illinois,US,0,1.0,0
+2020-03-27,Champaign,Illinois,US,0,10.0,0
+2020-03-27,Christian,Illinois,US,0,1.0,0
+2020-03-27,Clinton,Illinois,US,0,5.0,0
+2020-03-27,Cook,Illinois,US,2,2217.0,20
+2020-03-27,Cumberland,Illinois,US,0,1.0,0
+2020-03-27,DeKalb,Illinois,US,0,4.0,0
+2020-03-27,Douglas,Illinois,US,0,1.0,0
+2020-03-27,DuPage,Illinois,US,0,193.0,6
+2020-03-27,Franklin,Illinois,US,0,1.0,0
+2020-03-27,Grundy,Illinois,US,0,2.0,0
+2020-03-27,Henry,Illinois,US,0,1.0,0
+2020-03-27,Iroquois,Illinois,US,0,1.0,0
+2020-03-27,Jackson,Illinois,US,0,1.0,0
+2020-03-27,Jo Daviess,Illinois,US,0,1.0,0
+2020-03-27,Kane,Illinois,US,0,73.0,2
+2020-03-27,Kankakee,Illinois,US,0,17.0,0
+2020-03-27,Kendall,Illinois,US,0,8.0,0
+2020-03-27,Lake,Illinois,US,0,230.0,0
+2020-03-27,LaSalle,Illinois,US,0,3.0,0
+2020-03-27,Livingston,Illinois,US,0,2.0,0
+2020-03-27,Madison,Illinois,US,0,8.0,0
+2020-03-27,Marshall,Illinois,US,0,1.0,0
+2020-03-27,McHenry,Illinois,US,0,44.0,1
+2020-03-27,McLean,Illinois,US,0,9.0,1
+2020-03-27,Monroe,Illinois,US,0,3.0,0
+2020-03-27,Morgan,Illinois,US,0,1.0,0
+2020-03-27,Peoria,Illinois,US,0,6.0,0
+2020-03-27,Rock Island,Illinois,US,0,4.0,0
+2020-03-27,Sangamon,Illinois,US,0,6.0,1
+2020-03-27,St. Clair,Illinois,US,0,15.0,0
+2020-03-27,Stephenson,Illinois,US,0,2.0,0
+2020-03-27,Tazewell,Illinois,US,0,2.0,0
+2020-03-27,Washington,Illinois,US,0,1.0,0
+2020-03-27,Whiteside,Illinois,US,0,2.0,0
+2020-03-27,Will,Illinois,US,0,101.0,3
+2020-03-27,Williamson,Illinois,US,0,1.0,0
+2020-03-27,Winnebago,Illinois,US,0,8.0,0
+2020-03-28,Adams,Illinois,US,0,1.0,0
+2020-03-28,Bureau,Illinois,US,0,1.0,0
+2020-03-28,Carroll,Illinois,US,0,1.0,0
+2020-03-28,Champaign,Illinois,US,0,11.0,0
+2020-03-28,Christian,Illinois,US,0,1.0,0
+2020-03-28,Clinton,Illinois,US,0,5.0,0
+2020-03-28,Cook,Illinois,US,2,2583.0,28
+2020-03-28,Cumberland,Illinois,US,0,1.0,0
+2020-03-28,DeKalb,Illinois,US,0,4.0,0
+2020-03-28,Douglas,Illinois,US,0,1.0,0
+2020-03-28,DuPage,Illinois,US,0,196.0,6
+2020-03-28,Fayette,Illinois,US,0,1.0,0
+2020-03-28,Franklin,Illinois,US,0,1.0,0
+2020-03-28,Grundy,Illinois,US,0,2.0,0
+2020-03-28,Henry,Illinois,US,0,2.0,0
+2020-03-28,Iroquois,Illinois,US,0,1.0,0
+2020-03-28,Jackson,Illinois,US,0,2.0,0
+2020-03-28,Jo Daviess,Illinois,US,0,1.0,0
+2020-03-28,Kane,Illinois,US,0,86.0,4
+2020-03-28,Kankakee,Illinois,US,0,27.0,0
+2020-03-28,Kendall,Illinois,US,0,11.0,0
+2020-03-28,Lake,Illinois,US,0,240.0,0
+2020-03-28,LaSalle,Illinois,US,0,3.0,0
+2020-03-28,Livingston,Illinois,US,0,2.0,0
+2020-03-28,Macon,Illinois,US,0,1.0,0
+2020-03-28,Madison,Illinois,US,0,10.0,0
+2020-03-28,Marshall,Illinois,US,0,1.0,0
+2020-03-28,McHenry,Illinois,US,0,45.0,2
+2020-03-28,McLean,Illinois,US,0,9.0,1
+2020-03-28,Monroe,Illinois,US,0,3.0,0
+2020-03-28,Morgan,Illinois,US,0,1.0,0
+2020-03-28,Peoria,Illinois,US,0,7.0,0
+2020-03-28,Rock Island,Illinois,US,0,4.0,0
+2020-03-28,Sangamon,Illinois,US,0,7.0,1
+2020-03-28,St. Clair,Illinois,US,0,18.0,0
+2020-03-28,Stephenson,Illinois,US,0,2.0,0
+2020-03-28,Tazewell,Illinois,US,0,3.0,0
+2020-03-28,Washington,Illinois,US,0,1.0,0
+2020-03-28,Whiteside,Illinois,US,0,2.0,0
+2020-03-28,Will,Illinois,US,0,123.0,4
+2020-03-28,Williamson,Illinois,US,0,1.0,0
+2020-03-28,Winnebago,Illinois,US,0,9.0,0
+2020-03-29,Adams,Illinois,US,0,2.0,0
+2020-03-29,Bond,Illinois,US,0,1.0,0
+2020-03-29,Bureau,Illinois,US,0,1.0,0
+2020-03-29,Carroll,Illinois,US,0,1.0,0
+2020-03-29,Champaign,Illinois,US,0,21.0,0
+2020-03-29,Christian,Illinois,US,0,6.0,0
+2020-03-29,Clinton,Illinois,US,0,6.0,0
+2020-03-29,Cook,Illinois,US,2,3403.0,40
+2020-03-29,Cumberland,Illinois,US,0,1.0,0
+2020-03-29,DeKalb,Illinois,US,0,4.0,0
+2020-03-29,Douglas,Illinois,US,0,1.0,0
+2020-03-29,DuPage,Illinois,US,0,267.0,6
+2020-03-29,Fayette,Illinois,US,0,1.0,0
+2020-03-29,Franklin,Illinois,US,0,2.0,0
+2020-03-29,Grundy,Illinois,US,0,3.0,0
+2020-03-29,Henry,Illinois,US,0,2.0,0
+2020-03-29,Iroquois,Illinois,US,0,1.0,0
+2020-03-29,Jackson,Illinois,US,0,3.0,0
+2020-03-29,Jo Daviess,Illinois,US,0,1.0,0
+2020-03-29,Kane,Illinois,US,0,96.0,4
+2020-03-29,Kankakee,Illinois,US,0,33.0,0
+2020-03-29,Kendall,Illinois,US,0,11.0,0
+2020-03-29,Knox,Illinois,US,0,1.0,0
+2020-03-29,Lake,Illinois,US,1,299.0,0
+2020-03-29,LaSalle,Illinois,US,0,3.0,1
+2020-03-29,Livingston,Illinois,US,0,2.0,0
+2020-03-29,Macon,Illinois,US,0,2.0,0
+2020-03-29,Madison,Illinois,US,0,12.0,0
+2020-03-29,Marshall,Illinois,US,0,1.0,0
+2020-03-29,McHenry,Illinois,US,0,50.0,2
+2020-03-29,McLean,Illinois,US,0,13.0,1
+2020-03-29,Menard,Illinois,US,0,1.0,0
+2020-03-29,Monroe,Illinois,US,0,3.0,0
+2020-03-29,Morgan,Illinois,US,0,1.0,0
+2020-03-29,Peoria,Illinois,US,0,8.0,0
+2020-03-29,Rock Island,Illinois,US,0,5.0,0
+2020-03-29,Sangamon,Illinois,US,0,8.0,1
+2020-03-29,St. Clair,Illinois,US,0,30.0,1
+2020-03-29,Stephenson,Illinois,US,0,3.0,0
+2020-03-29,Tazewell,Illinois,US,0,4.0,0
+2020-03-29,Washington,Illinois,US,0,1.0,0
+2020-03-29,Whiteside,Illinois,US,0,3.0,0
+2020-03-29,Will,Illinois,US,0,178.0,4
+2020-03-29,Williamson,Illinois,US,0,1.0,0
+2020-03-29,Winnebago,Illinois,US,0,12.0,0
+2020-03-30,Adams,Illinois,US,0,2.0,0
+2020-03-30,Bond,Illinois,US,0,1.0,0
+2020-03-30,Bureau,Illinois,US,0,1.0,0
+2020-03-30,Carroll,Illinois,US,0,1.0,0
+2020-03-30,Champaign,Illinois,US,0,23.0,0
+2020-03-30,Christian,Illinois,US,0,12.0,0
+2020-03-30,Clark,Illinois,US,0,1.0,0
+2020-03-30,Clinton,Illinois,US,0,6.0,0
+2020-03-30,Cook,Illinois,US,2,3681.0,44
+2020-03-30,Crawford,Illinois,US,0,1.0,0
+2020-03-30,Cumberland,Illinois,US,0,1.0,0
+2020-03-30,DeKalb,Illinois,US,0,4.0,0
+2020-03-30,Douglas,Illinois,US,0,1.0,0
+2020-03-30,DuPage,Illinois,US,0,312.0,8
+2020-03-30,Fayette,Illinois,US,0,1.0,0
+2020-03-30,Franklin,Illinois,US,0,1.0,0
+2020-03-30,Grundy,Illinois,US,0,3.0,0
+2020-03-30,Henry,Illinois,US,0,2.0,0
+2020-03-30,Iroquois,Illinois,US,0,1.0,0
+2020-03-30,Jackson,Illinois,US,0,3.0,0
+2020-03-30,Jo Daviess,Illinois,US,0,1.0,0
+2020-03-30,Kane,Illinois,US,0,107.0,6
+2020-03-30,Kankakee,Illinois,US,0,33.0,0
+2020-03-30,Kendall,Illinois,US,0,16.0,2
+2020-03-30,Knox,Illinois,US,0,1.0,0
+2020-03-30,Lake,Illinois,US,0,342.0,1
+2020-03-30,LaSalle,Illinois,US,0,4.0,1
+2020-03-30,Livingston,Illinois,US,0,2.0,0
+2020-03-30,Macon,Illinois,US,0,2.0,0
+2020-03-30,Madison,Illinois,US,0,13.0,0
+2020-03-30,Marion,Illinois,US,0,2.0,0
+2020-03-30,Marshall,Illinois,US,0,1.0,0
+2020-03-30,McHenry,Illinois,US,0,50.0,2
+2020-03-30,McLean,Illinois,US,0,16.0,1
+2020-03-30,Menard,Illinois,US,0,1.0,0
+2020-03-30,Monroe,Illinois,US,0,3.0,0
+2020-03-30,Morgan,Illinois,US,0,4.0,0
+2020-03-30,Peoria,Illinois,US,0,8.0,0
+2020-03-30,Randolph,Illinois,US,0,2.0,0
+2020-03-30,Rock Island,Illinois,US,0,8.0,0
+2020-03-30,Saline,Illinois,US,0,1.0,0
+2020-03-30,Sangamon,Illinois,US,0,11.0,1
+2020-03-30,St. Clair,Illinois,US,0,35.0,1
+2020-03-30,Stephenson,Illinois,US,0,3.0,0
+2020-03-30,Tazewell,Illinois,US,0,4.0,0
+2020-03-30,Washington,Illinois,US,0,1.0,0
+2020-03-30,Whiteside,Illinois,US,0,4.0,0
+2020-03-30,Will,Illinois,US,0,218.0,5
+2020-03-30,Williamson,Illinois,US,0,1.0,0
+2020-03-30,Winnebago,Illinois,US,0,13.0,0
+2020-03-31,Adams,Illinois,US,0,2.0,0
+2020-03-31,Bond,Illinois,US,0,2.0,0
+2020-03-31,Bureau,Illinois,US,0,1.0,0
+2020-03-31,Carroll,Illinois,US,0,2.0,0
+2020-03-31,Champaign,Illinois,US,0,26.0,0
+2020-03-31,Christian,Illinois,US,0,13.0,0
+2020-03-31,Clark,Illinois,US,0,1.0,0
+2020-03-31,Clinton,Illinois,US,0,7.0,0
+2020-03-31,Cook,Illinois,US,2,4435.0,61
+2020-03-31,Crawford,Illinois,US,0,1.0,0
+2020-03-31,Cumberland,Illinois,US,0,1.0,0
+2020-03-31,DeKalb,Illinois,US,0,9.0,0
+2020-03-31,Douglas,Illinois,US,0,3.0,0
+2020-03-31,DuPage,Illinois,US,0,346.0,10
+2020-03-31,Fayette,Illinois,US,0,1.0,0
+2020-03-31,Ford,Illinois,US,0,1.0,0
+2020-03-31,Franklin,Illinois,US,0,1.0,0
+2020-03-31,Grundy,Illinois,US,0,4.0,0
+2020-03-31,Henry,Illinois,US,0,2.0,0
+2020-03-31,Iroquois,Illinois,US,0,1.0,0
+2020-03-31,Jackson,Illinois,US,0,4.0,0
+2020-03-31,Jo Daviess,Illinois,US,0,1.0,0
+2020-03-31,Kane,Illinois,US,0,121.0,7
+2020-03-31,Kankakee,Illinois,US,0,42.0,0
+2020-03-31,Kendall,Illinois,US,0,17.0,2
+2020-03-31,Knox,Illinois,US,0,1.0,0
+2020-03-31,Lake,Illinois,US,0,387.0,2
+2020-03-31,LaSalle,Illinois,US,0,4.0,1
+2020-03-31,Livingston,Illinois,US,0,3.0,0
+2020-03-31,Macon,Illinois,US,0,2.0,0
+2020-03-31,Madison,Illinois,US,0,16.0,0
+2020-03-31,Marion,Illinois,US,0,2.0,0
+2020-03-31,Marshall,Illinois,US,0,1.0,0
+2020-03-31,McHenry,Illinois,US,0,61.0,2
+2020-03-31,McLean,Illinois,US,0,17.0,2
+2020-03-31,Menard,Illinois,US,0,1.0,0
+2020-03-31,Monroe,Illinois,US,0,3.0,0
+2020-03-31,Montgomery,Illinois,US,0,2.0,0
+2020-03-31,Morgan,Illinois,US,0,3.0,1
+2020-03-31,Ogle,Illinois,US,0,1.0,0
+2020-03-31,Peoria,Illinois,US,0,8.0,0
+2020-03-31,Randolph,Illinois,US,0,3.0,0
+2020-03-31,Rock Island,Illinois,US,0,11.0,0
+2020-03-31,Saline,Illinois,US,0,1.0,0
+2020-03-31,Sangamon,Illinois,US,0,13.0,1
+2020-03-31,St. Clair,Illinois,US,0,41.0,2
+2020-03-31,Stephenson,Illinois,US,0,3.0,0
+2020-03-31,Tazewell,Illinois,US,0,4.0,0
+2020-03-31,Washington,Illinois,US,0,1.0,0
+2020-03-31,Whiteside,Illinois,US,0,5.0,0
+2020-03-31,Will,Illinois,US,0,220.0,8
+2020-03-31,Williamson,Illinois,US,0,1.0,0
+2020-03-31,Winnebago,Illinois,US,0,15.0,0
+2020-04-01,Adams,Illinois,US,0,2.0,0
+2020-04-01,Bond,Illinois,US,0,2.0,0
+2020-04-01,Bureau,Illinois,US,0,2.0,0
+2020-04-01,Carroll,Illinois,US,0,3.0,1
+2020-04-01,Champaign,Illinois,US,0,33.0,0
+2020-04-01,Christian,Illinois,US,0,14.0,0
+2020-04-01,Clark,Illinois,US,0,1.0,0
+2020-04-01,Clinton,Illinois,US,0,8.0,0
+2020-04-01,Cook,Illinois,US,2,5055.0,95
+2020-04-01,Crawford,Illinois,US,0,1.0,0
+2020-04-01,Cumberland,Illinois,US,0,1.0,0
+2020-04-01,DeKalb,Illinois,US,0,14.0,0
+2020-04-01,Douglas,Illinois,US,0,8.0,0
+2020-04-01,DuPage,Illinois,US,0,380.0,12
+2020-04-01,Fayette,Illinois,US,0,2.0,0
+2020-04-01,Ford,Illinois,US,0,1.0,0
+2020-04-01,Franklin,Illinois,US,0,1.0,0
+2020-04-01,Grundy,Illinois,US,0,4.0,0
+2020-04-01,Henry,Illinois,US,0,3.0,0
+2020-04-01,Iroquois,Illinois,US,0,1.0,0
+2020-04-01,Jackson,Illinois,US,0,4.0,0
+2020-04-01,Jo Daviess,Illinois,US,0,3.0,0
+2020-04-01,Kane,Illinois,US,0,134.0,8
+2020-04-01,Kankakee,Illinois,US,0,51.0,0
+2020-04-01,Kendall,Illinois,US,0,25.0,2
+2020-04-01,Knox,Illinois,US,0,1.0,0
+2020-04-01,Lake,Illinois,US,0,474.0,3
+2020-04-01,LaSalle,Illinois,US,0,5.0,1
+2020-04-01,Livingston,Illinois,US,0,5.0,0
+2020-04-01,Macon,Illinois,US,0,2.0,0
+2020-04-01,Madison,Illinois,US,0,25.0,0
+2020-04-01,Marion,Illinois,US,0,2.0,0
+2020-04-01,Marshall,Illinois,US,0,1.0,0
+2020-04-01,Massac,Illinois,US,0,1.0,0
+2020-04-01,McHenry,Illinois,US,0,67.0,2
+2020-04-01,McLean,Illinois,US,0,17.0,2
+2020-04-01,Menard,Illinois,US,0,1.0,0
+2020-04-01,Monroe,Illinois,US,0,3.0,0
+2020-04-01,Montgomery,Illinois,US,0,2.0,0
+2020-04-01,Morgan,Illinois,US,0,4.0,1
+2020-04-01,Ogle,Illinois,US,0,1.0,0
+2020-04-01,Peoria,Illinois,US,0,10.0,0
+2020-04-01,Randolph,Illinois,US,0,7.0,0
+2020-04-01,Rock Island,Illinois,US,0,15.0,2
+2020-04-01,Saline,Illinois,US,0,1.0,0
+2020-04-01,Sangamon,Illinois,US,0,13.0,1
+2020-04-01,St. Clair,Illinois,US,0,51.0,2
+2020-04-01,Stephenson,Illinois,US,0,3.0,0
+2020-04-01,Tazewell,Illinois,US,0,4.0,0
+2020-04-01,Vermilion,Illinois,US,0,1.0,0
+2020-04-01,Washington,Illinois,US,0,1.0,0
+2020-04-01,Whiteside,Illinois,US,0,5.0,0
+2020-04-01,Will,Illinois,US,0,313.0,9
+2020-04-01,Williamson,Illinois,US,0,1.0,0
+2020-04-01,Winnebago,Illinois,US,0,17.0,1
+2020-04-02,Adams,Illinois,US,0,2.0,0
+2020-04-02,Bond,Illinois,US,0,2.0,0
+2020-04-02,Bureau,Illinois,US,0,2.0,0
+2020-04-02,Carroll,Illinois,US,0,3.0,1
+2020-04-02,Champaign,Illinois,US,0,43.0,0
+2020-04-02,Christian,Illinois,US,0,14.0,1
+2020-04-02,Clark,Illinois,US,0,2.0,0
+2020-04-02,Clinton,Illinois,US,0,8.0,0
+2020-04-02,Cook,Illinois,US,2,5466.0,107
+2020-04-02,Crawford,Illinois,US,0,1.0,0
+2020-04-02,Cumberland,Illinois,US,0,1.0,0
+2020-04-02,DeKalb,Illinois,US,0,16.0,0
+2020-04-02,Douglas,Illinois,US,0,8.0,0
+2020-04-02,DuPage,Illinois,US,0,434.0,14
+2020-04-02,Fayette,Illinois,US,0,2.0,0
+2020-04-02,Ford,Illinois,US,0,1.0,0
+2020-04-02,Franklin,Illinois,US,0,1.0,0
+2020-04-02,Grundy,Illinois,US,0,5.0,0
+2020-04-02,Henry,Illinois,US,0,4.0,0
+2020-04-02,Iroquois,Illinois,US,0,1.0,0
+2020-04-02,Jackson,Illinois,US,0,6.0,0
+2020-04-02,Jo Daviess,Illinois,US,0,3.0,0
+2020-04-02,Kane,Illinois,US,0,146.0,8
+2020-04-02,Kankakee,Illinois,US,0,55.0,0
+2020-04-02,Kendall,Illinois,US,0,34.0,2
+2020-04-02,Knox,Illinois,US,0,1.0,0
+2020-04-02,Lake,Illinois,US,0,537.0,3
+2020-04-02,LaSalle,Illinois,US,0,5.0,1
+2020-04-02,Livingston,Illinois,US,0,5.0,0
+2020-04-02,Logan,Illinois,US,0,1.0,0
+2020-04-02,Macon,Illinois,US,0,2.0,0
+2020-04-02,Macoupin,Illinois,US,0,1.0,0
+2020-04-02,Madison,Illinois,US,0,29.0,0
+2020-04-02,Marion,Illinois,US,0,2.0,0
+2020-04-02,Marshall,Illinois,US,0,1.0,0
+2020-04-02,Massac,Illinois,US,0,1.0,0
+2020-04-02,McHenry,Illinois,US,0,78.0,3
+2020-04-02,McLean,Illinois,US,0,17.0,2
+2020-04-02,Menard,Illinois,US,0,1.0,0
+2020-04-02,Mercer,Illinois,US,0,1.0,0
+2020-04-02,Monroe,Illinois,US,0,4.0,0
+2020-04-02,Montgomery,Illinois,US,0,2.0,0
+2020-04-02,Morgan,Illinois,US,0,4.0,1
+2020-04-02,Moultrie,Illinois,US,0,1.0,0
+2020-04-02,Ogle,Illinois,US,0,1.0,0
+2020-04-02,Peoria,Illinois,US,0,11.0,0
+2020-04-02,Piatt,Illinois,US,0,1.0,0
+2020-04-02,Randolph,Illinois,US,0,8.0,0
+2020-04-02,Rock Island,Illinois,US,0,19.0,2
+2020-04-02,Saline,Illinois,US,0,1.0,0
+2020-04-02,Sangamon,Illinois,US,0,16.0,2
+2020-04-02,St. Clair,Illinois,US,0,53.0,2
+2020-04-02,Stephenson,Illinois,US,0,3.0,0
+2020-04-02,Tazewell,Illinois,US,0,5.0,0
+2020-04-02,Vermilion,Illinois,US,0,2.0,0
+2020-04-02,Washington,Illinois,US,0,1.0,0
+2020-04-02,Whiteside,Illinois,US,0,5.0,1
+2020-04-02,Will,Illinois,US,0,375.0,9
+2020-04-02,Williamson,Illinois,US,0,1.0,0
+2020-04-02,Winnebago,Illinois,US,0,23.0,1
+2020-04-03,Adams,Illinois,US,0,2.0,0
+2020-04-03,Bond,Illinois,US,0,3.0,0
+2020-04-03,Bureau,Illinois,US,0,2.0,0
+2020-04-03,Carroll,Illinois,US,0,3.0,1
+2020-04-03,Champaign,Illinois,US,0,51.0,0
+2020-04-03,Christian,Illinois,US,0,15.0,2
+2020-04-03,Clark,Illinois,US,0,2.0,0
+2020-04-03,Clinton,Illinois,US,0,8.0,0
+2020-04-03,Cook,Illinois,US,2,5970.0,141
+2020-04-03,Crawford,Illinois,US,0,1.0,0
+2020-04-03,Cumberland,Illinois,US,0,1.0,0
+2020-04-03,DeKalb,Illinois,US,0,16.0,0
+2020-04-03,Douglas,Illinois,US,0,9.0,0
+2020-04-03,DuPage,Illinois,US,0,484.0,16
+2020-04-03,Effingham,Illinois,US,0,1.0,0
+2020-04-03,Fayette,Illinois,US,0,2.0,0
+2020-04-03,Ford,Illinois,US,0,1.0,0
+2020-04-03,Franklin,Illinois,US,0,1.0,0
+2020-04-03,Grundy,Illinois,US,0,7.0,0
+2020-04-03,Henry,Illinois,US,0,7.0,0
+2020-04-03,Iroquois,Illinois,US,0,4.0,0
+2020-04-03,Jackson,Illinois,US,0,8.0,0
+2020-04-03,Jersey,Illinois,US,0,1.0,0
+2020-04-03,Jo Daviess,Illinois,US,0,4.0,0
+2020-04-03,Kane,Illinois,US,0,167.0,8
+2020-04-03,Kankakee,Illinois,US,0,56.0,2
+2020-04-03,Kendall,Illinois,US,0,35.0,2
+2020-04-03,Knox,Illinois,US,0,1.0,0
+2020-04-03,Lake,Illinois,US,0,595.0,13
+2020-04-03,LaSalle,Illinois,US,0,5.0,1
+2020-04-03,Livingston,Illinois,US,0,6.0,0
+2020-04-03,Logan,Illinois,US,0,1.0,0
+2020-04-03,Macon,Illinois,US,0,2.0,0
+2020-04-03,Macoupin,Illinois,US,0,1.0,0
+2020-04-03,Madison,Illinois,US,0,31.0,0
+2020-04-03,Marion,Illinois,US,0,3.0,0
+2020-04-03,Marshall,Illinois,US,0,1.0,0
+2020-04-03,Massac,Illinois,US,0,1.0,0
+2020-04-03,McHenry,Illinois,US,0,99.0,3
+2020-04-03,McLean,Illinois,US,0,33.0,2
+2020-04-03,Menard,Illinois,US,0,1.0,0
+2020-04-03,Mercer,Illinois,US,0,1.0,0
+2020-04-03,Monroe,Illinois,US,0,8.0,0
+2020-04-03,Montgomery,Illinois,US,0,2.0,0
+2020-04-03,Morgan,Illinois,US,0,4.0,1
+2020-04-03,Moultrie,Illinois,US,0,1.0,0
+2020-04-03,Ogle,Illinois,US,0,1.0,0
+2020-04-03,Peoria,Illinois,US,0,11.0,0
+2020-04-03,Piatt,Illinois,US,0,1.0,0
+2020-04-03,Randolph,Illinois,US,0,12.0,0
+2020-04-03,Rock Island,Illinois,US,0,24.0,0
+2020-04-03,Saline,Illinois,US,0,1.0,0
+2020-04-03,Sangamon,Illinois,US,0,18.0,2
+2020-04-03,St. Clair,Illinois,US,0,55.0,2
+2020-04-03,Stephenson,Illinois,US,0,3.0,0
+2020-04-03,Tazewell,Illinois,US,0,7.0,0
+2020-04-03,Vermilion,Illinois,US,0,2.0,0
+2020-04-03,Washington,Illinois,US,0,1.0,0
+2020-04-03,Whiteside,Illinois,US,0,8.0,1
+2020-04-03,Will,Illinois,US,0,445.0,10
+2020-04-03,Williamson,Illinois,US,0,2.0,0
+2020-04-04,Adams,Illinois,US,0,3.0,0
+2020-04-04,Bond,Illinois,US,0,3.0,0
+2020-04-04,Bureau,Illinois,US,0,2.0,0
+2020-04-04,Carroll,Illinois,US,0,3.0,1
+2020-04-04,Champaign,Illinois,US,0,52.0,0
+2020-04-04,Christian,Illinois,US,0,15.0,2
+2020-04-04,Clark,Illinois,US,0,2.0,0
+2020-04-04,Clinton,Illinois,US,0,10.0,0
+2020-04-04,Cook,Illinois,US,2,7270.0,167
+2020-04-04,Crawford,Illinois,US,0,2.0,0
+2020-04-04,Cumberland,Illinois,US,0,1.0,0
+2020-04-04,DeKalb,Illinois,US,0,19.0,0
+2020-04-04,Douglas,Illinois,US,0,9.0,0
+2020-04-04,DuPage,Illinois,US,0,572.0,16
+2020-04-04,Effingham,Illinois,US,0,1.0,0
+2020-04-04,Fayette,Illinois,US,0,2.0,0
+2020-04-04,Ford,Illinois,US,0,1.0,0
+2020-04-04,Franklin,Illinois,US,0,1.0,0
+2020-04-04,Grundy,Illinois,US,0,9.0,0
+2020-04-04,Henry,Illinois,US,0,7.0,0
+2020-04-04,Iroquois,Illinois,US,0,4.0,0
+2020-04-04,Jackson,Illinois,US,0,9.0,1
+2020-04-04,Jasper,Illinois,US,0,2.0,0
+2020-04-04,Jersey,Illinois,US,0,1.0,0
+2020-04-04,Jo Daviess,Illinois,US,0,4.0,0
+2020-04-04,Kane,Illinois,US,0,195.0,12
+2020-04-04,Kankakee,Illinois,US,0,65.0,3
+2020-04-04,Kendall,Illinois,US,0,45.0,2
+2020-04-04,Knox,Illinois,US,0,1.0,0
+2020-04-04,Lake,Illinois,US,0,671.0,12
+2020-04-04,LaSalle,Illinois,US,0,6.0,1
+2020-04-04,Lee,Illinois,US,0,2.0,0
+2020-04-04,Livingston,Illinois,US,0,6.0,0
+2020-04-04,Logan,Illinois,US,0,1.0,0
+2020-04-04,Macon,Illinois,US,0,5.0,0
+2020-04-04,Macoupin,Illinois,US,0,4.0,0
+2020-04-04,Madison,Illinois,US,0,47.0,0
+2020-04-04,Marion,Illinois,US,0,3.0,0
+2020-04-04,Marshall,Illinois,US,0,1.0,0
+2020-04-04,Mason,Illinois,US,0,1.0,0
+2020-04-04,Massac,Illinois,US,0,1.0,0
+2020-04-04,McHenry,Illinois,US,0,119.0,3
+2020-04-04,McLean,Illinois,US,0,38.0,2
+2020-04-04,Menard,Illinois,US,0,1.0,0
+2020-04-04,Mercer,Illinois,US,0,1.0,0
+2020-04-04,Monroe,Illinois,US,0,9.0,0
+2020-04-04,Montgomery,Illinois,US,0,2.0,0
+2020-04-04,Morgan,Illinois,US,0,5.0,1
+2020-04-04,Moultrie,Illinois,US,0,1.0,0
+2020-04-04,Ogle,Illinois,US,0,4.0,0
+2020-04-04,Peoria,Illinois,US,0,11.0,0
+2020-04-04,Piatt,Illinois,US,0,1.0,0
+2020-04-04,Pike,Illinois,US,0,1.0,0
+2020-04-04,Randolph,Illinois,US,0,20.0,0
+2020-04-04,Rock Island,Illinois,US,0,29.0,0
+2020-04-04,Saline,Illinois,US,0,1.0,0
+2020-04-04,Sangamon,Illinois,US,0,23.0,2
+2020-04-04,St. Clair,Illinois,US,0,78.0,2
+2020-04-04,Stephenson,Illinois,US,0,3.0,0
+2020-04-04,Tazewell,Illinois,US,0,10.0,0
+2020-04-04,Vermilion,Illinois,US,0,5.0,0
+2020-04-04,Washington,Illinois,US,0,1.0,0
+2020-04-04,Whiteside,Illinois,US,0,14.0,1
+2020-04-04,Will,Illinois,US,0,571.0,11
+2020-04-04,Williamson,Illinois,US,0,3.0,0
+2020-04-05,Adams,Illinois,US,0,3.0,0
+2020-04-05,Bond,Illinois,US,0,3.0,0
+2020-04-05,Boone,Illinois,US,0,3.0,0
+2020-04-05,Bureau,Illinois,US,0,2.0,0
+2020-04-05,Calhoun,Illinois,US,0,1.0,0
+2020-04-05,Carroll,Illinois,US,0,3.0,1
+2020-04-05,Champaign,Illinois,US,0,54.0,0
+2020-04-05,Christian,Illinois,US,0,18.0,2
+2020-04-05,Clark,Illinois,US,0,2.0,0
+2020-04-05,Clinton,Illinois,US,0,10.0,0
+2020-04-05,Cook,Illinois,US,2,7848.0,186
+2020-04-05,Crawford,Illinois,US,0,3.0,0
+2020-04-05,Cumberland,Illinois,US,0,1.0,0
+2020-04-05,DeKalb,Illinois,US,0,22.0,0
+2020-04-05,Douglas,Illinois,US,0,9.0,0
+2020-04-05,DuPage,Illinois,US,0,634.0,22
+2020-04-05,Effingham,Illinois,US,0,1.0,0
+2020-04-05,Fayette,Illinois,US,0,2.0,0
+2020-04-05,Ford,Illinois,US,0,1.0,0
+2020-04-05,Franklin,Illinois,US,0,1.0,0
+2020-04-05,Gallatin,Illinois,US,0,1.0,0
+2020-04-05,Grundy,Illinois,US,0,9.0,0
+2020-04-05,Henry,Illinois,US,0,8.0,0
+2020-04-05,Iroquois,Illinois,US,0,5.0,0
+2020-04-05,Jackson,Illinois,US,0,11.0,1
+2020-04-05,Jasper,Illinois,US,0,3.0,0
+2020-04-05,Jersey,Illinois,US,0,2.0,0
+2020-04-05,Jo Daviess,Illinois,US,0,5.0,0
+2020-04-05,Kane,Illinois,US,0,205.0,15
+2020-04-05,Kankakee,Illinois,US,0,72.0,4
+2020-04-05,Kendall,Illinois,US,0,47.0,2
+2020-04-05,Knox,Illinois,US,0,1.0,0
+2020-04-05,Lake,Illinois,US,0,729.0,13
+2020-04-05,LaSalle,Illinois,US,0,7.0,1
+2020-04-05,Lee,Illinois,US,0,2.0,0
+2020-04-05,Livingston,Illinois,US,0,7.0,0
+2020-04-05,Logan,Illinois,US,0,1.0,0
+2020-04-05,Macon,Illinois,US,0,6.0,0
+2020-04-05,Macoupin,Illinois,US,0,5.0,0
+2020-04-05,Madison,Illinois,US,0,48.0,0
+2020-04-05,Marion,Illinois,US,0,3.0,0
+2020-04-05,Marshall,Illinois,US,0,1.0,0
+2020-04-05,Mason,Illinois,US,0,1.0,0
+2020-04-05,Massac,Illinois,US,0,1.0,0
+2020-04-05,McHenry,Illinois,US,0,130.0,3
+2020-04-05,McLean,Illinois,US,0,44.0,2
+2020-04-05,Menard,Illinois,US,0,1.0,0
+2020-04-05,Mercer,Illinois,US,0,2.0,0
+2020-04-05,Monroe,Illinois,US,0,10.0,0
+2020-04-05,Montgomery,Illinois,US,0,2.0,1
+2020-04-05,Morgan,Illinois,US,0,5.0,1
+2020-04-05,Moultrie,Illinois,US,0,1.0,0
+2020-04-05,Ogle,Illinois,US,0,5.0,0
+2020-04-05,Peoria,Illinois,US,0,13.0,1
+2020-04-05,Piatt,Illinois,US,0,1.0,0
+2020-04-05,Pike,Illinois,US,0,1.0,0
+2020-04-05,Randolph,Illinois,US,0,24.0,0
+2020-04-05,Rock Island,Illinois,US,0,40.0,0
+2020-04-05,Saline,Illinois,US,0,1.0,0
+2020-04-05,Sangamon,Illinois,US,0,27.0,2
+2020-04-05,St. Clair,Illinois,US,0,84.0,2
+2020-04-05,Stephenson,Illinois,US,0,3.0,0
+2020-04-05,Tazewell,Illinois,US,0,13.0,0
+2020-04-05,Vermilion,Illinois,US,0,5.0,0
+2020-04-05,Washington,Illinois,US,0,1.0,0
+2020-04-05,Whiteside,Illinois,US,0,17.0,1
+2020-04-05,Will,Illinois,US,0,636.0,12
+2020-04-05,Williamson,Illinois,US,0,3.0,0
+2020-04-06,Adams,Illinois,US,0,8.0,0
+2020-04-06,Bond,Illinois,US,0,3.0,0
+2020-04-06,Boone,Illinois,US,0,4.0,0
+2020-04-06,Bureau,Illinois,US,0,3.0,0
+2020-04-06,Calhoun,Illinois,US,0,1.0,0
+2020-04-06,Carroll,Illinois,US,0,3.0,1
+2020-04-06,Champaign,Illinois,US,0,62.0,0
+2020-04-06,Christian,Illinois,US,0,20.0,2
+2020-04-06,Clark,Illinois,US,0,2.0,0
+2020-04-06,Clinton,Illinois,US,0,11.0,0
+2020-04-06,Cook,Illinois,US,2,8519.0,209
+2020-04-06,Crawford,Illinois,US,0,5.0,0
+2020-04-06,Cumberland,Illinois,US,0,1.0,0
+2020-04-06,DeKalb,Illinois,US,0,21.0,1
+2020-04-06,Douglas,Illinois,US,0,10.0,0
+2020-04-06,DuPage,Illinois,US,0,693.0,22
+2020-04-06,Effingham,Illinois,US,0,1.0,0
+2020-04-06,Fayette,Illinois,US,0,3.0,0
+2020-04-06,Ford,Illinois,US,0,1.0,0
+2020-04-06,Franklin,Illinois,US,0,2.0,0
+2020-04-06,Gallatin,Illinois,US,0,1.0,0
+2020-04-06,Grundy,Illinois,US,0,9.0,0
+2020-04-06,Henry,Illinois,US,0,10.0,0
+2020-04-06,Iroquois,Illinois,US,0,6.0,0
+2020-04-06,Jackson,Illinois,US,0,13.0,1
+2020-04-06,Jasper,Illinois,US,0,4.0,0
+2020-04-06,Jefferson,Illinois,US,0,1.0,0
+2020-04-06,Jersey,Illinois,US,0,3.0,0
+2020-04-06,Jo Daviess,Illinois,US,0,6.0,0
+2020-04-06,Kane,Illinois,US,0,219.0,15
+2020-04-06,Kankakee,Illinois,US,0,81.0,4
+2020-04-06,Kendall,Illinois,US,0,53.0,2
+2020-04-06,Knox,Illinois,US,0,1.0,0
+2020-04-06,Lake,Illinois,US,0,800.0,15
+2020-04-06,LaSalle,Illinois,US,0,10.0,1
+2020-04-06,Lee,Illinois,US,0,2.0,0
+2020-04-06,Livingston,Illinois,US,0,9.0,0
+2020-04-06,Logan,Illinois,US,0,1.0,0
+2020-04-06,Macon,Illinois,US,0,9.0,0
+2020-04-06,Macoupin,Illinois,US,0,7.0,0
+2020-04-06,Madison,Illinois,US,0,52.0,0
+2020-04-06,Marion,Illinois,US,0,3.0,0
+2020-04-06,Marshall,Illinois,US,0,1.0,0
+2020-04-06,Mason,Illinois,US,0,1.0,0
+2020-04-06,Massac,Illinois,US,0,2.0,0
+2020-04-06,McHenry,Illinois,US,0,141.0,3
+2020-04-06,McLean,Illinois,US,0,44.0,2
+2020-04-06,Menard,Illinois,US,0,2.0,0
+2020-04-06,Mercer,Illinois,US,0,2.0,0
+2020-04-06,Monroe,Illinois,US,0,11.0,0
+2020-04-06,Montgomery,Illinois,US,0,2.0,1
+2020-04-06,Morgan,Illinois,US,0,6.0,1
+2020-04-06,Moultrie,Illinois,US,0,1.0,0
+2020-04-06,Ogle,Illinois,US,0,7.0,0
+2020-04-06,Peoria,Illinois,US,0,11.0,1
+2020-04-06,Piatt,Illinois,US,0,3.0,0
+2020-04-06,Pike,Illinois,US,0,1.0,0
+2020-04-06,Randolph,Illinois,US,0,27.0,0
+2020-04-06,Rock Island,Illinois,US,0,47.0,0
+2020-04-06,Saline,Illinois,US,0,1.0,0
+2020-04-06,Sangamon,Illinois,US,0,29.0,2
+2020-04-06,St. Clair,Illinois,US,0,90.0,2
+2020-04-06,Stephenson,Illinois,US,0,5.0,0
+2020-04-06,Tazewell,Illinois,US,0,14.0,0
+2020-04-06,Vermilion,Illinois,US,0,5.0,0
+2020-04-06,Washington,Illinois,US,0,2.0,0
+2020-04-06,Whiteside,Illinois,US,0,17.0,1
+2020-04-06,Will,Illinois,US,0,678.0,19
+2020-04-07,Adams,Illinois,US,0,9.0,0
+2020-04-07,Bond,Illinois,US,0,3.0,0
+2020-04-07,Boone,Illinois,US,0,6.0,0
+2020-04-07,Bureau,Illinois,US,0,4.0,0
+2020-04-07,Calhoun,Illinois,US,0,1.0,0
+2020-04-07,Carroll,Illinois,US,0,4.0,1
+2020-04-07,Champaign,Illinois,US,0,64.0,1
+2020-04-07,Christian,Illinois,US,0,20.0,3
+2020-04-07,Clark,Illinois,US,0,4.0,0
+2020-04-07,Clinton,Illinois,US,0,11.0,0
+2020-04-07,Cook,Illinois,US,2,9269.0,2249
+2020-04-07,Crawford,Illinois,US,0,4.0,0
+2020-04-07,Cumberland,Illinois,US,0,1.0,0
+2020-04-07,DeKalb,Illinois,US,0,25.0,1
+2020-04-07,Douglas,Illinois,US,0,10.0,0
+2020-04-07,DuPage,Illinois,US,0,769.0,26
+2020-04-07,Effingham,Illinois,US,0,1.0,0
+2020-04-07,Fayette,Illinois,US,0,3.0,0
+2020-04-07,Ford,Illinois,US,0,4.0,1
+2020-04-07,Franklin,Illinois,US,0,2.0,0
+2020-04-07,Gallatin,Illinois,US,0,1.0,0
+2020-04-07,Grundy,Illinois,US,0,10.0,0
+2020-04-07,Henry,Illinois,US,0,13.0,0
+2020-04-07,Iroquois,Illinois,US,0,7.0,0
+2020-04-07,Jackson,Illinois,US,0,19.0,1
+2020-04-07,Jasper,Illinois,US,0,3.0,0
+2020-04-07,Jefferson,Illinois,US,0,3.0,0
+2020-04-07,Jersey,Illinois,US,0,4.0,0
+2020-04-07,Jo Daviess,Illinois,US,0,6.0,0
+2020-04-07,Kane,Illinois,US,0,237.0,18
+2020-04-07,Kankakee,Illinois,US,0,102.0,5
+2020-04-07,Kendall,Illinois,US,0,59.0,2
+2020-04-07,Knox,Illinois,US,0,1.0,0
+2020-04-07,Lake,Illinois,US,0,903.0,20
+2020-04-07,LaSalle,Illinois,US,0,11.0,1
+2020-04-07,Lee,Illinois,US,0,3.0,0
+2020-04-07,Livingston,Illinois,US,0,10.0,0
+2020-04-07,Logan,Illinois,US,0,2.0,0
+2020-04-07,Macon,Illinois,US,0,12.0,0
+2020-04-07,Macoupin,Illinois,US,0,8.0,0
+2020-04-07,Madison,Illinois,US,0,63.0,0
+2020-04-07,Marion,Illinois,US,0,3.0,0
+2020-04-07,Marshall,Illinois,US,0,1.0,0
+2020-04-07,Mason,Illinois,US,0,3.0,0
+2020-04-07,Massac,Illinois,US,0,2.0,0
+2020-04-07,McHenry,Illinois,US,0,152.0,4
+2020-04-07,McLean,Illinois,US,0,55.0,2
+2020-04-07,Menard,Illinois,US,0,2.0,0
+2020-04-07,Mercer,Illinois,US,0,2.0,0
+2020-04-07,Monroe,Illinois,US,0,11.0,1
+2020-04-07,Montgomery,Illinois,US,0,2.0,1
+2020-04-07,Morgan,Illinois,US,0,7.0,1
+2020-04-07,Moultrie,Illinois,US,0,2.0,0
+2020-04-07,Ogle,Illinois,US,0,10.0,0
+2020-04-07,Peoria,Illinois,US,0,12.0,1
+2020-04-07,Piatt,Illinois,US,0,4.0,0
+2020-04-07,Pike,Illinois,US,0,1.0,0
+2020-04-07,Randolph,Illinois,US,0,29.0,0
+2020-04-07,Rock Island,Illinois,US,0,54.0,0
+2020-04-07,Saline,Illinois,US,0,1.0,0
+2020-04-07,Sangamon,Illinois,US,0,30.0,2
+2020-04-07,St. Clair,Illinois,US,0,107.0,2
+2020-04-07,Stephenson,Illinois,US,0,6.0,0
+2020-04-07,Tazewell,Illinois,US,0,14.0,1
+2020-04-08,Adams,Illinois,US,0,1.0,0
+2020-04-08,Bond,Illinois,US,0,3.0,0
+2020-04-08,Boone,Illinois,US,0,7.0,0
+2020-04-08,Bureau,Illinois,US,0,4.0,0
+2020-04-08,Calhoun,Illinois,US,0,1.0,0
+2020-04-08,Carroll,Illinois,US,0,4.0,1
+2020-04-08,Champaign,Illinois,US,0,68.0,1
+2020-04-08,Christian,Illinois,US,0,20.0,3
+2020-04-08,Clark,Illinois,US,0,3.0,0
+2020-04-08,Clinton,Illinois,US,0,13.0,0
+2020-04-08,Cook,Illinois,US,2,10208.0,312
+2020-04-08,Crawford,Illinois,US,0,4.0,0
+2020-04-08,Cumberland,Illinois,US,0,1.0,0
+2020-04-08,DeKalb,Illinois,US,0,31.0,1
+2020-04-08,Douglas,Illinois,US,0,10.0,0
+2020-04-08,DuPage,Illinois,US,0,845.0,30
+2020-04-08,Effingham,Illinois,US,0,2.0,0
+2020-04-08,Fayette,Illinois,US,0,4.0,0
+2020-04-08,Ford,Illinois,US,0,2.0,1
+2020-04-08,Franklin,Illinois,US,0,2.0,0
+2020-04-08,Gallatin,Illinois,US,0,1.0,0
+2020-04-08,Grundy,Illinois,US,0,12.0,0
+2020-04-08,Henry,Illinois,US,0,16.0,0
+2020-04-08,Iroquois,Illinois,US,0,7.0,0
+2020-04-08,Jackson,Illinois,US,0,21.0,1
+2020-04-08,Jasper,Illinois,US,0,3.0,0
+2020-04-08,Jefferson,Illinois,US,0,2.0,0
+2020-04-08,Jersey,Illinois,US,0,5.0,0
+2020-04-08,Jo Daviess,Illinois,US,0,8.0,0
+2020-04-08,Kane,Illinois,US,0,277.0,19
+2020-04-08,Kankakee,Illinois,US,0,140.0,5
+2020-04-08,Kendall,Illinois,US,0,77.0,2
+2020-04-08,Knox,Illinois,US,0,1.0,0
+2020-04-08,Lake,Illinois,US,0,1018.0,23
+2020-04-08,LaSalle,Illinois,US,0,16.0,1
+2020-04-08,Lee,Illinois,US,0,6.0,0
+2020-04-08,Livingston,Illinois,US,0,10.0,0
+2020-04-08,Logan,Illinois,US,0,3.0,0
+2020-04-08,Macon,Illinois,US,0,12.0,1
+2020-04-08,Macoupin,Illinois,US,0,10.0,0
+2020-04-08,Madison,Illinois,US,0,80.0,2
+2020-04-08,Marion,Illinois,US,0,4.0,0
+2020-04-08,Marshall,Illinois,US,0,1.0,0
+2020-04-08,Mason,Illinois,US,0,3.0,0
+2020-04-08,Massac,Illinois,US,0,2.0,0
+2020-04-08,McHenry,Illinois,US,0,175.0,5
+2020-04-08,McLean,Illinois,US,0,63.0,2
+2020-04-08,Menard,Illinois,US,0,2.0,0
+2020-04-08,Mercer,Illinois,US,0,2.0,0
+2020-04-08,Monroe,Illinois,US,0,19.0,1
+2020-04-08,Montgomery,Illinois,US,0,3.0,1
+2020-04-08,Morgan,Illinois,US,0,7.0,1
+2020-04-08,Moultrie,Illinois,US,0,2.0,0
+2020-04-08,Ogle,Illinois,US,0,12.0,0
+2020-04-08,Peoria,Illinois,US,0,15.0,1
+2020-04-08,Piatt,Illinois,US,0,4.0,0
+2020-04-08,Pike,Illinois,US,0,1.0,0
+2020-04-08,Randolph,Illinois,US,0,31.0,0
+2020-04-08,Rock Island,Illinois,US,0,67.0,0
+2020-04-08,Saline,Illinois,US,0,1.0,0
+2020-04-08,Sangamon,Illinois,US,0,31.0,2
+2020-04-08,St. Clair,Illinois,US,0,124.0,3
+2020-04-08,Stephenson,Illinois,US,0,6.0,0
+2020-04-09,Adams,Illinois,US,0,22.0,0
+2020-04-09,Bond,Illinois,US,0,4.0,0
+2020-04-09,Boone,Illinois,US,0,6.0,1
+2020-04-09,Bureau,Illinois,US,0,4.0,0
+2020-04-09,Calhoun,Illinois,US,0,1.0,0
+2020-04-09,Carroll,Illinois,US,0,4.0,1
+2020-04-09,Champaign,Illinois,US,0,71.0,1
+2020-04-09,Christian,Illinois,US,0,20.0,3
+2020-04-09,Clark,Illinois,US,0,3.0,0
+2020-04-09,Clinton,Illinois,US,0,31.0,0
+2020-04-09,Cook,Illinois,US,2,11062.0,351
+2020-04-09,Crawford,Illinois,US,0,4.0,0
+2020-04-09,Cumberland,Illinois,US,0,1.0,0
+2020-04-09,DeKalb,Illinois,US,0,31.0,1
+2020-04-09,Douglas,Illinois,US,0,11.0,0
+2020-04-09,DuPage,Illinois,US,0,907.0,36
+2020-04-09,Effingham,Illinois,US,0,2.0,1
+2020-04-09,Fayette,Illinois,US,0,7.0,0
+2020-04-09,Ford,Illinois,US,0,2.0,1
+2020-04-09,Franklin,Illinois,US,0,2.0,0
+2020-04-09,Gallatin,Illinois,US,0,1.0,0
+2020-04-09,Grundy,Illinois,US,0,13.0,0
+2020-04-09,Henry,Illinois,US,0,18.0,0
+2020-04-09,Iroquois,Illinois,US,0,7.0,0
+2020-04-09,Jackson,Illinois,US,0,25.0,1
+2020-04-09,Jasper,Illinois,US,0,3.0,0
+2020-04-09,Jefferson,Illinois,US,0,2.0,0
+2020-04-09,Jersey,Illinois,US,0,5.0,0
+2020-04-09,Jo Daviess,Illinois,US,0,9.0,0
+2020-04-09,Kane,Illinois,US,0,298.0,20
+2020-04-09,Kankakee,Illinois,US,0,150.0,6
+2020-04-09,Kendall,Illinois,US,0,84.0,2
+2020-04-09,Knox,Illinois,US,0,1.0,0
+2020-04-09,Lake,Illinois,US,0,1097.0,27
+2020-04-09,LaSalle,Illinois,US,0,16.0,1
+2020-04-09,Lee,Illinois,US,0,9.0,0
+2020-04-09,Livingston,Illinois,US,0,14.0,0
+2020-04-09,Logan,Illinois,US,0,3.0,0
+2020-04-09,Macon,Illinois,US,0,14.0,1
+2020-04-09,Macoupin,Illinois,US,0,12.0,0
+2020-04-09,Madison,Illinois,US,0,87.0,2
+2020-04-09,Marion,Illinois,US,0,10.0,0
+2020-04-09,Marshall,Illinois,US,0,1.0,0
+2020-04-09,Mason,Illinois,US,0,3.0,0
+2020-04-09,Massac,Illinois,US,0,2.0,0
+2020-04-09,McHenry,Illinois,US,0,193.0,5
+2020-04-09,McLean,Illinois,US,0,67.0,2
+2020-04-09,Menard,Illinois,US,0,2.0,0
+2020-04-09,Mercer,Illinois,US,0,2.0,0
+2020-04-09,Monroe,Illinois,US,0,34.0,1
+2020-04-09,Montgomery,Illinois,US,0,5.0,1
+2020-04-09,Morgan,Illinois,US,0,9.0,1
+2020-04-09,Moultrie,Illinois,US,0,2.0,0
+2020-04-09,Ogle,Illinois,US,0,14.0,0
+2020-04-09,Peoria,Illinois,US,0,14.0,1
+2020-04-09,Piatt,Illinois,US,0,5.0,0
+2020-04-09,Pike,Illinois,US,0,1.0,0
+2020-04-09,Randolph,Illinois,US,0,34.0,0
+2020-04-09,Rock Island,Illinois,US,0,71.0,2
+2020-04-09,Saline,Illinois,US,0,3.0,0
+2020-04-09,Sangamon,Illinois,US,0,37.0,2
+2020-04-09,St. Clair,Illinois,US,0,140.0,4
+2020-04-10,Adams,Illinois,US,0,24.0,0
+2020-04-10,Bond,Illinois,US,0,4.0,0
+2020-04-10,Boone,Illinois,US,0,6.0,1
+2020-04-10,Bureau,Illinois,US,0,4.0,0
+2020-04-10,Calhoun,Illinois,US,0,1.0,0
+2020-04-10,Carroll,Illinois,US,0,4.0,1
+2020-04-10,Champaign,Illinois,US,0,78.0,1
+2020-04-10,Christian,Illinois,US,0,20.0,3
+2020-04-10,Clark,Illinois,US,0,3.0,0
+2020-04-10,Clinton,Illinois,US,0,32.0,0
+2020-04-10,Cook,Illinois,US,2,12072.0,398
+2020-04-10,Crawford,Illinois,US,0,4.0,0
+2020-04-10,Cumberland,Illinois,US,0,1.0,0
+2020-04-10,DeKalb,Illinois,US,0,31.0,1
+2020-04-10,Douglas,Illinois,US,0,11.0,0
+2020-04-10,DuPage,Illinois,US,0,966.0,42
+2020-04-10,Effingham,Illinois,US,0,2.0,1
+2020-04-10,Fayette,Illinois,US,0,7.0,0
+2020-04-10,Ford,Illinois,US,0,3.0,1
+2020-04-10,Franklin,Illinois,US,0,3.0,0
+2020-04-10,Gallatin,Illinois,US,0,1.0,0
+2020-04-10,Grundy,Illinois,US,0,15.0,0
+2020-04-10,Henry,Illinois,US,0,21.0,0
+2020-04-10,Iroquois,Illinois,US,0,7.0,0
+2020-04-10,Jackson,Illinois,US,0,26.0,1
+2020-04-10,Jasper,Illinois,US,0,3.0,0
+2020-04-10,Jefferson,Illinois,US,0,5.0,0
+2020-04-10,Jersey,Illinois,US,0,6.0,0
+2020-04-10,Jo Daviess,Illinois,US,0,10.0,0
+2020-04-10,Kane,Illinois,US,0,317.0,22
+2020-04-10,Kankakee,Illinois,US,0,160.0,7
+2020-04-10,Kendall,Illinois,US,0,90.0,2
+2020-04-10,Knox,Illinois,US,0,1.0,0
+2020-04-10,Lake,Illinois,US,0,1199.0,31
+2020-04-10,LaSalle,Illinois,US,0,18.0,1
+2020-04-10,Lee,Illinois,US,0,12.0,0
+2020-04-10,Livingston,Illinois,US,0,14.0,0
+2020-04-10,Logan,Illinois,US,0,3.0,0
+2020-04-10,Macon,Illinois,US,0,13.0,1
+2020-04-10,Macoupin,Illinois,US,0,12.0,0
+2020-04-10,Madison,Illinois,US,0,99.0,2
+2020-04-10,Marion,Illinois,US,0,12.0,0
+2020-04-10,Marshall,Illinois,US,0,1.0,0
+2020-04-10,Mason,Illinois,US,0,3.0,0
+2020-04-10,Massac,Illinois,US,0,2.0,0
+2020-04-10,McHenry,Illinois,US,0,201.0,5
+2020-04-10,McLean,Illinois,US,0,73.0,2
+2020-04-10,Menard,Illinois,US,0,2.0,0
+2020-04-10,Mercer,Illinois,US,0,2.0,0
+2020-04-10,Monroe,Illinois,US,0,41.0,1
+2020-04-10,Montgomery,Illinois,US,0,7.0,1
+2020-04-10,Morgan,Illinois,US,0,9.0,1
+2020-04-10,Moultrie,Illinois,US,0,2.0,0
+2020-04-10,Ogle,Illinois,US,0,16.0,0
+2020-04-10,Peoria,Illinois,US,0,19.0,1
+2020-04-10,Piatt,Illinois,US,0,6.0,0
+2020-04-10,Pike,Illinois,US,0,1.0,0
+2020-04-10,Randolph,Illinois,US,0,35.0,0
+2020-04-10,Rock Island,Illinois,US,0,77.0,3
+2020-04-10,Saline,Illinois,US,0,3.0,0
+2020-04-10,Sangamon,Illinois,US,0,40.0,2
+2020-04-11,Adams,Illinois,US,0,25.0,0
+2020-04-11,Bond,Illinois,US,0,4.0,0
+2020-04-11,Boone,Illinois,US,0,6.0,1
+2020-04-11,Bureau,Illinois,US,0,5.0,0
+2020-04-11,Calhoun,Illinois,US,0,1.0,0
+2020-04-11,Carroll,Illinois,US,0,4.0,1
+2020-04-11,Champaign,Illinois,US,0,83.0,2
+2020-04-11,Christian,Illinois,US,0,21.0,3
+2020-04-11,Clark,Illinois,US,0,3.0,0
+2020-04-11,Clinton,Illinois,US,0,37.0,0
+2020-04-11,Cook,Illinois,US,2,12962.0,453
+2020-04-11,Crawford,Illinois,US,0,4.0,0
+2020-04-11,Cumberland,Illinois,US,0,1.0,0
+2020-04-11,DeKalb,Illinois,US,0,32.0,1
+2020-04-11,Douglas,Illinois,US,0,11.0,0
+2020-04-11,DuPage,Illinois,US,0,1000.0,48
+2020-04-11,Effingham,Illinois,US,0,2.0,1
+2020-04-11,Fayette,Illinois,US,0,9.0,0
+2020-04-11,Ford,Illinois,US,0,3.0,1
+2020-04-11,Franklin,Illinois,US,0,3.0,0
+2020-04-11,Gallatin,Illinois,US,0,1.0,0
+2020-04-11,Grundy,Illinois,US,0,17.0,0
+2020-04-11,Henry,Illinois,US,0,22.0,0
+2020-04-11,Iroquois,Illinois,US,0,8.0,0
+2020-04-11,Jackson,Illinois,US,0,28.0,2
+2020-04-11,Jasper,Illinois,US,0,3.0,0
+2020-04-11,Jefferson,Illinois,US,0,6.0,0
+2020-04-11,Jersey,Illinois,US,0,6.0,0
+2020-04-11,Jo Daviess,Illinois,US,0,10.0,0
+2020-04-11,Kane,Illinois,US,0,354.0,22
+2020-04-11,Kankakee,Illinois,US,0,176.0,9
+2020-04-11,Kendall,Illinois,US,0,101.0,2
+2020-04-11,Knox,Illinois,US,0,2.0,0
+2020-04-11,Lake,Illinois,US,0,1292.0,39
+2020-04-11,LaSalle,Illinois,US,0,17.0,1
+2020-04-11,Lee,Illinois,US,0,12.0,0
+2020-04-11,Livingston,Illinois,US,0,15.0,0
+2020-04-11,Logan,Illinois,US,0,3.0,0
+2020-04-11,Macon,Illinois,US,0,22.0,1
+2020-04-11,Macoupin,Illinois,US,0,14.0,0
+2020-04-11,Madison,Illinois,US,0,101.0,2
+2020-04-11,Marion,Illinois,US,0,13.0,0
+2020-04-11,Marshall,Illinois,US,0,1.0,0
+2020-04-11,Mason,Illinois,US,0,3.0,0
+2020-04-11,Massac,Illinois,US,0,2.0,0
+2020-04-11,McHenry,Illinois,US,0,214.0,6
+2020-04-11,McLean,Illinois,US,0,73.0,2
+2020-04-11,Menard,Illinois,US,0,2.0,0
+2020-04-11,Mercer,Illinois,US,0,2.0,0
+2020-04-11,Monroe,Illinois,US,0,42.0,1
+2020-04-11,Montgomery,Illinois,US,0,7.0,1
+2020-04-11,Morgan,Illinois,US,0,9.0,1
+2020-04-11,Moultrie,Illinois,US,0,3.0,0
+2020-04-11,Ogle,Illinois,US,0,16.0,0
+2020-04-11,Peoria,Illinois,US,0,22.0,1
+2020-04-11,Piatt,Illinois,US,0,6.0,0
+2020-04-11,Pike,Illinois,US,0,1.0,0
+2020-04-11,Randolph,Illinois,US,0,37.0,0
+2020-04-11,Rock Island,Illinois,US,0,81.0,3
+2020-04-11,Saline,Illinois,US,0,3.0,0
+2020-04-12,Adams,Illinois,US,0,25.0,0
+2020-04-12,Bond,Illinois,US,0,4.0,0
+2020-04-12,Boone,Illinois,US,0,6.0,1
+2020-04-12,Bureau,Illinois,US,0,5.0,0
+2020-04-12,Calhoun,Illinois,US,0,1.0,0
+2020-04-12,Carroll,Illinois,US,0,4.0,1
+2020-04-12,Champaign,Illinois,US,0,83.0,2
+2020-04-12,Christian,Illinois,US,0,21.0,3
+2020-04-12,Clark,Illinois,US,0,3.0,0
+2020-04-12,Clinton,Illinois,US,0,37.0,0
+2020-04-12,Cook,Illinois,US,2,12962.0,453
+2020-04-12,Crawford,Illinois,US,0,4.0,0
+2020-04-12,Cumberland,Illinois,US,0,1.0,0
+2020-04-12,DeKalb,Illinois,US,0,32.0,1
+2020-04-12,Douglas,Illinois,US,0,11.0,0
+2020-04-12,DuPage,Illinois,US,0,1000.0,48
+2020-04-12,Effingham,Illinois,US,0,2.0,1
+2020-04-12,Fayette,Illinois,US,0,9.0,0
+2020-04-12,Ford,Illinois,US,0,3.0,1
+2020-04-12,Franklin,Illinois,US,0,3.0,0
+2020-04-12,Gallatin,Illinois,US,0,1.0,0
+2020-04-12,Grundy,Illinois,US,0,17.0,0
+2020-04-12,Henry,Illinois,US,0,22.0,0
+2020-04-12,Iroquois,Illinois,US,0,8.0,0
+2020-04-12,Jackson,Illinois,US,0,28.0,2
+2020-04-12,Jasper,Illinois,US,0,3.0,0
+2020-04-12,Jefferson,Illinois,US,0,6.0,0
+2020-04-12,Jersey,Illinois,US,0,6.0,0
+2020-04-12,Jo Daviess,Illinois,US,0,10.0,0
+2020-04-12,Kane,Illinois,US,0,354.0,22
+2020-04-12,Kankakee,Illinois,US,0,176.0,9
+2020-04-12,Kendall,Illinois,US,0,101.0,2
+2020-04-12,Knox,Illinois,US,0,2.0,0
+2020-04-12,Lake,Illinois,US,0,1292.0,39
+2020-04-12,LaSalle,Illinois,US,0,17.0,1
+2020-04-12,Lee,Illinois,US,0,12.0,0
+2020-04-12,Livingston,Illinois,US,0,15.0,0
+2020-04-12,Logan,Illinois,US,0,3.0,0
+2020-04-12,Macon,Illinois,US,0,22.0,1
+2020-04-12,Macoupin,Illinois,US,0,14.0,0
+2020-04-12,Madison,Illinois,US,0,101.0,2
+2020-04-12,Marion,Illinois,US,0,13.0,0
+2020-04-12,Marshall,Illinois,US,0,1.0,0
+2020-04-12,Mason,Illinois,US,0,3.0,0
+2020-04-12,Massac,Illinois,US,0,2.0,0
+2020-04-12,McHenry,Illinois,US,0,214.0,6
+2020-04-12,McLean,Illinois,US,0,73.0,2
+2020-04-12,Menard,Illinois,US,0,2.0,0
+2020-04-12,Mercer,Illinois,US,0,2.0,0
+2020-04-12,Monroe,Illinois,US,0,42.0,1
+2020-04-12,Montgomery,Illinois,US,0,7.0,1
+2020-04-12,Morgan,Illinois,US,0,9.0,1
+2020-04-12,Moultrie,Illinois,US,0,3.0,0
+2020-04-12,Ogle,Illinois,US,0,16.0,0
+2020-04-12,Peoria,Illinois,US,0,22.0,1
+2020-04-12,Piatt,Illinois,US,0,6.0,0
+2020-04-12,Pike,Illinois,US,0,1.0,0
+2020-04-12,Randolph,Illinois,US,0,37.0,0
+2020-04-12,Rock Island,Illinois,US,0,81.0,3
+2020-04-12,Saline,Illinois,US,0,3.0,0
+2020-04-13,Adams,Illinois,US,0,26.0,0
+2020-04-13,Bond,Illinois,US,0,4.0,0
+2020-04-13,Boone,Illinois,US,0,12.0,1
+2020-04-13,Bureau,Illinois,US,0,6.0,0
+2020-04-13,Calhoun,Illinois,US,0,1.0,0
+2020-04-13,Carroll,Illinois,US,0,4.0,1
+2020-04-13,Champaign,Illinois,US,0,85.0,2
+2020-04-13,Christian,Illinois,US,0,21.0,3
+2020-04-13,Clark,Illinois,US,0,4.0,0
+2020-04-13,Clinton,Illinois,US,0,38.0,0
+2020-04-13,Cook,Illinois,US,2,14929.0,543
+2020-04-13,Crawford,Illinois,US,0,4.0,0
+2020-04-13,Cumberland,Illinois,US,0,2.0,0
+2020-04-13,DeKalb,Illinois,US,0,33.0,1
+2020-04-13,Douglas,Illinois,US,0,11.0,0
+2020-04-13,DuPage,Illinois,US,0,1167.0,56
+2020-04-13,Effingham,Illinois,US,0,2.0,1
+2020-04-13,Fayette,Illinois,US,0,10.0,1
+2020-04-13,Ford,Illinois,US,0,3.0,1
+2020-04-13,Franklin,Illinois,US,0,4.0,0
+2020-04-13,Gallatin,Illinois,US,0,1.0,0
+2020-04-13,Grundy,Illinois,US,0,21.0,0
+2020-04-13,Henry,Illinois,US,0,23.0,0
+2020-04-13,Iroquois,Illinois,US,0,9.0,0
+2020-04-13,Jackson,Illinois,US,0,31.0,2
+2020-04-13,Jasper,Illinois,US,0,2.0,1
+2020-04-13,Jefferson,Illinois,US,0,8.0,0
+2020-04-13,Jersey,Illinois,US,0,6.0,0
+2020-04-13,Jo Daviess,Illinois,US,0,11.0,0
+2020-04-13,Kane,Illinois,US,0,397.0,24
+2020-04-13,Kankakee,Illinois,US,0,201.0,9
+2020-04-13,Kendall,Illinois,US,0,112.0,2
+2020-04-13,Knox,Illinois,US,0,2.0,0
+2020-04-13,Lake,Illinois,US,0,1471.0,45
+2020-04-13,LaSalle,Illinois,US,0,20.0,1
+2020-04-13,Lee,Illinois,US,0,14.0,0
+2020-04-13,Livingston,Illinois,US,0,17.0,0
+2020-04-13,Logan,Illinois,US,0,4.0,0
+2020-04-13,Macon,Illinois,US,0,41.0,1
+2020-04-13,Macoupin,Illinois,US,0,16.0,0
+2020-04-13,Madison,Illinois,US,0,113.0,2
+2020-04-13,Marion,Illinois,US,0,13.0,0
+2020-04-13,Marshall,Illinois,US,0,1.0,0
+2020-04-13,Mason,Illinois,US,0,3.0,0
+2020-04-13,Massac,Illinois,US,0,2.0,0
+2020-04-13,McHenry,Illinois,US,0,238.0,7
+2020-04-13,McLean,Illinois,US,0,77.0,2
+2020-04-13,Menard,Illinois,US,0,2.0,0
+2020-04-13,Mercer,Illinois,US,0,2.0,0
+2020-04-13,Monroe,Illinois,US,0,45.0,1
+2020-04-13,Montgomery,Illinois,US,0,8.0,1
+2020-04-13,Morgan,Illinois,US,0,9.0,1
+2020-04-13,Moultrie,Illinois,US,0,2.0,0
+2020-04-13,Ogle,Illinois,US,0,26.0,0
+2020-04-13,Peoria,Illinois,US,0,29.0,1
+2020-04-13,Piatt,Illinois,US,0,6.0,0
+2020-04-13,Pike,Illinois,US,0,1.0,0
+2020-04-13,Randolph,Illinois,US,0,41.0,0
+2020-04-13,Rock Island,Illinois,US,0,102.0,3
+2020-04-14,Adams,Illinois,US,0,27.0,0
+2020-04-14,Bond,Illinois,US,0,4.0,0
+2020-04-14,Boone,Illinois,US,0,12.0,1
+2020-04-14,Bureau,Illinois,US,0,6.0,0
+2020-04-14,Calhoun,Illinois,US,0,1.0,0
+2020-04-14,Carroll,Illinois,US,0,4.0,1
+2020-04-14,Champaign,Illinois,US,0,86.0,2
+2020-04-14,Christian,Illinois,US,0,21.0,3
+2020-04-14,Clark,Illinois,US,0,4.0,0
+2020-04-14,Clinton,Illinois,US,0,38.0,0
+2020-04-14,Cook,Illinois,US,2,15744.0,577
+2020-04-14,Crawford,Illinois,US,0,4.0,0
+2020-04-14,Cumberland,Illinois,US,0,2.0,0
+2020-04-14,DeKalb,Illinois,US,0,34.0,1
+2020-04-14,Douglas,Illinois,US,0,11.0,0
+2020-04-14,DuPage,Illinois,US,0,1251.0,61
+2020-04-14,Effingham,Illinois,US,0,2.0,1
+2020-04-14,Fayette,Illinois,US,0,11.0,1
+2020-04-14,Ford,Illinois,US,0,3.0,1
+2020-04-14,Franklin,Illinois,US,0,4.0,0
+2020-04-14,Gallatin,Illinois,US,0,2.0,0
+2020-04-14,Grundy,Illinois,US,0,24.0,0
+2020-04-14,Henry,Illinois,US,0,23.0,0
+2020-04-14,Iroquois,Illinois,US,0,9.0,0
+2020-04-14,Jackson,Illinois,US,0,32.0,3
+2020-04-14,Jasper,Illinois,US,0,2.0,1
+2020-04-14,Jefferson,Illinois,US,0,8.0,0
+2020-04-14,Jersey,Illinois,US,0,6.0,0
+2020-04-14,Jo Daviess,Illinois,US,0,11.0,0
+2020-04-14,Kane,Illinois,US,0,424.0,24
+2020-04-14,Kankakee,Illinois,US,0,210.0,10
+2020-04-14,Kendall,Illinois,US,0,112.0,2
+2020-04-14,Knox,Illinois,US,0,2.0,0
+2020-04-14,Lake,Illinois,US,0,1563.0,58
+2020-04-14,LaSalle,Illinois,US,0,22.0,1
+2020-04-14,Lee,Illinois,US,0,13.0,0
+2020-04-14,Livingston,Illinois,US,0,17.0,0
+2020-04-14,Logan,Illinois,US,0,4.0,0
+2020-04-14,Macon,Illinois,US,0,44.0,1
+2020-04-14,Macoupin,Illinois,US,0,16.0,0
+2020-04-14,Madison,Illinois,US,0,126.0,2
+2020-04-14,Marion,Illinois,US,0,14.0,0
+2020-04-14,Marshall,Illinois,US,0,2.0,0
+2020-04-14,Mason,Illinois,US,0,3.0,0
+2020-04-14,Massac,Illinois,US,0,3.0,0
+2020-04-14,McHenry,Illinois,US,0,249.0,8
+2020-04-14,McLean,Illinois,US,0,79.0,2
+2020-04-14,Menard,Illinois,US,0,2.0,0
+2020-04-14,Mercer,Illinois,US,0,3.0,0
+2020-04-14,Monroe,Illinois,US,0,44.0,3
+2020-04-14,Montgomery,Illinois,US,0,8.0,1
+2020-04-14,Morgan,Illinois,US,0,10.0,1
+2020-04-14,Moultrie,Illinois,US,0,2.0,0
+2020-04-14,Ogle,Illinois,US,0,26.0,0
+2020-04-14,Peoria,Illinois,US,0,30.0,1
+2020-04-14,Piatt,Illinois,US,0,6.0,0
+2020-04-14,Pike,Illinois,US,0,1.0,0
+2020-04-14,Randolph,Illinois,US,0,41.0,0
+2020-03-29,Androscoggin,Maine,US,8,0.0,3
+2020-03-29,Aroostook,Maine,US,0,0.0,0
+2020-03-29,Cumberland,Maine,US,142,3.0,23
+2020-03-29,Franklin,Maine,US,2,0.0,0
+2020-03-29,Hancock,Maine,US,0,0.0,0
+2020-03-29,Kennebec,Maine,US,10,0.0,2
+2020-03-29,Knox,Maine,US,4,0.0,0
+2020-03-29,Lincoln,Maine,US,5,0.0,2
+2020-03-29,Oxford,Maine,US,9,0.0,2
+2020-03-29,Penobscot,Maine,US,11,0.0,5
+2020-03-29,Somerset,Maine,US,1,0.0,0
+2020-03-30,Androscoggin,Maine,US,8,2.0,3
+2020-03-30,Aroostook,Maine,US,0,0.0,0
+2020-03-30,Cumberland,Maine,US,154,29.0,23
+2020-03-30,Franklin,Maine,US,2,0.0,0
+2020-03-30,Hancock,Maine,US,0,0.0,0
+2020-03-30,Kennebec,Maine,US,10,2.0,2
+2020-03-30,Knox,Maine,US,4,1.0,0
+2020-03-30,Lincoln,Maine,US,8,0.0,2
+2020-03-30,Oxford,Maine,US,9,0.0,2
+2020-03-30,Penobscot,Maine,US,12,2.0,5
+2020-03-30,Somerset,Maine,US,1,0.0,0
+2020-03-31,Androscoggin,Maine,US,11,3.0,3
+2020-03-31,Aroostook,Maine,US,0,0.0,0
+2020-03-31,Cumberland,Maine,US,169,30.0,37
+2020-03-31,Franklin,Maine,US,2,0.0,0
+2020-03-31,Hancock,Maine,US,0,0.0,0
+2020-03-31,Kennebec,Maine,US,12,4.0,3
+2020-03-31,Knox,Maine,US,5,1.0,1
+2020-03-31,Lincoln,Maine,US,8,0.0,2
+2020-03-31,Oxford,Maine,US,9,0.0,3
+2020-03-31,Penobscot,Maine,US,12,2.0,6
+2020-03-31,Somerset,Maine,US,1,0.0,0
+2020-04-01,Androscoggin,Maine,US,11,3.0,3
+2020-04-01,Aroostook,Maine,US,0,0.0,0
+2020-04-01,Cumberland,Maine,US,169,30.0,37
+2020-04-01,Franklin,Maine,US,2,0.0,0
+2020-04-01,Hancock,Maine,US,0,0.0,0
+2020-04-01,Kennebec,Maine,US,12,4.0,3
+2020-04-01,Knox,Maine,US,5,1.0,1
+2020-04-01,Lincoln,Maine,US,8,0.0,2
+2020-04-01,Oxford,Maine,US,9,0.0,3
+2020-04-01,Penobscot,Maine,US,12,2.0,6
+2020-04-01,Somerset,Maine,US,1,0.0,0
+2020-04-02,Androscoggin,Maine,US,12,4.0,3
+2020-04-02,Aroostook,Maine,US,0,0.0,0
+2020-04-02,Cumberland,Maine,US,204,34.0,51
+2020-04-02,Franklin,Maine,US,3,0.0,0
+2020-04-02,Hancock,Maine,US,2,0.0,0
+2020-04-02,Kennebec,Maine,US,19,7.0,5
+2020-04-02,Knox,Maine,US,7,1.0,1
+2020-04-02,Lincoln,Maine,US,8,0.0,2
+2020-04-02,Oxford,Maine,US,9,0.0,3
+2020-04-02,Penobscot,Maine,US,16,3.0,8
+2020-04-02,Somerset,Maine,US,2,0.0,0
+2020-04-04,Androscoggin,Maine,US,12,4.0,3
+2020-04-04,Aroostook,Maine,US,0,0.0,0
+2020-04-04,Cumberland,Maine,US,204,34.0,51
+2020-04-04,Franklin,Maine,US,3,0.0,0
+2020-04-04,Hancock,Maine,US,2,0.0,0
+2020-04-04,Kennebec,Maine,US,19,7.0,5
+2020-04-04,Knox,Maine,US,7,1.0,1
+2020-04-04,Lincoln,Maine,US,8,0.0,2
+2020-04-04,Oxford,Maine,US,9,0.0,3
+2020-04-04,Penobscot,Maine,US,16,3.0,8
+2020-04-04,Somerset,Maine,US,2,0.0,0
+2020-04-05,Androscoggin,Maine,US,20,6.0,6
+2020-04-05,Aroostook,Maine,US,1,0.0,0
+2020-04-05,Cumberland,Maine,US,238,40.0,84
+2020-04-05,Franklin,Maine,US,4,0.0,1
+2020-04-05,Hancock,Maine,US,2,0.0,0
+2020-04-05,Kennebec,Maine,US,22,7.0,6
+2020-04-05,Knox,Maine,US,9,1.0,2
+2020-04-05,Lincoln,Maine,US,8,0.0,2
+2020-04-05,Oxford,Maine,US,11,1.0,4
+2020-04-05,Penobscot,Maine,US,22,4.0,13
+2020-04-05,Somerset,Maine,US,4,0.0,0
+2020-04-06,Androscoggin,Maine,US,20,6.0,6
+2020-04-06,Aroostook,Maine,US,1,0.0,0
+2020-04-06,Cumberland,Maine,US,238,40.0,84
+2020-04-06,Franklin,Maine,US,4,0.0,1
+2020-04-06,Hancock,Maine,US,2,0.0,0
+2020-04-06,Kennebec,Maine,US,22,7.0,6
+2020-04-06,Knox,Maine,US,9,1.0,2
+2020-04-06,Lincoln,Maine,US,8,0.0,2
+2020-04-06,Oxford,Maine,US,11,1.0,4
+2020-04-06,Penobscot,Maine,US,22,4.0,13
+2020-04-06,Somerset,Maine,US,4,0.0,0
+2020-04-07,Androscoggin,Maine,US,20,6.0,6
+2020-04-07,Aroostook,Maine,US,1,0.0,0
+2020-04-07,Cumberland,Maine,US,238,40.0,84
+2020-04-07,Franklin,Maine,US,4,0.0,1
+2020-04-07,Hancock,Maine,US,2,0.0,0
+2020-04-07,Kennebec,Maine,US,22,7.0,6
+2020-04-07,Knox,Maine,US,9,1.0,2
+2020-04-07,Lincoln,Maine,US,8,0.0,2
+2020-04-07,Oxford,Maine,US,11,1.0,4
+2020-04-07,Penobscot,Maine,US,22,4.0,13
+2020-04-07,Somerset,Maine,US,4,0.0,0
+2020-04-08,Androscoggin,Maine,US,20,6.0,6
+2020-04-08,Aroostook,Maine,US,1,0.0,0
+2020-04-08,Cumberland,Maine,US,238,40.0,84
+2020-04-08,Franklin,Maine,US,4,0.0,1
+2020-04-08,Hancock,Maine,US,2,0.0,0
+2020-04-08,Kennebec,Maine,US,22,7.0,6
+2020-04-08,Knox,Maine,US,9,1.0,2
+2020-04-08,Lincoln,Maine,US,8,0.0,2
+2020-04-08,Oxford,Maine,US,11,1.0,4
+2020-04-08,Penobscot,Maine,US,22,4.0,13
+2020-04-08,Somerset,Maine,US,4,0.0,0
+2020-04-10,Androscoggin,Maine,US,20,6.0,6
+2020-04-10,Aroostook,Maine,US,1,0.0,0
+2020-04-10,Cumberland,Maine,US,238,40.0,84
+2020-04-10,Franklin,Maine,US,4,0.0,1
+2020-04-10,Hancock,Maine,US,2,0.0,0
+2020-04-10,Kennebec,Maine,US,22,7.0,6
+2020-04-10,Knox,Maine,US,9,1.0,2
+2020-04-10,Lincoln,Maine,US,8,0.0,2
+2020-04-10,Oxford,Maine,US,11,1.0,4
+2020-04-10,Penobscot,Maine,US,22,4.0,13
+2020-04-10,Somerset,Maine,US,4,0.0,0
+2020-04-11,Androscoggin,Maine,US,24,7.0,9
+2020-04-11,Aroostook,Maine,US,2,0.0,0
+2020-04-11,Cumberland,Maine,US,276,46.0,126
+2020-04-11,Franklin,Maine,US,7,1.0,1
+2020-04-11,Hancock,Maine,US,4,0.0,0
+2020-04-11,Kennebec,Maine,US,29,10.0,10
+2020-04-11,Knox,Maine,US,10,1.0,4
+2020-04-11,Lincoln,Maine,US,9,0.0,6
+2020-04-11,Oxford,Maine,US,12,6.0,7
+2020-04-11,Penobscot,Maine,US,33,5.0,18
+2020-04-11,Somerset,Maine,US,5,0.0,1
+2020-04-12,Androscoggin,Maine,US,24,7.0,9
+2020-04-12,Aroostook,Maine,US,2,0.0,0
+2020-04-12,Cumberland,Maine,US,276,46.0,126
+2020-04-12,Franklin,Maine,US,7,1.0,1
+2020-04-12,Hancock,Maine,US,4,0.0,0
+2020-04-12,Kennebec,Maine,US,29,10.0,10
+2020-04-12,Knox,Maine,US,10,1.0,4
+2020-04-12,Lincoln,Maine,US,9,0.0,6
+2020-04-12,Oxford,Maine,US,12,6.0,7
+2020-04-12,Penobscot,Maine,US,33,5.0,18
+2020-04-12,Sagadahoc,Maine,US,15,6.0,7
+2020-04-12,Somerset,Maine,US,5,0.0,1
+2020-04-12,Waldo,Maine,US,19,1.0,1
+2020-04-13,Androscoggin,Maine,US,24,7.0,9
+2020-04-13,Aroostook,Maine,US,2,0.0,0
+2020-04-13,Cumberland,Maine,US,276,46.0,126
+2020-04-13,Franklin,Maine,US,7,1.0,1
+2020-04-13,Hancock,Maine,US,4,0.0,0
+2020-04-13,Kennebec,Maine,US,29,10.0,10
+2020-04-13,Knox,Maine,US,10,1.0,4
+2020-04-13,Lincoln,Maine,US,9,0.0,6
+2020-04-13,Oxford,Maine,US,12,6.0,7
+2020-04-13,Penobscot,Maine,US,33,5.0,18
+2020-04-13,Sagadahoc,Maine,US,15,6.0,7
+2020-04-13,Somerset,Maine,US,5,0.0,1
+2020-04-13,Waldo,Maine,US,19,1.0,1
+2020-04-14,Androscoggin,Maine,US,28,10.0,11
+2020-04-14,Aroostook,Maine,US,2,0.0,0
+2020-04-14,Cumberland,Maine,US,299,50.0,142
+2020-04-14,Franklin,Maine,US,8,1.0,1
+2020-04-14,Hancock,Maine,US,5,1.0,1
+2020-04-14,Kennebec,Maine,US,78,12.0,12
+2020-04-14,Knox,Maine,US,12,1.0,4
+2020-04-14,Lincoln,Maine,US,10,0.0,7
+2020-04-14,Oxford,Maine,US,13,1.0,7
+2020-04-14,Penobscot,Maine,US,34,5.0,19
+2020-04-14,Sagadahoc,Maine,US,15,6.0,7
+2020-04-14,Somerset,Maine,US,8,0.0,1
+2020-04-14,Waldo,Maine,US,29,1.0,1
+2020-03-17,Bergen,New Jersey,US,84,2.0,1
+2020-03-17,Burlington,New Jersey,US,5,0.0,0
+2020-03-17,Camden,New Jersey,US,3,0.0,0
+2020-03-17,Essex,New Jersey,US,32,0.0,0
+2020-03-17,Gloucester,New Jersey,US,2,0.0,0
+2020-03-17,Hudson,New Jersey,US,24,0.0,0
+2020-03-17,Hunterdon,New Jersey,US,4,0.0,0
+2020-03-17,Mercer,New Jersey,US,9,0.0,0
+2020-03-17,Middlesex,New Jersey,US,17,0.0,0
+2020-03-17,Monmouth,New Jersey,US,22,1.0,0
+2020-03-17,Morris,New Jersey,US,7,0.0,0
+2020-03-17,Ocean,New Jersey,US,4,0.0,0
+2020-03-17,Passaic,New Jersey,US,10,0.0,0
+2020-03-17,Somerset,New Jersey,US,7,0.0,0
+2020-03-18,Atlantic,New Jersey,US,3,0.0,0
+2020-03-18,Bergen,New Jersey,US,114,2.0,1
+2020-03-18,Burlington,New Jersey,US,10,0.0,0
+2020-03-18,Camden,New Jersey,US,8,0.0,0
+2020-03-18,Essex,New Jersey,US,45,0.0,0
+2020-03-18,Gloucester,New Jersey,US,2,0.0,0
+2020-03-18,Hudson,New Jersey,US,34,0.0,0
+2020-03-18,Hunterdon,New Jersey,US,6,0.0,0
+2020-03-18,Mercer,New Jersey,US,15,0.0,0
+2020-03-18,Middlesex,New Jersey,US,40,0.0,0
+2020-03-18,Monmouth,New Jersey,US,32,1.0,0
+2020-03-18,Morris,New Jersey,US,19,0.0,0
+2020-03-18,Ocean,New Jersey,US,8,0.0,0
+2020-03-18,Passaic,New Jersey,US,18,0.0,0
+2020-03-18,Somerset,New Jersey,US,16,0.0,0
+2020-03-19,Atlantic,New Jersey,US,3,0.0,0
+2020-03-19,Bergen,New Jersey,US,195,2.0,1
+2020-03-19,Burlington,New Jersey,US,14,0.0,0
+2020-03-19,Camden,New Jersey,US,13,0.0,0
+2020-03-19,Cape May,New Jersey,US,1,0.0,0
+2020-03-19,Essex,New Jersey,US,63,0.0,0
+2020-03-19,Gloucester,New Jersey,US,3,0.0,0
+2020-03-19,Hudson,New Jersey,US,55,0.0,0
+2020-03-19,Hunterdon,New Jersey,US,8,0.0,0
+2020-03-19,Mercer,New Jersey,US,20,0.0,0
+2020-03-19,Middlesex,New Jersey,US,64,0.0,0
+2020-03-19,Monmouth,New Jersey,US,43,1.0,0
+2020-03-19,Morris,New Jersey,US,26,0.0,0
+2020-03-19,Ocean,New Jersey,US,33,0.0,0
+2020-03-19,Passaic,New Jersey,US,18,0.0,0
+2020-03-19,Somerset,New Jersey,US,21,0.0,0
+2020-03-19,Union,New Jersey,US,29,0.0,0
+2020-03-20,Atlantic,New Jersey,US,3,0.0,0
+2020-03-20,Bergen,New Jersey,US,195,2.0,1
+2020-03-20,Burlington,New Jersey,US,17,0.0,0
+2020-03-20,Camden,New Jersey,US,11,0.0,0
+2020-03-20,Cape May,New Jersey,US,1,0.0,0
+2020-03-20,Cumberland,New Jersey,US,1,0.0,0
+2020-03-20,Essex,New Jersey,US,63,0.0,0
+2020-03-20,Gloucester,New Jersey,US,3,0.0,0
+2020-03-20,Hudson,New Jersey,US,55,0.0,0
+2020-03-20,Hunterdon,New Jersey,US,11,0.0,0
+2020-03-20,Mercer,New Jersey,US,22,0.0,0
+2020-03-20,Middlesex,New Jersey,US,76,0.0,0
+2020-03-20,Monmouth,New Jersey,US,53,1.0,0
+2020-03-20,Morris,New Jersey,US,26,0.0,0
+2020-03-20,Ocean,New Jersey,US,33,0.0,0
+2020-03-20,Passaic,New Jersey,US,18,0.0,0
+2020-03-20,Somerset,New Jersey,US,28,0.0,0
+2020-03-20,Union,New Jersey,US,29,0.0,0
+2020-03-21,Atlantic,New Jersey,US,4,0.0,0
+2020-03-21,Bergen,New Jersey,US,363,2.0,1
+2020-03-21,Burlington,New Jersey,US,21,0.0,0
+2020-03-21,Camden,New Jersey,US,15,0.0,0
+2020-03-21,Cape May,New Jersey,US,2,0.0,0
+2020-03-21,Cumberland,New Jersey,US,1,0.0,0
+2020-03-21,Essex,New Jersey,US,107,0.0,0
+2020-03-21,Gloucester,New Jersey,US,6,0.0,0
+2020-03-21,Hudson,New Jersey,US,97,0.0,0
+2020-03-21,Hunterdon,New Jersey,US,14,0.0,0
+2020-03-21,Mercer,New Jersey,US,30,0.0,0
+2020-03-21,Middlesex,New Jersey,US,116,0.0,0
+2020-03-21,Monmouth,New Jersey,US,92,1.0,0
+2020-03-21,Morris,New Jersey,US,64,0.0,0
+2020-03-21,Ocean,New Jersey,US,62,0.0,0
+2020-03-21,Somerset,New Jersey,US,34,0.0,0
+2020-03-21,Passaic,New Jersey,US,67,0.0,0
+2020-03-21,Union,New Jersey,US,81,0.0,0
+2020-03-21,Sussex,New Jersey,US,6,0.0,0
+2020-03-22,Atlantic,New Jersey,US,4,0.0,0
+2020-03-22,Bergen,New Jersey,US,363,2.0,1
+2020-03-22,Burlington,New Jersey,US,21,0.0,0
+2020-03-22,Camden,New Jersey,US,15,0.0,0
+2020-03-22,Cape May,New Jersey,US,2,0.0,0
+2020-03-22,Cumberland,New Jersey,US,1,0.0,0
+2020-03-22,Essex,New Jersey,US,107,0.0,0
+2020-03-22,Gloucester,New Jersey,US,6,0.0,0
+2020-03-22,Hudson,New Jersey,US,97,0.0,0
+2020-03-22,Hunterdon,New Jersey,US,14,0.0,1
+2020-03-22,Mercer,New Jersey,US,30,0.0,0
+2020-03-22,Middlesex,New Jersey,US,116,0.0,0
+2020-03-22,Monmouth,New Jersey,US,92,1.0,0
+2020-03-22,Morris,New Jersey,US,64,0.0,0
+2020-03-22,Ocean,New Jersey,US,62,0.0,0
+2020-03-22,Passaic,New Jersey,US,67,0.0,0
+2020-03-22,Salem,New Jersey,US,1,0.0,0
+2020-03-22,Somerset,New Jersey,US,34,0.0,0
+2020-03-22,Sussex,New Jersey,US,6,0.0,0
+2020-03-22,Union,New Jersey,US,81,0.0,0
+2020-03-23,Atlantic,New Jersey,US,5,0.0,0
+2020-03-23,Bergen,New Jersey,US,457,7.0,1
+2020-03-23,Burlington,New Jersey,US,26,0.0,0
+2020-03-23,Camden,New Jersey,US,22,1.0,0
+2020-03-23,Cape May,New Jersey,US,2,0.0,0
+2020-03-23,Cumberland,New Jersey,US,1,0.0,0
+2020-03-23,Essex,New Jersey,US,172,4.0,0
+2020-03-23,Gloucester,New Jersey,US,8,0.0,0
+2020-03-23,Hudson,New Jersey,US,126,1.0,0
+2020-03-23,Hunterdon,New Jersey,US,16,0.0,1
+2020-03-23,Mercer,New Jersey,US,40,0.0,0
+2020-03-23,Middlesex,New Jersey,US,116,1.0,0
+2020-03-23,Monmouth,New Jersey,US,158,3.0,0
+2020-03-23,Morris,New Jersey,US,119,1.0,0
+2020-03-23,Ocean,New Jersey,US,102,1.0,0
+2020-03-23,Passaic,New Jersey,US,95,1.0,0
+2020-03-23,Salem,New Jersey,US,1,0.0,0
+2020-03-23,Somerset,New Jersey,US,51,0.0,0
+2020-03-23,Sussex,New Jersey,US,12,0.0,0
+2020-03-23,Union,New Jersey,US,124,0.0,0
+2020-03-24,Atlantic,New Jersey,US,6,0.0,0
+2020-03-24,Bergen,New Jersey,US,609,7.0,1
+2020-03-24,Burlington,New Jersey,US,36,0.0,0
+2020-03-24,Camden,New Jersey,US,33,1.0,0
+2020-03-24,Cape May,New Jersey,US,2,0.0,0
+2020-03-24,Cumberland,New Jersey,US,1,0.0,0
+2020-03-24,Essex,New Jersey,US,273,5.0,0
+2020-03-24,Gloucester,New Jersey,US,13,0.0,0
+2020-03-24,Hudson,New Jersey,US,190,1.0,0
+2020-03-24,Hunterdon,New Jersey,US,18,0.0,1
+2020-03-24,Mercer,New Jersey,US,50,0.0,0
+2020-03-24,Middlesex,New Jersey,US,210,1.0,0
+2020-03-24,Monmouth,New Jersey,US,238,3.0,0
+2020-03-24,Morris,New Jersey,US,177,1.0,0
+2020-03-24,Ocean,New Jersey,US,144,1.0,0
+2020-03-24,Passaic,New Jersey,US,141,1.0,0
+2020-03-24,Salem,New Jersey,US,1,0.0,0
+2020-03-24,Somerset,New Jersey,US,67,0.0,0
+2020-03-24,Sussex,New Jersey,US,15,0.0,0
+2020-03-24,Union,New Jersey,US,189,0.0,0
+2020-03-25,Atlantic,New Jersey,US,6,0.0,0
+2020-03-25,Bergen,New Jersey,US,701,14.0,1
+2020-03-25,Burlington,New Jersey,US,42,0.0,0
+2020-03-25,Camden,New Jersey,US,51,1.0,0
+2020-03-25,Cape May,New Jersey,US,3,0.0,0
+2020-03-25,Cumberland,New Jersey,US,2,0.0,0
+2020-03-25,Essex,New Jersey,US,342,8.0,0
+2020-03-25,Gloucester,New Jersey,US,19,0.0,0
+2020-03-25,Hudson,New Jersey,US,234,3.0,0
+2020-03-25,Hunterdon,New Jersey,US,25,0.0,1
+2020-03-25,Mercer,New Jersey,US,58,0.0,0
+2020-03-25,Middlesex,New Jersey,US,277,1.0,0
+2020-03-25,Monmouth,New Jersey,US,288,4.0,0
+2020-03-25,Morris,New Jersey,US,204,4.0,0
+2020-03-25,Ocean,New Jersey,US,180,1.0,0
+2020-03-25,Passaic,New Jersey,US,216,3.0,0
+2020-03-25,Salem,New Jersey,US,1,0.0,0
+2020-03-25,Somerset,New Jersey,US,102,2.0,0
+2020-03-25,Sussex,New Jersey,US,18,0.0,0
+2020-03-25,Union,New Jersey,US,246,2.0,0
+2020-03-26,Atlantic,New Jersey,US,6,0.0,0
+2020-03-26,Bergen,New Jersey,US,701,14.0,1
+2020-03-26,Burlington,New Jersey,US,42,0.0,0
+2020-03-26,Camden,New Jersey,US,51,1.0,0
+2020-03-26,Cape May,New Jersey,US,3,0.0,0
+2020-03-26,Cumberland,New Jersey,US,2,0.0,0
+2020-03-26,Essex,New Jersey,US,342,8.0,0
+2020-03-26,Gloucester,New Jersey,US,19,0.0,0
+2020-03-26,Hudson,New Jersey,US,234,3.0,0
+2020-03-26,Hunterdon,New Jersey,US,25,0.0,1
+2020-03-26,Mercer,New Jersey,US,58,0.0,0
+2020-03-26,Middlesex,New Jersey,US,277,1.0,0
+2020-03-26,Monmouth,New Jersey,US,288,4.0,0
+2020-03-26,Morris,New Jersey,US,204,4.0,0
+2020-03-26,Ocean,New Jersey,US,180,1.0,0
+2020-03-26,Passaic,New Jersey,US,216,3.0,0
+2020-03-26,Salem,New Jersey,US,1,0.0,0
+2020-03-26,Somerset,New Jersey,US,102,2.0,0
+2020-03-26,Sussex,New Jersey,US,18,0.0,0
+2020-03-26,Union,New Jersey,US,246,2.0,0
+2020-03-27,Atlantic,New Jersey,US,14,0.0,0
+2020-03-27,Bergen,New Jersey,US,1505,25.0,1
+2020-03-27,Burlington,New Jersey,US,88,3.0,0
+2020-03-27,Camden,New Jersey,US,95,1.0,0
+2020-03-27,Cape May,New Jersey,US,7,0.0,0
+2020-03-27,Cumberland,New Jersey,US,9,1.0,0
+2020-03-27,Essex,New Jersey,US,826,18.0,0
+2020-03-27,Gloucester,New Jersey,US,40,1.0,0
+2020-03-27,Hudson,New Jersey,US,594,5.0,0
+2020-03-27,Hunterdon,New Jersey,US,52,0.0,1
+2020-03-27,Mercer,New Jersey,US,131,0.0,0
+2020-03-27,Middlesex,New Jersey,US,640,9.0,0
+2020-03-27,Monmouth,New Jersey,US,634,11.0,0
+2020-03-27,Morris,New Jersey,US,391,9.0,0
+2020-03-27,Ocean,New Jersey,US,484,9.0,0
+2020-03-27,Passaic,New Jersey,US,484,5.0,0
+2020-03-27,Salem,New Jersey,US,3,0.0,0
+2020-03-27,Somerset,New Jersey,US,222,7.0,0
+2020-03-27,Sussex,New Jersey,US,65,0.0,0
+2020-03-27,Union,New Jersey,US,519,3.0,0
+2020-03-28,Atlantic,New Jersey,US,17,0.0,0
+2020-03-28,Bergen,New Jersey,US,1838,25.0,1
+2020-03-28,Burlington,New Jersey,US,115,3.0,0
+2020-03-28,Camden,New Jersey,US,123,1.0,0
+2020-03-28,Cape May,New Jersey,US,7,0.0,0
+2020-03-28,Cumberland,New Jersey,US,11,1.0,0
+2020-03-28,Essex,New Jersey,US,1086,18.0,0
+2020-03-28,Gloucester,New Jersey,US,51,1.0,0
+2020-03-28,Hudson,New Jersey,US,771,5.0,0
+2020-03-28,Hunterdon,New Jersey,US,61,0.0,1
+2020-03-28,Mercer,New Jersey,US,168,0.0,0
+2020-03-28,Middlesex,New Jersey,US,808,9.0,0
+2020-03-28,Monmouth,New Jersey,US,781,11.0,0
+2020-03-28,Morris,New Jersey,US,442,9.0,0
+2020-03-28,Ocean,New Jersey,US,624,9.0,0
+2020-03-28,Passaic,New Jersey,US,608,5.0,0
+2020-03-28,Salem,New Jersey,US,3,0.0,0
+2020-03-28,Somerset,New Jersey,US,258,7.0,0
+2020-03-28,Sussex,New Jersey,US,81,0.0,0
+2020-03-28,Union,New Jersey,US,742,3.0,0
+2020-03-29,Atlantic,New Jersey,US,24,0.0,0
+2020-03-29,Bergen,New Jersey,US,2169,25.0,1
+2020-03-29,Burlington,New Jersey,US,142,3.0,0
+2020-03-29,Camden,New Jersey,US,163,1.0,0
+2020-03-29,Cape May,New Jersey,US,9,0.0,0
+2020-03-29,Cumberland,New Jersey,US,11,1.0,0
+2020-03-29,Essex,New Jersey,US,1227,18.0,0
+2020-03-29,Gloucester,New Jersey,US,72,1.0,0
+2020-03-29,Hudson,New Jersey,US,974,5.0,0
+2020-03-29,Hunterdon,New Jersey,US,66,0.0,1
+2020-03-29,Mercer,New Jersey,US,202,0.0,0
+2020-03-29,Middlesex,New Jersey,US,938,9.0,0
+2020-03-29,Monmouth,New Jersey,US,870,11.0,0
+2020-03-29,Morris,New Jersey,US,566,9.0,0
+2020-03-29,Ocean,New Jersey,US,759,9.0,0
+2020-03-29,Passaic,New Jersey,US,831,5.0,0
+2020-03-29,Salem,New Jersey,US,3,0.0,0
+2020-03-29,Somerset,New Jersey,US,295,7.0,0
+2020-03-29,Sussex,New Jersey,US,93,0.0,0
+2020-03-29,Union,New Jersey,US,896,3.0,0
+2020-03-30,Atlantic,New Jersey,US,29,0.0,0
+2020-03-30,Bergen,New Jersey,US,2482,25.0,1
+2020-03-30,Burlington,New Jersey,US,178,3.0,0
+2020-03-30,Camden,New Jersey,US,200,1.0,0
+2020-03-30,Cape May,New Jersey,US,9,0.0,0
+2020-03-30,Cumberland,New Jersey,US,12,1.0,0
+2020-03-30,Essex,New Jersey,US,1564,20.0,0
+2020-03-30,Gloucester,New Jersey,US,89,1.0,0
+2020-03-30,Hudson,New Jersey,US,1314,5.0,7
+2020-03-30,Hunterdon,New Jersey,US,79,0.0,1
+2020-03-30,Mercer,New Jersey,US,249,0.0,0
+2020-03-30,Middlesex,New Jersey,US,1123,9.0,0
+2020-03-30,Monmouth,New Jersey,US,1030,11.0,0
+2020-03-30,Morris,New Jersey,US,720,9.0,0
+2020-03-30,Ocean,New Jersey,US,874,9.0,0
+2020-03-30,Passaic,New Jersey,US,1091,7.0,0
+2020-03-30,Salem,New Jersey,US,3,0.0,0
+2020-03-30,Somerset,New Jersey,US,349,8.0,0
+2020-03-30,Sussex,New Jersey,US,113,1.0,0
+2020-03-30,Union,New Jersey,US,1213,10.0,0
+2020-03-31,Atlantic,New Jersey,US,29,0.0,0
+2020-03-31,Bergen,New Jersey,US,2482,40.0,1
+2020-03-31,Burlington,New Jersey,US,178,3.0,7
+2020-03-31,Camden,New Jersey,US,200,3.0,0
+2020-03-31,Cape May,New Jersey,US,9,0.0,5
+2020-03-31,Cumberland,New Jersey,US,12,1.0,0
+2020-03-31,Essex,New Jersey,US,1564,35.0,0
+2020-03-31,Gloucester,New Jersey,US,89,1.0,0
+2020-03-31,Hudson,New Jersey,US,1314,5.0,7
+2020-03-31,Hunterdon,New Jersey,US,79,0.0,1
+2020-03-31,Mercer,New Jersey,US,249,0.0,7
+2020-03-31,Middlesex,New Jersey,US,1123,9.0,0
+2020-03-31,Monmouth,New Jersey,US,1030,11.0,0
+2020-03-31,Morris,New Jersey,US,720,9.0,16
+2020-03-31,Ocean,New Jersey,US,874,9.0,0
+2020-03-31,Passaic,New Jersey,US,1091,10.0,0
+2020-03-31,Salem,New Jersey,US,12,1.0,0
+2020-03-31,Somerset,New Jersey,US,349,11.0,0
+2020-03-31,Sussex,New Jersey,US,113,1.0,0
+2020-03-31,Union,New Jersey,US,1213,10.0,4
+2020-04-01,Atlantic,New Jersey,US,40,0.0,0
+2020-04-01,Bergen,New Jersey,US,3494,75.0,1
+2020-04-01,Burlington,New Jersey,US,255,5.0,7
+2020-04-01,Camden,New Jersey,US,289,3.0,0
+2020-04-01,Cape May,New Jersey,US,22,0.0,5
+2020-04-01,Cumberland,New Jersey,US,27,1.0,0
+2020-04-01,Essex,New Jersey,US,2262,69.0,0
+2020-04-01,Gloucester,New Jersey,US,149,2.0,0
+2020-04-01,Hudson,New Jersey,US,1910,29.0,7
+2020-04-01,Hunterdon,New Jersey,US,117,0.0,1
+2020-04-01,Mercer,New Jersey,US,333,3.0,7
+2020-04-01,Middlesex,New Jersey,US,1493,27.0,0
+2020-04-01,Monmouth,New Jersey,US,1301,24.0,0
+2020-04-01,Morris,New Jersey,US,942,25.0,16
+2020-04-01,Ocean,New Jersey,US,1209,23.0,0
+2020-04-01,Passaic,New Jersey,US,1494,15.0,0
+2020-04-01,Salem,New Jersey,US,19,1.0,0
+2020-04-01,Somerset,New Jersey,US,472,15.0,0
+2020-04-01,Sussex,New Jersey,US,158,6.0,0
+2020-04-01,Union,New Jersey,US,1661,29.0,4
+2020-04-02,Atlantic,New Jersey,US,50,1.0,5
+2020-04-02,Bergen,New Jersey,US,4099,120.0,1
+2020-04-02,Burlington,New Jersey,US,294,8.0,7
+2020-04-02,Camden,New Jersey,US,343,6.0,0
+2020-04-02,Cape May,New Jersey,US,34,0.0,11
+2020-04-02,Cumberland,New Jersey,US,31,1.0,0
+2020-04-02,Essex,New Jersey,US,2617,99.0,0
+2020-04-02,Gloucester,New Jersey,US,169,2.0,0
+2020-04-02,Hudson,New Jersey,US,2270,44.0,7
+2020-04-02,Hunterdon,New Jersey,US,130,0.0,1
+2020-04-02,Mercer,New Jersey,US,386,4.0,7
+2020-04-02,Middlesex,New Jersey,US,1766,48.0,0
+2020-04-02,Monmouth,New Jersey,US,1458,38.0,0
+2020-04-02,Morris,New Jersey,US,1082,40.0,16
+2020-04-02,Ocean,New Jersey,US,1371,38.0,0
+2020-04-02,Passaic,New Jersey,US,1750,22.0,0
+2020-04-02,Salem,New Jersey,US,20,1.0,0
+2020-04-02,Somerset,New Jersey,US,549,17.0,0
+2020-04-02,Sussex,New Jersey,US,179,7.0,0
+2020-04-02,Union,New Jersey,US,2010,34.0,4
+2020-04-03,Atlantic,New Jersey,US,72,1.0,5
+2020-04-03,Bergen,New Jersey,US,4866,132.0,1
+2020-04-03,Burlington,New Jersey,US,367,9.0,7
+2020-04-03,Camden,New Jersey,US,406,7.0,0
+2020-04-03,Cape May,New Jersey,US,44,0.0,11
+2020-04-03,Cumberland,New Jersey,US,36,1.0,0
+2020-04-03,Essex,New Jersey,US,3067,118.0,0
+2020-04-03,Gloucester,New Jersey,US,183,3.0,0
+2020-04-03,Hudson,New Jersey,US,2835,59.0,7
+2020-04-03,Hunterdon,New Jersey,US,148,0.0,1
+2020-04-03,Mercer,New Jersey,US,484,5.0,7
+2020-04-03,Middlesex,New Jersey,US,2125,56.0,0
+2020-04-03,Monmouth,New Jersey,US,1743,48.0,0
+2020-04-03,Morris,New Jersey,US,1298,43.0,16
+2020-04-03,Ocean,New Jersey,US,1685,45.0,0
+2020-04-03,Passaic,New Jersey,US,2216,34.0,0
+2020-04-03,Salem,New Jersey,US,25,2.0,0
+2020-04-03,Somerset,New Jersey,US,641,23.0,0
+2020-04-03,Sussex,New Jersey,US,210,8.0,0
+2020-04-03,Union,New Jersey,US,2487,45.0,4
+2020-04-04,Atlantic,New Jersey,US,72,1.0,6
+2020-04-04,Bergen,New Jersey,US,4866,132.0,1
+2020-04-04,Burlington,New Jersey,US,367,9.0,16
+2020-04-04,Camden,New Jersey,US,406,7.0,0
+2020-04-04,Cape May,New Jersey,US,44,0.0,13
+2020-04-04,Cumberland,New Jersey,US,36,1.0,0
+2020-04-04,Essex,New Jersey,US,3067,118.0,0
+2020-04-04,Gloucester,New Jersey,US,183,3.0,0
+2020-04-04,Hudson,New Jersey,US,2835,59.0,12
+2020-04-04,Hunterdon,New Jersey,US,148,0.0,1
+2020-04-04,Mercer,New Jersey,US,484,5.0,24
+2020-04-04,Middlesex,New Jersey,US,2125,56.0,0
+2020-04-04,Monmouth,New Jersey,US,1743,48.0,0
+2020-04-04,Morris,New Jersey,US,1298,43.0,17
+2020-04-04,Ocean,New Jersey,US,1685,45.0,0
+2020-04-04,Passaic,New Jersey,US,2216,34.0,0
+2020-04-04,Salem,New Jersey,US,25,2.0,0
+2020-04-04,Somerset,New Jersey,US,641,23.0,0
+2020-04-04,Sussex,New Jersey,US,210,8.0,0
+2020-04-04,Union,New Jersey,US,2487,45.0,13
+2020-04-05,Atlantic,New Jersey,US,121,1.0,6
+2020-04-05,Bergen,New Jersey,US,6187,189.0,1
+2020-04-05,Burlington,New Jersey,US,547,11.0,16
+2020-04-05,Camden,New Jersey,US,556,8.0,0
+2020-04-05,Cape May,New Jersey,US,77,2.0,13
+2020-04-05,Cumberland,New Jersey,US,54,2.0,0
+2020-04-05,Essex,New Jersey,US,4082,172.0,0
+2020-04-05,Gloucester,New Jersey,US,248,3.0,0
+2020-04-05,Hudson,New Jersey,US,3924,87.0,12
+2020-04-05,Hunterdon,New Jersey,US,189,2.0,1
+2020-04-05,Mercer,New Jersey,US,654,16.0,24
+2020-04-05,Middlesex,New Jersey,US,2950,80.0,0
+2020-04-05,Monmouth,New Jersey,US,2354,58.0,0
+2020-04-05,Morris,New Jersey,US,1800,55.0,17
+2020-04-05,Ocean,New Jersey,US,2177,62.0,0
+2020-04-05,Passaic,New Jersey,US,3227,42.0,0
+2020-04-05,Salem,New Jersey,US,26,2.0,0
+2020-04-05,Somerset,New Jersey,US,833,26.0,0
+2020-04-05,Sussex,New Jersey,US,267,9.0,0
+2020-04-05,Union,New Jersey,US,3216,71.0,13
+2020-04-06,Atlantic,New Jersey,US,121,1.0,11
+2020-04-06,Bergen,New Jersey,US,6187,189.0,2
+2020-04-06,Burlington,New Jersey,US,547,11.0,21
+2020-04-06,Camden,New Jersey,US,556,8.0,0
+2020-04-06,Cape May,New Jersey,US,77,2.0,15
+2020-04-06,Cumberland,New Jersey,US,54,2.0,0
+2020-04-06,Essex,New Jersey,US,4082,172.0,0
+2020-04-06,Gloucester,New Jersey,US,248,3.0,0
+2020-04-06,Hudson,New Jersey,US,3924,87.0,12
+2020-04-06,Hunterdon,New Jersey,US,189,2.0,1
+2020-04-06,Mercer,New Jersey,US,654,16.0,24
+2020-04-06,Middlesex,New Jersey,US,2950,80.0,0
+2020-04-06,Monmouth,New Jersey,US,2354,58.0,0
+2020-04-06,Morris,New Jersey,US,1800,55.0,17
+2020-04-06,Ocean,New Jersey,US,2177,62.0,0
+2020-04-06,Passaic,New Jersey,US,3227,42.0,0
+2020-04-06,Salem,New Jersey,US,26,2.0,0
+2020-04-06,Somerset,New Jersey,US,833,26.0,0
+2020-04-06,Sussex,New Jersey,US,267,9.0,0
+2020-04-06,Union,New Jersey,US,3216,71.0,13
+2020-04-07,Atlantic,New Jersey,US,144,4.0,19
+2020-04-07,Bergen,New Jersey,US,7533,263.0,2
+2020-04-07,Burlington,New Jersey,US,733,13.0,48
+2020-04-07,Camden,New Jersey,US,736,12.0,0
+2020-04-07,Cape May,New Jersey,US,94,2.0,15
+2020-04-07,Cumberland,New Jersey,US,71,2.0,0
+2020-04-07,Essex,New Jersey,US,5078,232.0,0
+2020-04-07,Gloucester,New Jersey,US,311,5.0,0
+2020-04-07,Hudson,New Jersey,US,4949,103.0,44
+2020-04-07,Hunterdon,New Jersey,US,234,2.0,1
+2020-04-07,Mercer,New Jersey,US,837,24.0,24
+2020-04-07,Middlesex,New Jersey,US,3717,100.0,0
+2020-04-07,Monmouth,New Jersey,US,2770,71.0,0
+2020-04-07,Morris,New Jersey,US,2239,87.0,18
+2020-04-07,Ocean,New Jersey,US,2641,85.0,0
+2020-04-07,Passaic,New Jersey,US,4101,62.0,0
+2020-04-07,Salem,New Jersey,US,31,3.0,0
+2020-04-07,Somerset,New Jersey,US,1033,40.0,0
+2020-04-07,Sussex,New Jersey,US,331,15.0,0
+2020-04-07,Union,New Jersey,US,4358,95.0,15
+2020-04-08,Atlantic,New Jersey,US,144,4.0,19
+2020-04-08,Bergen,New Jersey,US,7533,263.0,2
+2020-04-08,Burlington,New Jersey,US,733,13.0,48
+2020-04-08,Camden,New Jersey,US,736,12.0,0
+2020-04-08,Cape May,New Jersey,US,94,2.0,15
+2020-04-08,Cumberland,New Jersey,US,71,2.0,0
+2020-04-08,Essex,New Jersey,US,5078,232.0,0
+2020-04-08,Gloucester,New Jersey,US,311,5.0,0
+2020-04-08,Hudson,New Jersey,US,4949,103.0,44
+2020-04-08,Hunterdon,New Jersey,US,234,2.0,1
+2020-04-08,Mercer,New Jersey,US,837,24.0,24
+2020-04-08,Middlesex,New Jersey,US,3717,100.0,0
+2020-04-08,Monmouth,New Jersey,US,2770,71.0,0
+2020-04-08,Morris,New Jersey,US,2239,87.0,18
+2020-04-08,Ocean,New Jersey,US,2641,85.0,0
+2020-04-08,Passaic,New Jersey,US,4101,62.0,0
+2020-04-08,Salem,New Jersey,US,31,3.0,0
+2020-04-08,Somerset,New Jersey,US,1033,40.0,0
+2020-04-08,Sussex,New Jersey,US,331,15.0,0
+2020-04-08,Union,New Jersey,US,4358,95.0,15
+2020-04-09,Atlantic,New Jersey,US,191,4.0,26
+2020-04-09,Bergen,New Jersey,US,8343,345.0,2
+2020-04-09,Burlington,New Jersey,US,883,21.0,48
+2020-04-09,Camden,New Jersey,US,990,23.0,0
+2020-04-09,Cape May,New Jersey,US,109,3.0,15
+2020-04-09,Cumberland,New Jersey,US,111,3.0,0
+2020-04-09,Essex,New Jersey,US,6069,321.0,0
+2020-04-09,Gloucester,New Jersey,US,413,8.0,0
+2020-04-09,Hudson,New Jersey,US,5879,132.0,84
+2020-04-09,Hunterdon,New Jersey,US,286,4.0,1
+2020-04-09,Mercer,New Jersey,US,1161,36.0,24
+2020-04-09,Middlesex,New Jersey,US,4628,152.0,0
+2020-04-09,Monmouth,New Jersey,US,3248,98.0,0
+2020-04-09,Morris,New Jersey,US,2645,117.0,18
+2020-04-09,Ocean,New Jersey,US,3093,119.0,0
+2020-04-09,Passaic,New Jersey,US,4690,82.0,0
+2020-04-09,Salem,New Jersey,US,43,3.0,0
+2020-04-09,Somerset,New Jersey,US,1335,59.0,0
+2020-04-09,Sussex,New Jersey,US,392,21.0,0
+2020-04-09,Union,New Jersey,US,5203,145.0,48
+2020-04-10,Atlantic,New Jersey,US,191,4.0,26
+2020-04-10,Bergen,New Jersey,US,8343,345.0,2
+2020-04-10,Burlington,New Jersey,US,883,21.0,48
+2020-04-10,Camden,New Jersey,US,990,23.0,0
+2020-04-10,Cape May,New Jersey,US,109,3.0,15
+2020-04-10,Cumberland,New Jersey,US,111,3.0,0
+2020-04-10,Essex,New Jersey,US,6069,321.0,0
+2020-04-10,Gloucester,New Jersey,US,413,8.0,0
+2020-04-10,Hudson,New Jersey,US,5879,132.0,84
+2020-04-10,Hunterdon,New Jersey,US,286,4.0,1
+2020-04-10,Mercer,New Jersey,US,1161,36.0,24
+2020-04-10,Middlesex,New Jersey,US,4628,152.0,0
+2020-04-10,Monmouth,New Jersey,US,3248,98.0,0
+2020-04-10,Morris,New Jersey,US,2645,117.0,18
+2020-04-10,Ocean,New Jersey,US,3093,119.0,0
+2020-04-10,Passaic,New Jersey,US,4690,82.0,0
+2020-04-10,Salem,New Jersey,US,43,3.0,0
+2020-04-10,Somerset,New Jersey,US,1335,59.0,0
+2020-04-10,Sussex,New Jersey,US,392,21.0,0
+2020-04-10,Union,New Jersey,US,5203,145.0,48
+2020-04-11,Atlantic,New Jersey,US,211,6.0,26
+2020-04-11,Bergen,New Jersey,US,8928,390.0,2
+2020-04-11,Burlington,New Jersey,US,954,22.0,48
+2020-04-11,Camden,New Jersey,US,1072,29.0,0
+2020-04-11,Cape May,New Jersey,US,116,5.0,15
+2020-04-11,Cumberland,New Jersey,US,138,3.0,0
+2020-04-11,Essex,New Jersey,US,6580,352.0,0
+2020-04-11,Gloucester,New Jersey,US,447,8.0,0
+2020-04-11,Hudson,New Jersey,US,6411,163.0,84
+2020-04-11,Hunterdon,New Jersey,US,293,7.0,1
+2020-04-11,Mercer,New Jersey,US,1282,39.0,24
+2020-04-11,Middlesex,New Jersey,US,5060,168.0,0
+2020-04-11,Monmouth,New Jersey,US,3496,107.0,0
+2020-04-11,Morris,New Jersey,US,2771,135.0,18
+2020-04-11,Ocean,New Jersey,US,3269,121.0,0
+2020-04-11,Passaic,New Jersey,US,5017,101.0,0
+2020-04-11,Salem,New Jersey,US,46,3.0,0
+2020-04-11,Somerset,New Jersey,US,1523,69.0,0
+2020-04-11,Sussex,New Jersey,US,413,26.0,0
+2020-04-11,Union,New Jersey,US,5575,161.0,48
+2020-04-12,Atlantic,New Jersey,US,211,6.0,26
+2020-04-12,Bergen,New Jersey,US,8928,390.0,2
+2020-04-12,Burlington,New Jersey,US,954,22.0,48
+2020-04-12,Camden,New Jersey,US,1072,29.0,0
+2020-04-12,Cape May,New Jersey,US,116,5.0,15
+2020-04-12,Cumberland,New Jersey,US,138,3.0,0
+2020-04-12,Essex,New Jersey,US,6580,352.0,0
+2020-04-12,Gloucester,New Jersey,US,447,8.0,0
+2020-04-12,Hudson,New Jersey,US,6411,163.0,84
+2020-04-12,Hunterdon,New Jersey,US,293,7.0,1
+2020-04-12,Mercer,New Jersey,US,1282,39.0,24
+2020-04-12,Middlesex,New Jersey,US,5060,168.0,0
+2020-04-12,Monmouth,New Jersey,US,3496,107.0,0
+2020-04-12,Morris,New Jersey,US,2771,135.0,18
+2020-04-12,Ocean,New Jersey,US,3269,121.0,0
+2020-04-12,Passaic,New Jersey,US,5017,101.0,0
+2020-04-12,Salem,New Jersey,US,46,3.0,0
+2020-04-12,Somerset,New Jersey,US,1523,69.0,0
+2020-04-12,Sussex,New Jersey,US,413,26.0,0
+2020-04-12,Union,New Jersey,US,5575,161.0,48
+2020-04-13,Atlantic,New Jersey,US,253,8.0,26
+2020-04-13,Bergen,New Jersey,US,9784,453.0,2
+2020-04-13,Burlington,New Jersey,US,1095,23.0,48
+2020-04-13,Camden,New Jersey,US,1270,32.0,0
+2020-04-13,Cape May,New Jersey,US,145,9.0,15
+2020-04-13,Cumberland,New Jersey,US,165,3.0,0
+2020-04-13,Essex,New Jersey,US,7410,428.0,0
+2020-04-13,Gloucester,New Jersey,US,532,9.0,0
+2020-04-13,Hudson,New Jersey,US,7469,226.0,129
+2020-04-13,Hunterdon,New Jersey,US,314,11.0,1
+2020-04-13,Mercer,New Jersey,US,1567,50.0,24
+2020-04-13,Middlesex,New Jersey,US,5693,193.0,0
+2020-04-13,Monmouth,New Jersey,US,3785,123.0,0
+2020-04-13,Morris,New Jersey,US,3099,162.0,19
+2020-04-13,Ocean,New Jersey,US,3554,138.0,0
+2020-04-13,Passaic,New Jersey,US,5590,131.0,0
+2020-04-13,Salem,New Jersey,US,61,4.0,0
+2020-04-13,Somerset,New Jersey,US,1732,79.0,0
+2020-04-13,Sussex,New Jersey,US,483,35.0,0
+2020-04-13,Union,New Jersey,US,6180,209.0,54
+2020-04-14,Atlantic,New Jersey,US,253,8.0,26
+2020-04-14,Bergen,New Jersey,US,9784,453.0,2
+2020-04-14,Burlington,New Jersey,US,1095,23.0,48
+2020-04-14,Camden,New Jersey,US,1270,32.0,0
+2020-04-14,Cape May,New Jersey,US,145,9.0,15
+2020-04-14,Cumberland,New Jersey,US,165,3.0,0
+2020-04-14,Essex,New Jersey,US,7410,428.0,0
+2020-04-14,Gloucester,New Jersey,US,532,9.0,0
+2020-04-14,Hudson,New Jersey,US,7469,226.0,129
+2020-04-14,Hunterdon,New Jersey,US,314,11.0,1
+2020-04-14,Mercer,New Jersey,US,1567,50.0,24
+2020-04-14,Middlesex,New Jersey,US,5693,193.0,0
+2020-04-14,Monmouth,New Jersey,US,3785,123.0,0
+2020-04-14,Morris,New Jersey,US,3099,162.0,19
+2020-04-14,Ocean,New Jersey,US,3554,138.0,0
+2020-04-14,Passaic,New Jersey,US,5590,131.0,0
+2020-04-14,Salem,New Jersey,US,61,4.0,0
+2020-04-14,Somerset,New Jersey,US,1732,79.0,0
+2020-04-14,Sussex,New Jersey,US,483,35.0,0
+2020-04-14,Union,New Jersey,US,6180,209.0,54
+2020-03-20,Albany,New York,US,70,0.0,0.0
+2020-03-20,Allegany,New York,US,2,0.0,0.0
+2020-03-20,Broome,New York,US,2,0.0,0.0
+2020-03-20,Chenango,New York,US,2,0.0,0.0
+2020-03-20,Clinton,New York,US,3,0.0,0.0
+2020-03-20,Delaware,New York,US,1,0.0,0.0
+2020-03-20,Dutchess,New York,US,36,0.0,0.0
+2020-03-20,Erie,New York,US,31,0.0,0.0
+2020-03-20,Essex,New York,US,1,0.0,0.0
+2020-03-20,Fulton,New York,US,1,0.0,0.0
+2020-03-20,Genesee,New York,US,1,0.0,0.0
+2020-03-20,Greene,New York,US,2,0.0,0.0
+2020-03-20,Hamilton,New York,US,2,0.0,0.0
+2020-03-20,Herkimer,New York,US,1,0.0,0.0
+2020-03-20,Monroe,New York,US,32,1.0,0.0
+2020-03-20,Montgomery,New York,US,2,0.0,0.0
+2020-03-20,Nassau,New York,US,754,3.0,0.0
+2020-03-20,Niagara,New York,US,4,0.0,0.0
+2020-03-20,Oneida,New York,US,4,0.0,0.0
+2020-03-20,Onondaga,New York,US,7,0.0,0.0
+2020-03-20,Ontario,New York,US,3,0.0,0.0
+2020-03-20,Orange,New York,US,84,0.0,0.0
+2020-03-20,Putnam,New York,US,5,0.0,0.0
+2020-03-20,Rensselaer,New York,US,6,0.0,0.0
+2020-03-20,Rockland,New York,US,101,1.0,0.0
+2020-03-20,Saratoga,New York,US,21,0.0,0.0
+2020-03-20,Schenectady,New York,US,14,0.0,0.0
+2020-03-20,Schoharie,New York,US,1,0.0,0.0
+2020-03-20,Suffolk,New York,US,374,3.0,0.0
+2020-03-20,Sullivan,New York,US,3,0.0,0.0
+2020-03-20,Steuben,New York,US,3,0.0,0.0
+2020-03-20,Tioga,New York,US,1,0.0,0.0
+2020-03-20,Tompkins,New York,US,6,0.0,0.0
+2020-03-20,Ulster,New York,US,9,0.0,0.0
+2020-03-20,Warren,New York,US,1,0.0,0.0
+2020-03-20,Washington,New York,US,1,0.0,0.0
+2020-03-20,Wayne,New York,US,1,0.0,0.0
+2020-03-20,Westchester,New York,US,1091,0.0,0.0
+2020-03-20,Wyoming,New York,US,2,0.0,0.0
+2020-03-20,Total ,New York,US,2694,12.0,0.0
+2020-03-21,Albany,New York,US,70,0.0,0
+2020-03-21,Allegany,New York,US,2,0.0,0
+2020-03-21,Broome,New York,US,2,0.0,0
+2020-03-21,Chenango,New York,US,2,0.0,0
+2020-03-21,Clinton,New York,US,3,0.0,0
+2020-03-21,Delaware,New York,US,1,0.0,0
+2020-03-21,Dutchess,New York,US,36,0.0,0
+2020-03-21,Erie,New York,US,47,0.0,0
+2020-03-21,Essex,New York,US,1,0.0,0
+2020-03-21,Fulton,New York,US,1,0.0,0
+2020-03-21,Genesee,New York,US,1,0.0,0
+2020-03-21,Greene,New York,US,4,0.0,0
+2020-03-21,Hamilton,New York,US,2,0.0,0
+2020-03-21,Herkimer,New York,US,1,0.0,0
+2020-03-21,Monroe,New York,US,46,1.0,0
+2020-03-21,Montgomery,New York,US,2,0.0,0
+2020-03-21,Nassau,New York,US,1234,4.0,0
+2020-03-21,Niagara,New York,US,9,0.0,0
+2020-03-21,Oneida,New York,US,4,0.0,0
+2020-03-21,Onondaga,New York,US,13,0.0,0
+2020-03-21,Ontario,New York,US,3,0.0,0
+2020-03-21,Orange,New York,US,84,0.0,0
+2020-03-21,Putnam,New York,US,12,0.0,0
+2020-03-21,Rensselaer,New York,US,15,0.0,0
+2020-03-21,Rockland,New York,US,262,1.0,0
+2020-03-21,Saratoga,New York,US,24,0.0,0
+2020-03-21,Schenectady,New York,US,21,0.0,0
+2020-03-21,Schoharie,New York,US,2,0.0,0
+2020-03-21,Suffolk,New York,US,662,7.0,0
+2020-03-21,Sullivan,New York,US,8,0.0,0
+2020-03-21,Steuben,New York,US,3,0.0,0
+2020-03-21,Tioga,New York,US,1,0.0,0
+2020-03-21,Tompkins,New York,US,11,0.0,0
+2020-03-21,Ulster,New York,US,12,0.0,0
+2020-03-21,Warren,New York,US,1,0.0,0
+2020-03-21,Washington,New York,US,1,0.0,0
+2020-03-21,Wayne,New York,US,1,0.0,0
+2020-03-21,Westchester,New York,US,1385,0.0,0
+2020-03-21,Wyoming,New York,US,2,0.0,0
+2020-03-21,Total ,New York,US,3987,13.0,0
+2020-03-22,Albany,New York,US,123,0.0,0
+2020-03-22,Allegany,New York,US,2,0.0,0
+2020-03-22,Broome,New York,US,3,0.0,0
+2020-03-22,Chenango,New York,US,3,0.0,0
+2020-03-22,Clinton,New York,US,4,0.0,0
+2020-03-22,Columbia,New York,US,5,0.0,0
+2020-03-22,Cortland,New York,US,1,0.0,0
+2020-03-22,Delaware,New York,US,3,0.0,0
+2020-03-22,Dutchess,New York,US,82,0.0,0
+2020-03-22,Erie,New York,US,54,0.0,0
+2020-03-22,Essex,New York,US,3,0.0,0
+2020-03-22,Fulton,New York,US,1,0.0,0
+2020-03-22,Genesee,New York,US,1,0.0,0
+2020-03-22,Greene,New York,US,2,0.0,0
+2020-03-22,Hamilton,New York,US,2,0.0,0
+2020-03-22,Herkimer,New York,US,4,0.0,0
+2020-03-22,Jefferson,New York,US,1,0.0,0
+2020-03-22,Livingston,New York,US,2,0.0,0
+2020-03-22,Madison,New York,US,1,0.0,0
+2020-03-22,Monroe,New York,US,68,1.0,0
+2020-03-22,Montgomery,New York,US,3,0.0,0
+2020-03-22,Nassau,New York,US,1900,4.0,0
+2020-03-22,Niagara,New York,US,9[111],0.0,0
+2020-03-22,Oneida,New York,US,5,0.0,0
+2020-03-22,Onondaga,New York,US,29,0.0,0
+2020-03-22,Ontario,New York,US,6,0.0,0
+2020-03-22,Orange,New York,US,247,0.0,0
+2020-03-22,Putnam,New York,US,37,0.0,0
+2020-03-22,Rensselaer,New York,US,26,0.0,0
+2020-03-22,Rockland,New York,US,455,1.0,0
+2020-03-22,Saratoga,New York,US,41,0.0,0
+2020-03-22,Schenectady,New York,US,39,0.0,0
+2020-03-22,Schoharie,New York,US,1,0.0,0
+2020-03-22,St. Lawrence,New York,US,1,0.0,0
+2020-03-22,Steuben,New York,US,3,0.0,0
+2020-03-22,Suffolk,New York,US,1034,7.0,0
+2020-03-22,Sullivan,New York,US,16,0.0,0
+2020-03-22,Tioga,New York,US,1,0.0,0
+2020-03-22,Tompkins,New York,US,13,0.0,0
+2020-03-22,Ulster,New York,US,26,0.0,0
+2020-03-22,Warren,New York,US,1,0.0,0
+2020-03-22,Washington,New York,US,1,0.0,0
+2020-03-22,Wayne,New York,US,3,0.0,0
+2020-03-22,Westchester,New York,US,1873,0.0,0
+2020-03-22,Wyoming,New York,US,2,0.0,0
+2020-03-22,Total ,New York,US,6123,13.0,0
+2020-03-23,Albany,New York,US,127,0.0,0
+2020-03-23,Allegany,New York,US,2,0.0,0
+2020-03-23,Broome,New York,US,7,1.0,0
+2020-03-23,Cayuga,New York,US,2,0.0,0
+2020-03-23,Chemung,New York,US,2,0.0,0
+2020-03-23,Chenango,New York,US,3,0.0,0
+2020-03-23,Clinton,New York,US,6,0.0,0
+2020-03-23,Columbia,New York,US,10,0.0,0
+2020-03-23,Cortland,New York,US,2,0.0,0
+2020-03-23,Delaware,New York,US,3,0.0,0
+2020-03-23,Dutchess,New York,US,100,0.0,0
+2020-03-23,Erie,New York,US,87,0.0,0
+2020-03-23,Essex,New York,US,3,0.0,0
+2020-03-23,Fulton,New York,US,1,0.0,0
+2020-03-23,Genesee,New York,US,1,0.0,0
+2020-03-23,Greene,New York,US,4,0.0,0
+2020-03-23,Hamilton,New York,US,2,0.0,0
+2020-03-23,Herkimer,New York,US,4,0.0,0
+2020-03-23,Jefferson,New York,US,2,0.0,0
+2020-03-23,Livingston,New York,US,3,0.0,0
+2020-03-23,Madison,New York,US,4,0.0,0
+2020-03-23,Monroe,New York,US,76,2.0,0
+2020-03-23,Montgomery,New York,US,3,0.0,0
+2020-03-23,Nassau,New York,US,2442,4.0,0
+2020-03-23,Niagara,New York,US,10,0.0,0
+2020-03-23,Oneida,New York,US,7,0.0,0
+2020-03-23,Onondaga,New York,US,52,0.0,0
+2020-03-23,Ontario,New York,US,6,0.0,0
+2020-03-23,Orange,New York,US,389,0.0,0
+2020-03-23,Oswego,New York,US,1,0.0,0
+2020-03-23,Otsego,New York,US,1,0.0,0
+2020-03-23,Putnam,New York,US,45,0.0,0
+2020-03-23,Rensselaer,New York,US,29,0.0,0
+2020-03-23,Rockland,New York,US,592,1.0,0
+2020-03-23,Saratoga,New York,US,53,0.0,0
+2020-03-23,Schenectady,New York,US,39,0.0,0
+2020-03-23,Schoharie,New York,US,1,0.0,0
+2020-03-23,St. Lawrence,New York,US,1,0.0,0
+2020-03-23,Steuben,New York,US,4,0.0,0
+2020-03-23,Suffolk,New York,US,1458,7.0,0
+2020-03-23,Sullivan,New York,US,23,0.0,0
+2020-03-23,Tioga,New York,US,1,0.0,0
+2020-03-23,Tompkins,New York,US,15,0.0,0
+2020-03-23,Ulster,New York,US,35,0.0,0
+2020-03-23,Warren,New York,US,2,0.0,0
+2020-03-23,Washington,New York,US,3,0.0,0
+2020-03-23,Wayne,New York,US,6,0.0,0
+2020-03-23,Westchester,New York,US,2894,0.0,0
+2020-03-23,Wyoming,New York,US,4,0.0,0
+2020-03-23,Total ,New York,US,8570,13.0,0
+2020-03-24,Albany,New York,US,127,0.0,0
+2020-03-24,Allegany,New York,US,2,0.0,0
+2020-03-24,Broome,New York,US,7,1.0,0
+2020-03-24,Cayuga,New York,US,2,0.0,0
+2020-03-24,Chemung,New York,US,2,0.0,0
+2020-03-24,Chenango,New York,US,3,0.0,0
+2020-03-24,Clinton,New York,US,6,0.0,0
+2020-03-24,Columbia,New York,US,10,0.0,0
+2020-03-24,Cortland,New York,US,2,0.0,0
+2020-03-24,Delaware,New York,US,3,0.0,0
+2020-03-24,Dutchess,New York,US,100,1.0,0
+2020-03-24,Erie,New York,US,87,0.0,0
+2020-03-24,Essex,New York,US,3,0.0,0
+2020-03-24,Fulton,New York,US,1,0.0,0
+2020-03-24,Genesee,New York,US,1,0.0,0
+2020-03-24,Greene,New York,US,4,0.0,0
+2020-03-24,Hamilton,New York,US,2,0.0,0
+2020-03-24,Herkimer,New York,US,4,0.0,0
+2020-03-24,Jefferson,New York,US,2,0.0,0
+2020-03-24,Livingston,New York,US,3,0.0,0
+2020-03-24,Madison,New York,US,4,0.0,0
+2020-03-24,Monroe,New York,US,95,3.0,0
+2020-03-24,Montgomery,New York,US,3,0.0,0
+2020-03-24,Nassau,New York,US,2442,4.0,0
+2020-03-24,Niagara,New York,US,10,0.0,0
+2020-03-24,Oneida,New York,US,7,0.0,0
+2020-03-24,Onondaga,New York,US,52,0.0,0
+2020-03-24,Ontario,New York,US,6,0.0,0
+2020-03-24,Orange,New York,US,389,0.0,0
+2020-03-24,Oswego,New York,US,1,0.0,0
+2020-03-24,Otsego,New York,US,1,0.0,0
+2020-03-24,Putnam,New York,US,45,0.0,0
+2020-03-24,Rensselaer,New York,US,33[122],0.0,0
+2020-03-24,Rockland,New York,US,592,1.0,0
+2020-03-24,Saratoga,New York,US,53,0.0,0
+2020-03-24,Schenectady,New York,US,39,0.0,0
+2020-03-24,Schoharie,New York,US,1,0.0,0
+2020-03-24,St. Lawrence,New York,US,1,0.0,0
+2020-03-24,Steuben,New York,US,4,0.0,0
+2020-03-24,Suffolk,New York,US,1458,7.0,0
+2020-03-24,Sullivan,New York,US,23,0.0,0
+2020-03-24,Tioga,New York,US,1,0.0,0
+2020-03-24,Tompkins,New York,US,16,0.0,0
+2020-03-24,Ulster,New York,US,35,0.0,0
+2020-03-24,Warren,New York,US,2,0.0,0
+2020-03-24,Washington,New York,US,3,0.0,0
+2020-03-24,Wayne,New York,US,6,0.0,0
+2020-03-24,Westchester,New York,US,2894,0.0,0
+2020-03-24,Wyoming,New York,US,4,0.0,0
+2020-03-24,Total ,New York,US,8570,13.0,0
+2020-03-25,Albany,New York,US,152,0.0,1
+2020-03-25,Allegany,New York,US,2,0.0,0
+2020-03-25,Broome,New York,US,9,1.0,0
+2020-03-25,Cattaraugus,New York,US,0[128],0.0,0
+2020-03-25,Cayuga,New York,US,2,0.0,0
+2020-03-25,Chautauqua,New York,US,3[129],0.0,0
+2020-03-25,Chemung,New York,US,3,0.0,0
+2020-03-25,Chenango,New York,US,3,0.0,0
+2020-03-25,Clinton,New York,US,8,0.0,0
+2020-03-25,Columbia,New York,US,18,0.0,0
+2020-03-25,Cortland,New York,US,2,0.0,0
+2020-03-25,Delaware,New York,US,3,0.0,0
+2020-03-25,Dutchess,New York,US,124,1.0,0
+2020-03-25,Erie,New York,US,122,0.0,0
+2020-03-25,Essex,New York,US,3,0.0,0
+2020-03-25,Fulton,New York,US,1,0.0,0
+2020-03-25,Genesee,New York,US,1,0.0,0
+2020-03-25,Greene,New York,US,4,0.0,0
+2020-03-25,Hamilton,New York,US,2,0.0,0
+2020-03-25,Herkimer,New York,US,4,0.0,0
+2020-03-25,Jefferson,New York,US,2,0.0,0
+2020-03-25,Livingston,New York,US,3,0.0,0
+2020-03-25,Madison,New York,US,5,0.0,0
+2020-03-25,Monroe,New York,US,117,3.0,0
+2020-03-25,Montgomery,New York,US,3,0.0,0
+2020-03-25,Nassau,New York,US,2869,9.0,0
+2020-03-25,Niagara,New York,US,12,0.0,0
+2020-03-25,Oneida,New York,US,10,0.0,0
+2020-03-25,Onondaga,New York,US,60,1.0,0
+2020-03-25,Ontario,New York,US,7,0.0,0
+2020-03-25,Orange,New York,US,498,0.0,0
+2020-03-25,Oswego,New York,US,2,0.0,0
+2020-03-25,Otsego,New York,US,1,0.0,0
+2020-03-25,Putnam,New York,US,82,0.0,0
+2020-03-25,Rensselaer,New York,US,36[131],0.0,0
+2020-03-25,Rockland,New York,US,671,5.0,0
+2020-03-25,Saratoga,New York,US,60,0.0,0
+2020-03-25,Schenectady,New York,US,46,0.0,0
+2020-03-25,Schoharie,New York,US,1,0.0,0
+2020-03-25,St. Lawrence,New York,US,1,0.0,0
+2020-03-25,Steuben,New York,US,8,0.0,0
+2020-03-25,Suffolk,New York,US,1880,17.0,0
+2020-03-25,Sullivan,New York,US,30,0.0,0
+2020-03-25,Tioga,New York,US,1,0.0,0
+2020-03-25,Tompkins,New York,US,18,0.0,0
+2020-03-25,Ulster,New York,US,47,0.0,0
+2020-03-25,Warren,New York,US,2,0.0,0
+2020-03-25,Washington,New York,US,3,0.0,0
+2020-03-25,Wayne,New York,US,6,0.0,0
+2020-03-25,Westchester,New York,US,3891,1.0,0
+2020-03-25,Wyoming,New York,US,4,0.0,0
+2020-03-25,Total ,New York,US,10836,79.0,1
+2020-03-26,Albany,New York,US,152,0.0,1
+2020-03-26,Allegany,New York,US,2,0.0,0
+2020-03-26,Broome,New York,US,16,1.0,0
+2020-03-26,Cattaraugus,New York,US,0[134],0.0,0
+2020-03-26,Cayuga,New York,US,2,0.0,0
+2020-03-26,Chautauqua,New York,US,3[135],0.0,0
+2020-03-26,Chemung,New York,US,1,0.0,0
+2020-03-26,Chenango,New York,US,3,0.0,0
+2020-03-26,Clinton,New York,US,11,0.0,0
+2020-03-26,Columbia,New York,US,12,0.0,0
+2020-03-26,Cortland,New York,US,3,0.0,0
+2020-03-26,Delaware,New York,US,5,0.0,0
+2020-03-26,Dutchess,New York,US,153,1.0,0
+2020-03-26,Erie,New York,US,146,0.0,0
+2020-03-26,Essex,New York,US,5,0.0,0
+2020-03-26,Franklin,New York,US,1,0.0,0
+2020-03-26,Fulton,New York,US,1,0.0,0
+2020-03-26,Genesee,New York,US,4[137],0.0,0
+2020-03-26,Greene,New York,US,4,0.0,0
+2020-03-26,Hamilton,New York,US,2,0.0,0
+2020-03-26,Herkimer,New York,US,5,0.0,0
+2020-03-26,Jefferson,New York,US,3,0.0,0
+2020-03-26,Livingston,New York,US,3,0.0,0
+2020-03-26,Madison,New York,US,9,1.0,0
+2020-03-26,Monroe,New York,US,142,3.0,0
+2020-03-26,Montgomery,New York,US,4,0.0,0
+2020-03-26,Nassau,New York,US,3285,9.0,0
+2020-03-26,Niagara,New York,US,19,0.0,0
+2020-03-26,Oneida,New York,US,13,0.0,0
+2020-03-26,Onondaga,New York,US,65,1.0,0
+2020-03-26,Ontario,New York,US,11,0.0,0
+2020-03-26,Orange,New York,US,638,0.0,0
+2020-03-26,Orleans,New York,US,4[137],0.0,0
+2020-03-26,Oswego,New York,US,4,0.0,0
+2020-03-26,Otsego,New York,US,2,0.0,0
+2020-03-26,Putnam,New York,US,84,0.0,0
+2020-03-26,Rensselaer,New York,US,31,0.0,0
+2020-03-26,Rockland,New York,US,968,5.0,0
+2020-03-26,Saratoga,New York,US,64,0.0,0
+2020-03-26,Schenectady,New York,US,55,0.0,0
+2020-03-26,Schoharie,New York,US,2,0.0,0
+2020-03-26,St. Lawrence,New York,US,2,0.0,0
+2020-03-26,Steuben,New York,US,11,0.0,0
+2020-03-26,Suffolk,New York,US,2260,17.0,0
+2020-03-26,Sullivan,New York,US,39,0.0,0
+2020-03-26,Tioga,New York,US,2,0.0,0
+2020-03-26,Tompkins,New York,US,32,0.0,0
+2020-03-26,Ulster,New York,US,65,0.0,0
+2020-03-26,Warren,New York,US,2,0.0,0
+2020-03-26,Washington,New York,US,4,0.0,0
+2020-03-26,Wayne,New York,US,7,0.0,0
+2020-03-26,Westchester,New York,US,4691,1.0,0
+2020-03-26,Wyoming,New York,US,4,0.0,0
+2020-03-26,Total ,New York,US,12955,80.0,1
+2020-03-27,Albany,New York,US,187,0.0,1
+2020-03-27,Allegany,New York,US,2,0.0,0
+2020-03-27,Broome,New York,US,16,1.0,0
+2020-03-27,Cattaraugus,New York,US,1[143],0.0,0
+2020-03-27,Cayuga,New York,US,2,0.0,0
+2020-03-27,Chautauqua,New York,US,3[144],0.0,0
+2020-03-27,Chemung,New York,US,6,0.0,0
+2020-03-27,Chenango,New York,US,3,0.0,0
+2020-03-27,Clinton,New York,US,11,0.0,0
+2020-03-27,Columbia,New York,US,12,0.0,0
+2020-03-27,Cortland,New York,US,3,0.0,0
+2020-03-27,Delaware,New York,US,5,0.0,0
+2020-03-27,Dutchess,New York,US,225,1.0,0
+2020-03-27,Erie,New York,US,221,0.0,0
+2020-03-27,Essex,New York,US,5,0.0,0
+2020-03-27,Franklin,New York,US,1,0.0,0
+2020-03-27,Fulton,New York,US,1,0.0,0
+2020-03-27,Genesee,New York,US,4[146],0.0,0
+2020-03-27,Greene,New York,US,4,0.0,0
+2020-03-27,Hamilton,New York,US,2,0.0,0
+2020-03-27,Herkimer,New York,US,5,0.0,0
+2020-03-27,Jefferson,New York,US,3,0.0,0
+2020-03-27,Livingston,New York,US,3,0.0,0
+2020-03-27,Madison,New York,US,9,1.0,0
+2020-03-27,Monroe,New York,US,160,3.0,0
+2020-03-27,Montgomery,New York,US,4,0.0,0
+2020-03-27,Nassau,New York,US,4657,9.0,0
+2020-03-27,Niagara,New York,US,28,0.0,0
+2020-03-27,Oneida,New York,US,13,0.0,0
+2020-03-27,Onondaga,New York,US,65,1.0,0
+2020-03-27,Ontario,New York,US,11,0.0,0
+2020-03-27,Orange,New York,US,910,0.0,0
+2020-03-27,Orleans,New York,US,4[146],0.0,0
+2020-03-27,Oswego,New York,US,4,0.0,0
+2020-03-27,Otsego,New York,US,2,0.0,0
+2020-03-27,Putnam,New York,US,84,0.0,0
+2020-03-27,Rensselaer,New York,US,44[148],0.0,0
+2020-03-27,Rockland,New York,US,1457,5.0,0
+2020-03-27,Saratoga,New York,US,64,0.0,0
+2020-03-27,Schenectady,New York,US,55,0.0,0
+2020-03-27,Schoharie,New York,US,2,0.0,0
+2020-03-27,St. Lawrence,New York,US,2,0.0,0
+2020-03-27,Steuben,New York,US,11,0.0,0
+2020-03-27,Suffolk,New York,US,3385,17.0,0
+2020-03-27,Sullivan,New York,US,39,0.0,0
+2020-03-27,Tioga,New York,US,2,0.0,0
+2020-03-27,Tompkins,New York,US,32,0.0,0
+2020-03-27,Ulster,New York,US,65,0.0,0
+2020-03-27,Warren,New York,US,2,0.0,0
+2020-03-27,Washington,New York,US,4,0.0,0
+2020-03-27,Wayne,New York,US,7,0.0,0
+2020-03-27,Westchester,New York,US,7187,1.0,0
+2020-03-27,Wyoming,New York,US,7,0.0,0
+2020-03-27,Total ,New York,US,12955,80.0,1
+2020-03-28,Albany,New York,US,187,0.0,1
+2020-03-28,Allegany,New York,US,2,0.0,0
+2020-03-28,Broome,New York,US,16,1.0,0
+2020-03-28,Cattaraugus,New York,US,1[145],0.0,0
+2020-03-28,Cayuga,New York,US,2,0.0,0
+2020-03-28,Chautauqua,New York,US,3[146],0.0,0
+2020-03-28,Chemung,New York,US,11,0.0,0
+2020-03-28,Chenango,New York,US,3,0.0,0
+2020-03-28,Clinton,New York,US,11,0.0,0
+2020-03-28,Columbia,New York,US,12,0.0,0
+2020-03-28,Cortland,New York,US,3,0.0,0
+2020-03-28,Delaware,New York,US,5,0.0,0
+2020-03-28,Dutchess,New York,US,225,1.0,0
+2020-03-28,Erie,New York,US,221,0.0,0
+2020-03-28,Essex,New York,US,5,0.0,0
+2020-03-28,Franklin,New York,US,1,0.0,0
+2020-03-28,Fulton,New York,US,1,0.0,0
+2020-03-28,Genesee,New York,US,4[148],0.0,0
+2020-03-28,Greene,New York,US,4,0.0,0
+2020-03-28,Hamilton,New York,US,2,0.0,0
+2020-03-28,Herkimer,New York,US,5,0.0,0
+2020-03-28,Jefferson,New York,US,3,0.0,0
+2020-03-28,Livingston,New York,US,3,0.0,0
+2020-03-28,Madison,New York,US,9,1.0,0
+2020-03-28,Monroe,New York,US,160,3.0,0
+2020-03-28,Montgomery,New York,US,4,0.0,0
+2020-03-28,Nassau,New York,US,4657,9.0,0
+2020-03-28,Niagara,New York,US,28,0.0,3
+2020-03-28,Oneida,New York,US,13,0.0,0
+2020-03-28,Onondaga,New York,US,65,1.0,0
+2020-03-28,Ontario,New York,US,11,0.0,0
+2020-03-28,Orange,New York,US,910,0.0,0
+2020-03-28,Orleans,New York,US,4[148],0.0,0
+2020-03-28,Oswego,New York,US,4,0.0,0
+2020-03-28,Otsego,New York,US,2,0.0,0
+2020-03-28,Putnam,New York,US,84,0.0,0
+2020-03-28,Rensselaer,New York,US,44[150],0.0,0
+2020-03-28,Rockland,New York,US,1457,5.0,0
+2020-03-28,Saratoga,New York,US,64,0.0,0
+2020-03-28,Schenectady,New York,US,55,0.0,0
+2020-03-28,Schoharie,New York,US,2,0.0,0
+2020-03-28,St. Lawrence,New York,US,2,0.0,0
+2020-03-28,Steuben,New York,US,11,0.0,0
+2020-03-28,Suffolk,New York,US,3385,17.0,0
+2020-03-28,Sullivan,New York,US,39,0.0,0
+2020-03-28,Tioga,New York,US,2,0.0,0
+2020-03-28,Tompkins,New York,US,48,0.0,0
+2020-03-28,Ulster,New York,US,65,0.0,0
+2020-03-28,Warren,New York,US,2,0.0,0
+2020-03-28,Washington,New York,US,4,0.0,0
+2020-03-28,Wayne,New York,US,7,0.0,0
+2020-03-28,Westchester,New York,US,7187,1.0,0
+2020-03-28,Wyoming,New York,US,7,0.0,0
+2020-03-28,Total ,New York,US,12955,80.0,1
+2020-03-29,Albany,New York,US,205,0.0,1
+2020-03-29,Allegany,New York,US,6,0.0,0
+2020-03-29,Broome,New York,US,29,1.0,0
+2020-03-29,Cattaraugus,New York,US,4,0.0,0
+2020-03-29,Cayuga,New York,US,4[151],0.0,2
+2020-03-29,Chautauqua,New York,US,7[152],0.0,0
+2020-03-29,Chemung,New York,US,15,0.0,0
+2020-03-29,Chenango,New York,US,15,0.0,0
+2020-03-29,Clinton,New York,US,13,0.0,0
+2020-03-29,Columbia,New York,US,23,0.0,0
+2020-03-29,Cortland,New York,US,6,0.0,0
+2020-03-29,Delaware,New York,US,8,0.0,0
+2020-03-29,Dutchess,New York,US,320,1.0,0
+2020-03-29,Erie,New York,US,358,0.0,0
+2020-03-29,Essex,New York,US,5,0.0,0
+2020-03-29,Franklin,New York,US,6,0.0,0
+2020-03-29,Fulton,New York,US,1,0.0,0
+2020-03-29,Genesee,New York,US,9,0.0,0
+2020-03-29,Greene,New York,US,7,0.0,0
+2020-03-29,Hamilton,New York,US,2,0.0,0
+2020-03-29,Herkimer,New York,US,10,0.0,0
+2020-03-29,Jefferson,New York,US,7,0.0,0
+2020-03-29,Livingston,New York,US,10,0.0,0
+2020-03-29,Madison,New York,US,24,1.0,0
+2020-03-29,Monroe,New York,US,219,3.0,0
+2020-03-29,Montgomery,New York,US,6,0.0,0
+2020-03-29,Nassau,New York,US,6445,9.0,0
+2020-03-29,Niagara,New York,US,38,0.0,3
+2020-03-29,Oneida,New York,US,26,0.0,0
+2020-03-29,Onondaga,New York,US,152,1.0,0
+2020-03-29,Ontario,New York,US,18,0.0,0
+2020-03-29,Orange,New York,US,1247,0.0,0
+2020-03-29,Orleans,New York,US,4[155],0.0,0
+2020-03-29,Oswego,New York,US,8,0.0,0
+2020-03-29,Otsego,New York,US,10,0.0,0
+2020-03-29,Putnam,New York,US,144,0.0,0
+2020-03-29,Rensselaer,New York,US,44[156],0.0,0
+2020-03-29,Rockland,New York,US,2209,5.0,0
+2020-03-29,Saratoga,New York,US,102,0.0,0
+2020-03-29,Schenectady,New York,US,76,0.0,0
+2020-03-29,Schoharie,New York,US,5,0.0,0
+2020-03-29,St. Lawrence,New York,US,12,0.0,0
+2020-03-29,Steuben,New York,US,17,0.0,0
+2020-03-29,Suffolk,New York,US,5023,17.0,1
+2020-03-29,Sullivan,New York,US,88,0.0,0
+2020-03-29,Tioga,New York,US,4,0.0,0
+2020-03-29,Tompkins,New York,US,52,0.0,0
+2020-03-29,Ulster,New York,US,146,0.0,0
+2020-03-29,Warren,New York,US,18,0.0,0
+2020-03-29,Washington,New York,US,7,0.0,0
+2020-03-29,Wayne,New York,US,12,0.0,0
+2020-03-29,Westchester,New York,US,8519,1.0,0
+2020-03-29,Wyoming,New York,US,8,0.0,0
+2020-03-29,Total ,New York,US,25745,80.0,7
+2020-03-30,Albany,New York,US,217,0.0,1
+2020-03-30,Allegany,New York,US,7,0.0,0
+2020-03-30,Broome,New York,US,35,3.0,0
+2020-03-30,Cattaraugus,New York,US,6,0.0,0
+2020-03-30,Cayuga,New York,US,4[158],0.0,2
+2020-03-30,Chautauqua,New York,US,8,1.0,0
+2020-03-30,Chemung,New York,US,15,0.0,0
+2020-03-30,Chenango,New York,US,17,0.0,0
+2020-03-30,Clinton,New York,US,17,0.0,0
+2020-03-30,Columbia,New York,US,26,0.0,0
+2020-03-30,Cortland,New York,US,8,0.0,0
+2020-03-30,Delaware,New York,US,11,0.0,0
+2020-03-30,Dutchess,New York,US,392,1.0,0
+2020-03-30,Erie,New York,US,443,8.0,43
+2020-03-30,Essex,New York,US,4,0.0,0
+2020-03-30,Franklin,New York,US,6,0.0,0
+2020-03-30,Fulton,New York,US,1,0.0,0
+2020-03-30,Genesee,New York,US,9,0.0,0
+2020-03-30,Greene,New York,US,10,0.0,0
+2020-03-30,Hamilton,New York,US,2,0.0,0
+2020-03-30,Herkimer,New York,US,12,0.0,0
+2020-03-30,Jefferson,New York,US,11,0.0,0
+2020-03-30,Livingston,New York,US,15,0.0,0
+2020-03-30,Madison,New York,US,34,1.0,0
+2020-03-30,Monroe,New York,US,242,6.0,0
+2020-03-30,Montgomery,New York,US,6,0.0,0
+2020-03-30,Nassau,New York,US,7344,9.0,0
+2020-03-30,Niagara,New York,US,51,0.0,3
+2020-03-30,Oneida,New York,US,34,0.0,0
+2020-03-30,Onondaga,New York,US,194,1.0,0
+2020-03-30,Ontario,New York,US,22,0.0,0
+2020-03-30,Orange,New York,US,1435,0.0,0
+2020-03-30,Orleans,New York,US,4[163],0.0,0
+2020-03-30,Oswego,New York,US,15,0.0,0
+2020-03-30,Otsego,New York,US,17,0.0,0
+2020-03-30,Putnam,New York,US,167,0.0,0
+2020-03-30,Rensselaer,New York,US,54[164],0.0,0
+2020-03-30,Rockland,New York,US,2511,5.0,0
+2020-03-30,Saratoga,New York,US,105,0.0,0
+2020-03-30,Schenectady,New York,US,80,0.0,0
+2020-03-30,Schoharie,New York,US,6,0.0,0
+2020-03-30,Seneca,New York,US,2,0.0,0
+2020-03-30,St. Lawrence,New York,US,13,0.0,0
+2020-03-30,Steuben,New York,US,21,0.0,0
+2020-03-30,Suffolk,New York,US,5791,17.0,1
+2020-03-30,Sullivan,New York,US,101,0.0,0
+2020-03-30,Tioga,New York,US,4,0.0,0
+2020-03-30,Tompkins,New York,US,70,0.0,0
+2020-03-30,Ulster,New York,US,190,0.0,0
+2020-03-30,Warren,New York,US,18,0.0,0
+2020-03-30,Washington,New York,US,7,0.0,0
+2020-03-30,Wayne,New York,US,15,0.0,0
+2020-03-30,Westchester,New York,US,9326,10.0,0
+2020-03-30,Wyoming,New York,US,8,1.0,0
+2020-03-30,Total ,New York,US,30281,428.0,50
+2020-03-31,Albany,New York,US,226,1.0,0
+2020-03-31,Allegany,New York,US,7,1.0,0
+2020-03-31,Broome,New York,US,38,3.0,0
+2020-03-31,Cattaraugus,New York,US,6,0.0,0
+2020-03-31,Cayuga,New York,US,4[164],0.0,2
+2020-03-31,Chautauqua,New York,US,8,1.0,0
+2020-03-31,Chemung,New York,US,20,0.0,0
+2020-03-31,Chenango,New York,US,21,0.0,0
+2020-03-31,Clinton,New York,US,21,0.0,0
+2020-03-31,Columbia,New York,US,36,1.0,0
+2020-03-31,Cortland,New York,US,10,0.0,0
+2020-03-31,Delaware,New York,US,16,0.0,0
+2020-03-31,Dutchess,New York,US,484,3.0,0
+2020-03-31,Erie,New York,US,463,8.0,53
+2020-03-31,Essex,New York,US,5,0.0,0
+2020-03-31,Franklin,New York,US,9,0.0,0
+2020-03-31,Fulton,New York,US,1,0.0,0
+2020-03-31,Genesee,New York,US,11,1.0,0
+2020-03-31,Greene,New York,US,16,0.0,0
+2020-03-31,Hamilton,New York,US,2,0.0,0
+2020-03-31,Herkimer,New York,US,16,2.0,0
+2020-03-31,Jefferson,New York,US,12,0.0,0
+2020-03-31,Lewis,New York,US,2,0.0,0
+2020-03-31,Livingston,New York,US,18,0.0,2
+2020-03-31,Madison,New York,US,49,1.0,0
+2020-03-31,Monroe,New York,US,292,8.0,0
+2020-03-31,Montgomery,New York,US,7,0.0,0
+2020-03-31,Nassau,New York,US,8544,48.0,0
+2020-03-31,Niagara,New York,US,56,0.0,3
+2020-03-31,Oneida,New York,US,40,0.0,0
+2020-03-31,Onondaga,New York,US,228,1.0,0
+2020-03-31,Ontario,New York,US,26,0.0,0
+2020-03-31,Orange,New York,US,1556,0.0,0
+2020-03-31,Orleans,New York,US,6,0.0,0
+2020-03-31,Oswego,New York,US,15,0.0,0
+2020-03-31,Otsego,New York,US,18,1.0,0
+2020-03-31,Putnam,New York,US,186,0.0,0
+2020-03-31,Rensselaer,New York,US,54[169],0.0,0
+2020-03-31,Rockland,New York,US,2863,0.0,0
+2020-03-31,Saratoga,New York,US,108,1.0,0
+2020-03-31,Schenectady,New York,US,85,2.0,0
+2020-03-31,Schoharie,New York,US,6,0.0,0
+2020-03-31,Schuyler,New York,US,2,0.0,0
+2020-03-31,Seneca,New York,US,2,0.0,0
+2020-03-31,St. Lawrence,New York,US,30,0.0,0
+2020-03-31,Steuben,New York,US,28,0.0,0
+2020-03-31,Suffolk,New York,US,6713,44.0,1
+2020-03-31,Sullivan,New York,US,109,0.0,0
+2020-03-31,Tioga,New York,US,7,0.0,0
+2020-03-31,Tompkins,New York,US,76,0.0,0
+2020-03-31,Ulster,New York,US,211,0.0,0
+2020-03-31,Warren,New York,US,18,0.0,0
+2020-03-31,Washington,New York,US,10,0.0,0
+2020-03-31,Wayne,New York,US,19,0.0,0
+2020-03-31,Westchester,New York,US,9967,19.0,0
+2020-03-31,Wyoming,New York,US,9,1.0,0
+2020-03-31,Yates,New York,US,1[173],0.0,0
+2020-03-31,Total ,New York,US,32656,330.0,50
+2020-04-01,Albany,New York,US,240,2.0,0
+2020-04-01,Allegany,New York,US,10,1.0,0
+2020-04-01,Broome,New York,US,41,4.0,6
+2020-04-01,Cattaraugus,New York,US,7,0.0,0
+2020-04-01,Cayuga,New York,US,4[169],0.0,2
+2020-04-01,Chautauqua,New York,US,10,1.0,2
+2020-04-01,Chemung,New York,US,22,0.0,0
+2020-04-01,Chenango,New York,US,26,0.0,0
+2020-04-01,Clinton,New York,US,25,0.0,0
+2020-04-01,Columbia,New York,US,36,1.0,0
+2020-04-01,Cortland,New York,US,11,0.0,3
+2020-04-01,Delaware,New York,US,20,0.0,0
+2020-04-01,Dutchess,New York,US,547,4.0,0
+2020-04-01,Erie,New York,US,582,11.0,74
+2020-04-01,Essex,New York,US,6,0.0,0
+2020-04-01,Franklin,New York,US,9,0.0,0
+2020-04-01,Fulton,New York,US,2,0.0,0
+2020-04-01,Genesee,New York,US,13,1.0,0
+2020-04-01,Greene,New York,US,18,0.0,0
+2020-04-01,Hamilton,New York,US,2,0.0,0
+2020-04-01,Herkimer,New York,US,20,3.0,0
+2020-04-01,Jefferson,New York,US,12,0.0,0
+2020-04-01,Lewis,New York,US,2,0.0,0
+2020-04-01,Livingston,New York,US,18,1.0,2
+2020-04-01,Madison,New York,US,60,2.0,0
+2020-04-01,Monroe,New York,US,357,9.0,100
+2020-04-01,Montgomery,New York,US,7,0.0,0
+2020-04-01,Nassau,New York,US,9554,63.0,0
+2020-04-01,Niagara,New York,US,65,0.0,11
+2020-04-01,Oneida,New York,US,50,1.0,0
+2020-04-01,Onondaga,New York,US,277,1.0,67
+2020-04-01,Ontario,New York,US,27,0.0,0
+2020-04-01,Orange,New York,US,1782,25.0,0
+2020-04-01,Orleans,New York,US,6,0.0,0
+2020-04-01,Oswego,New York,US,17,0.0,0
+2020-04-01,Otsego,New York,US,19,1.0,0
+2020-04-01,Putnam,New York,US,207,0.0,0
+2020-04-01,Rensselaer,New York,US,60[174],0.0,6
+2020-04-01,Rockland,New York,US,3321,0.0,0
+2020-04-01,Saratoga,New York,US,122,1.0,0
+2020-04-01,Schenectady,New York,US,93,2.0,0
+2020-04-01,Schoharie,New York,US,8,0.0,0
+2020-04-01,Schuyler,New York,US,2,0.0,0
+2020-04-01,Seneca,New York,US,2,0.0,0
+2020-04-01,St. Lawrence,New York,US,34,0.0,0
+2020-04-01,Steuben,New York,US,40,0.0,0
+2020-04-01,Suffolk,New York,US,7605,53.0,1
+2020-04-01,Sullivan,New York,US,121,0.0,0
+2020-04-01,Tioga,New York,US,7,0.0,0
+2020-04-01,Tompkins,New York,US,80,0.0,33
+2020-04-01,Ulster,New York,US,221,3.0,0
+2020-04-01,Warren,New York,US,18,0.0,0
+2020-04-01,Washington,New York,US,10,0.0,0
+2020-04-01,Wayne,New York,US,24,0.0,0
+2020-04-01,Westchester,New York,US,10683,25.0,0
+2020-04-01,Wyoming,New York,US,10,1.0,0
+2020-04-01,Yates,New York,US,1[177],0.0,0
+2020-04-01,Total ,New York,US,36299,806.0,240
+2020-04-02,Albany,New York,US,253,2.0,0
+2020-04-02,Allegany,New York,US,12,1.0,0
+2020-04-02,Broome,New York,US,44,4.0,7
+2020-04-02,Cattaraugus,New York,US,8,0.0,0
+2020-04-02,Cayuga,New York,US,4,0.0,2
+2020-04-02,Chautauqua,New York,US,12,1.0,2
+2020-04-02,Chemung,New York,US,22,0.0,0
+2020-04-02,Chenango,New York,US,28,0.0,0
+2020-04-02,Clinton,New York,US,25,0.0,0
+2020-04-02,Columbia,New York,US,36,1.0,0
+2020-04-02,Cortland,New York,US,14,0.0,3
+2020-04-02,Delaware,New York,US,22,0.0,0
+2020-04-02,Dutchess,New York,US,667,5.0,0
+2020-04-02,Erie,New York,US,734,19.0,101
+2020-04-02,Essex,New York,US,6,0.0,0
+2020-04-02,Franklin,New York,US,9,0.0,0
+2020-04-02,Fulton,New York,US,6,0.0,0
+2020-04-02,Genesee,New York,US,16,1.0,0
+2020-04-02,Greene,New York,US,21,0.0,0
+2020-04-02,Hamilton,New York,US,2,0.0,0
+2020-04-02,Herkimer,New York,US,20,3.0,0
+2020-04-02,Jefferson,New York,US,15,0.0,0
+2020-04-02,Lewis,New York,US,2,0.0,0
+2020-04-02,Livingston,New York,US,18,1.0,4
+2020-04-02,Madison,New York,US,60,2.0,0
+2020-04-02,Monroe,New York,US,420,9.0,100
+2020-04-02,Montgomery,New York,US,8,0.0,0
+2020-04-02,Nassau,New York,US,10587,76.0,0
+2020-04-02,Niagara,New York,US,91,0.0,11
+2020-04-02,Oneida,New York,US,61,1.0,0
+2020-04-02,Onondaga,New York,US,277,2.0,67
+2020-04-02,Ontario,New York,US,27,0.0,0
+2020-04-02,Orange,New York,US,2084,30.0,0
+2020-04-02,Orleans,New York,US,6,0.0,0
+2020-04-02,Oswego,New York,US,22,0.0,0
+2020-04-02,Otsego,New York,US,21,1.0,0
+2020-04-02,Putnam,New York,US,216,0.0,0
+2020-04-02,Rensselaer,New York,US,67,1.0,6
+2020-04-02,Rockland,New York,US,3751,0.0,0
+2020-04-02,Saratoga,New York,US,132,1.0,0
+2020-04-02,Schenectady,New York,US,101,5.0,20
+2020-04-02,Schoharie,New York,US,8,0.0,0
+2020-04-02,Schuyler,New York,US,3,0.0,0
+2020-04-02,Seneca,New York,US,4,0.0,0
+2020-04-02,St. Lawrence,New York,US,39,0.0,0
+2020-04-02,Steuben,New York,US,43,1.0,0
+2020-04-02,Suffolk,New York,US,8746,69.0,1
+2020-04-02,Sullivan,New York,US,156,5.0,0
+2020-04-02,Tioga,New York,US,7,0.0,0
+2020-04-02,Tompkins,New York,US,80,0.0,33
+2020-04-02,Ulster,New York,US,243,3.0,0
+2020-04-02,Warren,New York,US,18,0.0,0
+2020-04-02,Washington,New York,US,12,0.0,0
+2020-04-02,Wayne,New York,US,27,0.0,0
+2020-04-02,Westchester,New York,US,11567,64.0,52
+2020-04-02,Wyoming,New York,US,14,1.0,0
+2020-04-02,Yates,New York,US,1,0.0,0
+2020-04-02,Total ,New York,US,40663,976.0,409
+2020-04-03,Albany,New York,US,267,2.0,0
+2020-04-03,Allegany,New York,US,14,1.0,0
+2020-04-03,Broome,New York,US,56,4.0,7
+2020-04-03,Cattaraugus,New York,US,9,0.0,0
+2020-04-03,Cayuga,New York,US,6,0.0,2
+2020-04-03,Chautauqua,New York,US,13,1.0,5
+2020-04-03,Chemung,New York,US,35,0.0,0
+2020-04-03,Chenango,New York,US,32,0.0,0
+2020-04-03,Clinton,New York,US,30,0.0,0
+2020-04-03,Columbia,New York,US,42,2.0,22
+2020-04-03,Cortland,New York,US,10,0.0,3
+2020-04-03,Delaware,New York,US,24,1.0,0
+2020-04-03,Dutchess,New York,US,809,5.0,0
+2020-04-03,Erie,New York,US,802,21.0,131
+2020-04-03,Essex,New York,US,6,0.0,0
+2020-04-03,Franklin,New York,US,10,0.0,0
+2020-04-03,Fulton,New York,US,6,0.0,0
+2020-04-03,Genesee,New York,US,16,1.0,0
+2020-04-03,Greene,New York,US,23,0.0,0
+2020-04-03,Hamilton,New York,US,2,0.0,0
+2020-04-03,Herkimer,New York,US,14,3.0,0
+2020-04-03,Jefferson,New York,US,18,0.0,0
+2020-04-03,Lewis,New York,US,2,0.0,0
+2020-04-03,Livingston,New York,US,20,1.0,5
+2020-04-03,Madison,New York,US,70,2.0,10
+2020-04-03,Monroe,New York,US,464,10.0,100
+2020-04-03,Montgomery,New York,US,10,0.0,0
+2020-04-03,Nassau,New York,US,12024,138.0,0
+2020-04-03,Niagara,New York,US,103,0.0,11
+2020-04-03,Oneida,New York,US,71,1.0,0
+2020-04-03,Onondaga,New York,US,252,2.0,67
+2020-04-03,Ontario,New York,US,28,0.0,0
+2020-04-03,Orange,New York,US,2397,30.0,0
+2020-04-03,Orleans,New York,US,9,0.0,0
+2020-04-03,Oswego,New York,US,26,0.0,0
+2020-04-03,Otsego,New York,US,21,1.0,0
+2020-04-03,Putnam,New York,US,252,0.0,0
+2020-04-03,Rensselaer,New York,US,71,1.0,14
+2020-04-03,Rockland,New York,US,4289,42.0,0
+2020-04-03,Saratoga,New York,US,141,1.0,0
+2020-04-03,Schenectady,New York,US,110,5.0,20
+2020-04-03,Schoharie,New York,US,9,0.0,0
+2020-04-03,Schuyler,New York,US,3,0.0,0
+2020-04-03,Seneca,New York,US,6,0.0,0
+2020-04-03,St. Lawrence,New York,US,43,0.0,0
+2020-04-03,Steuben,New York,US,46,1.0,0
+2020-04-03,Suffolk,New York,US,10154,84.0,1
+2020-04-03,Sullivan,New York,US,168,5.0,0
+2020-04-03,Tioga,New York,US,7,0.0,0
+2020-04-03,Tompkins,New York,US,84,0.0,46
+2020-04-03,Ulster,New York,US,263,3.0,0
+2020-04-03,Warren,New York,US,19,0.0,0
+2020-04-03,Washington,New York,US,15,0.0,1
+2020-04-03,Wayne,New York,US,30,0.0,0
+2020-04-03,Westchester,New York,US,12351,67.0,52
+2020-04-03,Wyoming,New York,US,15,1.0,5
+2020-04-03,Yates,New York,US,1,0.0,0
+2020-04-03,Total ,New York,US,45704,1351.0,488
+2020-04-04,Albany,New York,US,293,4.0,0
+2020-04-04,Allegany,New York,US,16,1.0,0
+2020-04-04,Broome,New York,US,62,4.0,7
+2020-04-04,Cattaraugus,New York,US,9,0.0,0
+2020-04-04,Cayuga,New York,US,7,0.0,2
+2020-04-04,Chautauqua,New York,US,14,1.0,5
+2020-04-04,Chemung,New York,US,36,0.0,0
+2020-04-04,Chenango,New York,US,39,0.0,0
+2020-04-04,Clinton,New York,US,31,0.0,0
+2020-04-04,Columbia,New York,US,57,2.0,22
+2020-04-04,Cortland,New York,US,14[173],0.0,3
+2020-04-04,Delaware,New York,US,26,1.0,0
+2020-04-04,Dutchess,New York,US,938,9.0,0
+2020-04-04,Erie,New York,US,808,22.0,141
+2020-04-04,Essex,New York,US,7,0.0,0
+2020-04-04,Franklin,New York,US,10,0.0,0
+2020-04-04,Fulton,New York,US,9,0.0,0
+2020-04-04,Genesee,New York,US,21,1.0,0
+2020-04-04,Greene,New York,US,24,0.0,0
+2020-04-04,Hamilton,New York,US,2,0.0,0
+2020-04-04,Herkimer,New York,US,18,3.0,0
+2020-04-04,Jefferson,New York,US,20,0.0,0
+2020-04-04,Lewis,New York,US,2,0.0,0
+2020-04-04,Livingston,New York,US,20,1.0,5
+2020-04-04,Madison,New York,US,78,2.0,10
+2020-04-04,Monroe,New York,US,512,14.0,100
+2020-04-04,Montgomery,New York,US,13,0.0,0
+2020-04-04,Nassau,New York,US,13346,138.0,0
+2020-04-04,Niagara,New York,US,103,0.0,11
+2020-04-04,Oneida,New York,US,80,1.0,0
+2020-04-04,Onondaga,New York,US,322,2.0,67
+2020-04-04,Ontario,New York,US,31,0.0,0
+2020-04-04,Orange,New York,US,2741,40.0,0
+2020-04-04,Orleans,New York,US,10,0.0,0
+2020-04-04,Oswego,New York,US,26,2.0,0
+2020-04-04,Otsego,New York,US,26,1.0,0
+2020-04-04,Putnam,New York,US,283,0.0,0
+2020-04-04,Rensselaer,New York,US,73,1.0,14
+2020-04-04,Rockland,New York,US,4872,69.0,0
+2020-04-04,Saratoga,New York,US,141,1.0,0
+2020-04-04,Schenectady,New York,US,117,5.0,20
+2020-04-04,Schoharie,New York,US,11,0.0,0
+2020-04-04,Schuyler,New York,US,4,0.0,0
+2020-04-04,Seneca,New York,US,6,0.0,0
+2020-04-04,St. Lawrence,New York,US,52,0.0,0
+2020-04-04,Steuben,New York,US,60,1.0,0
+2020-04-04,Suffolk,New York,US,11370,96.0,1
+2020-04-04,Sullivan,New York,US,193,5.0,0
+2020-04-04,Tioga,New York,US,8,0.0,0
+2020-04-04,Tompkins,New York,US,93,0.0,51
+2020-04-04,Ulster,New York,US,290,4.0,0
+2020-04-04,Warren,New York,US,20,0.0,0
+2020-04-04,Washington,New York,US,16,0.0,1
+2020-04-04,Wayne,New York,US,30,0.0,0
+2020-04-04,Westchester,New York,US,13081,67.0,52
+2020-04-04,Wyoming,New York,US,15,1.0,5
+2020-04-04,Yates,New York,US,1,0.0,0
+2020-04-04,Total ,New York,US,50398,941.0,498
+2020-04-05,Albany,New York,US,305,6.0,0
+2020-04-05,Allegany,New York,US,16,1.0,0
+2020-04-05,Broome,New York,US,69,4.0,7
+2020-04-05,Cattaraugus,New York,US,9,0.0,3
+2020-04-05,Cayuga,New York,US,8,0.0,2
+2020-04-05,Chautauqua,New York,US,18,1.0,5
+2020-04-05,Chemung,New York,US,38,0.0,0
+2020-04-05,Chenango,New York,US,43,0.0,0
+2020-04-05,Clinton,New York,US,33,0.0,0
+2020-04-05,Columbia,New York,US,57,4.0,22
+2020-04-05,Cortland,New York,US,15,0.0,6
+2020-04-05,Delaware,New York,US,27,1.0,0
+2020-04-05,Dutchess,New York,US,1077,12.0,53
+2020-04-05,Erie,New York,US,1057,26.0,167
+2020-04-05,Essex,New York,US,7,0.0,0
+2020-04-05,Franklin,New York,US,10,0.0,0
+2020-04-05,Fulton,New York,US,9,1.0,0
+2020-04-05,Genesee,New York,US,22,1.0,0
+2020-04-05,Greene,New York,US,24,0.0,0
+2020-04-05,Hamilton,New York,US,2,0.0,0
+2020-04-05,Herkimer,New York,US,22,3.0,0
+2020-04-05,Jefferson,New York,US,26,0.0,0
+2020-04-05,Lewis,New York,US,3,2.0,0
+2020-04-05,Livingston,New York,US,24,1.0,5
+2020-04-05,Madison,New York,US,79,2.0,10
+2020-04-05,Monroe,New York,US,548,16.0,207
+2020-04-05,Montgomery,New York,US,15,1.0,0
+2020-04-05,Nassau,New York,US,14398,396.0,0
+2020-04-05,Niagara,New York,US,116,0.0,11
+2020-04-05,Oneida,New York,US,87,1.0,0
+2020-04-05,Onondaga,New York,US,322,4.0,67
+2020-04-05,Ontario,New York,US,32,0.0,0
+2020-04-05,Orange,New York,US,3102,51.0,0
+2020-04-05,Orleans,New York,US,11,0.0,0
+2020-04-05,Oswego,New York,US,28,2.0,0
+2020-04-05,Otsego,New York,US,29,2.0,0
+2020-04-05,Putnam,New York,US,314,14.0,0
+2020-04-05,Rensselaer,New York,US,74,1.0,14
+2020-04-05,Rockland,New York,US,5326,71.0,0
+2020-04-05,Saratoga,New York,US,148,3.0,0
+2020-04-05,Schenectady,New York,US,128,4.0,20
+2020-04-05,Schoharie,New York,US,11,0.0,0
+2020-04-05,Schuyler,New York,US,4,0.0,0
+2020-04-05,Seneca,New York,US,9,0.0,0
+2020-04-05,St. Lawrence,New York,US,55,0.0,0
+2020-04-05,Steuben,New York,US,63,1.0,0
+2020-04-05,Suffolk,New York,US,12405,199.0,1
+2020-04-05,Sullivan,New York,US,234,4.0,0
+2020-04-05,Tioga,New York,US,8,0.0,0
+2020-04-05,Tompkins,New York,US,95,0.0,54
+2020-04-05,Ulster,New York,US,332,3.0,0
+2020-04-05,Warren,New York,US,25,0.0,0
+2020-04-05,Washington,New York,US,18,1.0,1
+2020-04-05,Wayne,New York,US,32,0.0,0
+2020-04-05,Westchester,New York,US,13723,211.0,52
+2020-04-05,Wyoming,New York,US,22,1.0,5
+2020-04-05,Yates,New York,US,2,0.0,0
+2020-04-05,Total ,New York,US,54480,1051.0,690
+2020-04-06,Albany,New York,US,319,6.0,0
+2020-04-06,Allegany,New York,US,17,1.0,0
+2020-04-06,Broome,New York,US,72,4.0,7
+2020-04-06,Cattaraugus,New York,US,12,0.0,3
+2020-04-06,Cayuga,New York,US,11,1.0,3
+2020-04-06,Chautauqua,New York,US,19,2.0,7
+2020-04-06,Chemung,New York,US,47,0.0,0
+2020-04-06,Chenango,New York,US,46,0.0,0
+2020-04-06,Clinton,New York,US,36,0.0,7
+2020-04-06,Columbia,New York,US,59,4.0,25
+2020-04-06,Cortland,New York,US,18,0.0,7
+2020-04-06,Delaware,New York,US,29,1.0,4
+2020-04-06,Dutchess,New York,US,1189,14.0,61
+2020-04-06,Erie,New York,US,1059,29.0,173
+2020-04-06,Essex,New York,US,7,0.0,0
+2020-04-06,Franklin,New York,US,10,0.0,0
+2020-04-06,Fulton,New York,US,11,1.0,0
+2020-04-06,Genesee,New York,US,23,1.0,0
+2020-04-06,Greene,New York,US,24,0.0,0
+2020-04-06,Hamilton,New York,US,2,0.0,0
+2020-04-06,Herkimer,New York,US,25,3.0,0
+2020-04-06,Jefferson,New York,US,33,0.0,0
+2020-04-06,Lewis,New York,US,6,2.0,0
+2020-04-06,Livingston,New York,US,26,1.0,8
+2020-04-06,Madison,New York,US,82,2.0,42
+2020-04-06,Monroe,New York,US,574,25.0,211
+2020-04-06,Montgomery,New York,US,15,1.0,0
+2020-04-06,Nassau,New York,US,15616,433.0,197
+2020-04-06,Niagara,New York,US,130,0.0,11
+2020-04-06,Oneida,New York,US,100,1.0,19
+2020-04-06,Onondaga,New York,US,364,5.0,113
+2020-04-06,Ontario,New York,US,37,0.0,0
+2020-04-06,Orange,New York,US,3397,53.0,0
+2020-04-06,Orleans,New York,US,13,0.0,0
+2020-04-06,Oswego,New York,US,29,2.0,14
+2020-04-06,Otsego,New York,US,34,2.0,0
+2020-04-06,Putnam,New York,US,345,15.0,0
+2020-04-06,Rensselaer,New York,US,78,1.0,24
+2020-04-06,Rockland,New York,US,5703,119.0,0
+2020-04-06,Saratoga,New York,US,153,3.0,0
+2020-04-06,Schenectady,New York,US,138,5.0,21
+2020-04-06,Schoharie,New York,US,11,0.0,0
+2020-04-06,Schuyler,New York,US,4,0.0,0
+2020-04-06,Seneca,New York,US,9,0.0,0
+2020-04-06,St. Lawrence,New York,US,59,0.0,0
+2020-04-06,Steuben,New York,US,75,1.0,12
+2020-04-06,Suffolk,New York,US,13487,236.0,107
+2020-04-06,Sullivan,New York,US,253,5.0,0
+2020-04-06,Tioga,New York,US,8,0.0,0
+2020-04-06,Tompkins,New York,US,95,0.0,54
+2020-04-06,Ulster,New York,US,372,4.0,0
+2020-04-06,Warren,New York,US,26,0.0,0
+2020-04-06,Washington,New York,US,19,1.0,7
+2020-04-06,Wayne,New York,US,34,0.0,0
+2020-04-06,Westchester,New York,US,14294,233.0,52
+2020-04-06,Wyoming,New York,US,23,1.0,5
+2020-04-06,Yates,New York,US,2,0.0,0
+2020-04-07,Albany,New York,US,333,6.0,0
+2020-04-07,Allegany,New York,US,17,1.0,0
+2020-04-07,Broome,New York,US,86,6.0,9
+2020-04-07,Cattaraugus,New York,US,13,0.0,3
+2020-04-07,Cayuga,New York,US,14,1.0,3
+2020-04-07,Chautauqua,New York,US,19,2.0,8
+2020-04-07,Chemung,New York,US,49,0.0,4
+2020-04-07,Chenango,New York,US,51,0.0,5
+2020-04-07,Clinton,New York,US,37,0.0,7
+2020-04-07,Columbia,New York,US,61,4.0,27
+2020-04-07,Cortland,New York,US,18,0.0,10
+2020-04-07,Delaware,New York,US,29,1.0,4
+2020-04-07,Dutchess,New York,US,1249,14.0,73
+2020-04-07,Erie,New York,US,1234,39.0,266
+2020-04-07,Essex,New York,US,7,0.0,0
+2020-04-07,Franklin,New York,US,10,0.0,0
+2020-04-07,Fulton,New York,US,13,1.0,0
+2020-04-07,Genesee,New York,US,33,1.0,0
+2020-04-07,Greene,New York,US,24,0.0,12
+2020-04-07,Hamilton,New York,US,2,0.0,0
+2020-04-07,Herkimer,New York,US,27,3.0,0
+2020-04-07,Jefferson,New York,US,39,0.0,0
+2020-04-07,Lewis,New York,US,6,2.0,0
+2020-04-07,Livingston,New York,US,28,2.0,9
+2020-04-07,Madison,New York,US,88,2.0,56
+2020-04-07,Monroe,New York,US,596,30.0,236
+2020-04-07,Montgomery,New York,US,18,1.0,0
+2020-04-07,Nassau,New York,US,16610,500.0,197
+2020-04-07,Niagara,New York,US,143,1.0,11
+2020-04-07,Oneida,New York,US,118,1.0,19
+2020-04-07,Onondaga,New York,US,377,5.0,119
+2020-04-07,Ontario,New York,US,37,0.0,0
+2020-04-07,Orange,New York,US,3599,93.0,0
+2020-04-07,Orleans,New York,US,15,0.0,0
+2020-04-07,Oswego,New York,US,31,2.0,14
+2020-04-07,Otsego,New York,US,34,2.0,0
+2020-04-07,Putnam,New York,US,366,16.0,0
+2020-04-07,Rensselaer,New York,US,91,3.0,30
+2020-04-07,Rockland,New York,US,5990,135.0,0
+2020-04-07,Saratoga,New York,US,155,5.0,0
+2020-04-07,Schenectady,New York,US,145,5.0,21
+2020-04-07,Schoharie,New York,US,12,0.0,0
+2020-04-07,Schuyler,New York,US,4,0.0,0
+2020-04-07,Seneca,New York,US,10,0.0,0
+2020-04-07,St. Lawrence,New York,US,60,0.0,0
+2020-04-07,Steuben,New York,US,75,1.0,12
+2020-04-07,Suffolk,New York,US,15637,263.0,180
+2020-04-07,Sullivan,New York,US,270,6.0,0
+2020-04-07,Tioga,New York,US,8,0.0,0
+2020-04-07,Tompkins,New York,US,97,0.0,54
+2020-04-07,Ulster,New York,US,398,5.0,0
+2020-04-07,Warren,New York,US,31,0.0,0
+2020-04-07,Washington,New York,US,19,1.0,7
+2020-04-07,Wayne,New York,US,35,0.0,0
+2020-04-07,Westchester,New York,US,14294,283.0,52
+2020-04-07,Wyoming,New York,US,23,1.0,5
+2020-04-07,Yates,New York,US,2,0.0,0
+2020-04-08,Albany,New York,US,342,6.0,0
+2020-04-08,Allegany,New York,US,21,1.0,0
+2020-04-08,Broome,New York,US,93,6.0,14
+2020-04-08,Cattaraugus,New York,US,13,0.0,3
+2020-04-08,Cayuga,New York,US,14,1.0,3
+2020-04-08,Chautauqua,New York,US,21,2.0,8
+2020-04-08,Chemung,New York,US,55,1.0,4
+2020-04-08,Chenango,New York,US,53,0.0,7
+2020-04-08,Clinton,New York,US,39,0.0,7
+2020-04-08,Columbia,New York,US,63,4.0,27
+2020-04-08,Cortland,New York,US,19,1.0,12
+2020-04-08,Delaware,New York,US,37,1.0,7
+2020-04-08,Dutchess,New York,US,1395,15.0,92
+2020-04-08,Erie,New York,US,1335,45.0,333
+2020-04-08,Essex,New York,US,7,0.0,0
+2020-04-08,Franklin,New York,US,10,0.0,0
+2020-04-08,Fulton,New York,US,14,1.0,0
+2020-04-08,Genesee,New York,US,47,1.0,0
+2020-04-08,Greene,New York,US,25,0.0,12
+2020-04-08,Hamilton,New York,US,2,0.0,0
+2020-04-08,Herkimer,New York,US,29,3.0,0
+2020-04-08,Jefferson,New York,US,40,0.0,5
+2020-04-08,Lewis,New York,US,6,2.0,0
+2020-04-08,Livingston,New York,US,29,2.0,13
+2020-04-08,Madison,New York,US,96,3.0,66
+2020-04-08,Monroe,New York,US,627,34.0,275
+2020-04-08,Montgomery,New York,US,18,1.0,0
+2020-04-08,Nassau,New York,US,18548,566.0,197
+2020-04-08,Niagara,New York,US,155,1.0,11
+2020-04-08,Oneida,New York,US,129,2.0,23
+2020-04-08,Onondaga,New York,US,422,6.0,141
+2020-04-08,Ontario,New York,US,39,0.0,0
+2020-04-08,Orange,New York,US,4075,107.0,0
+2020-04-08,Orleans,New York,US,16,0.0,0
+2020-04-08,Oswego,New York,US,36,2.0,18
+2020-04-08,Otsego,New York,US,38,2.0,9
+2020-04-08,Putnam,New York,US,403,20.0,0
+2020-04-08,Rensselaer,New York,US,75,3.0,30
+2020-04-08,Rockland,New York,US,6413,154.0,0
+2020-04-08,Saratoga,New York,US,162,5.0,0
+2020-04-08,Schenectady,New York,US,149,6.0,21
+2020-04-08,Schoharie,New York,US,12,0.0,0
+2020-04-08,Schuyler,New York,US,4,0.0,2
+2020-04-08,Seneca,New York,US,12,0.0,0
+2020-04-08,St. Lawrence,New York,US,69,0.0,0
+2020-04-08,Steuben,New York,US,82,3.0,12
+2020-04-08,Suffolk,New York,US,17008,323.0,310
+2020-04-08,Sullivan,New York,US,279,6.0,0
+2020-04-08,Tioga,New York,US,12,0.0,0
+2020-04-08,Tompkins,New York,US,103,0.0,69
+2020-04-08,Ulster,New York,US,422,6.0,0
+2020-04-08,Warren,New York,US,33,0.0,0
+2020-04-08,Washington,New York,US,20,1.0,7
+2020-04-08,Wayne,New York,US,39,0.0,9
+2020-04-08,Westchester,New York,US,15887,315.0,4376
+2020-04-08,Wyoming,New York,US,27,1.0,5
+2020-04-08,Yates,New York,US,2,0.0,1
+2020-04-09,Albany,New York,US,379,7.0,0
+2020-04-09,Allegany,New York,US,22,1.0,0
+2020-04-09,Broome,New York,US,105,6.0,23
+2020-04-09,Cattaraugus,New York,US,17,0.0,3
+2020-04-09,Cayuga,New York,US,16,1.0,5
+2020-04-09,Chautauqua,New York,US,22,2.0,11
+2020-04-09,Chemung,New York,US,59,1.0,4
+2020-04-09,Chenango,New York,US,55,0.0,7
+2020-04-09,Clinton,New York,US,40,0.0,7
+2020-04-09,Columbia,New York,US,70,4.0,32
+2020-04-09,Cortland,New York,US,20,1.0,12
+2020-04-09,Delaware,New York,US,37,1.0,7
+2020-04-09,Dutchess,New York,US,1493,19.0,104
+2020-04-09,Erie,New York,US,1440,50.0,398
+2020-04-09,Essex,New York,US,8,0.0,0
+2020-04-09,Franklin,New York,US,11,0.0,0
+2020-04-09,Fulton,New York,US,15,1.0,0
+2020-04-09,Genesee,New York,US,56,1.0,0
+2020-04-09,Greene,New York,US,31,0.0,14
+2020-04-09,Hamilton,New York,US,3,0.0,0
+2020-04-09,Herkimer,New York,US,32,3.0,0
+2020-04-09,Jefferson,New York,US,42,0.0,9
+2020-04-09,Lewis,New York,US,6,3.0,0
+2020-04-09,Livingston,New York,US,32,2.0,15
+2020-04-09,Madison,New York,US,102,3.0,71
+2020-04-09,Monroe,New York,US,698,38.0,275
+2020-04-09,Montgomery,New York,US,28,1.0,0
+2020-04-09,Nassau,New York,US,20140,633.0,232
+2020-04-09,Niagara,New York,US,166,2.0,51
+2020-04-09,Oneida,New York,US,162,2.0,30
+2020-04-09,Onondaga,New York,US,442,7.0,154
+2020-04-09,Ontario,New York,US,43,0.0,0
+2020-04-09,Orange,New York,US,4309,115.0,0
+2020-04-09,Orleans,New York,US,22,0.0,0
+2020-04-09,Oswego,New York,US,38,2.0,18
+2020-04-09,Otsego,New York,US,39,2.0,9
+2020-04-09,Putnam,New York,US,438,21.0,0
+2020-04-09,Rensselaer,New York,US,99,5.0,31
+2020-04-09,Rockland,New York,US,6665,172.0,1
+2020-04-09,Saratoga,New York,US,172,5.0,0
+2020-04-09,Schenectady,New York,US,167,7.0,21
+2020-04-09,Schoharie,New York,US,12,0.0,0
+2020-04-09,Schuyler,New York,US,4,0.0,2
+2020-04-09,Seneca,New York,US,15,0.0,0
+2020-04-09,St. Lawrence,New York,US,76,1.0,0
+2020-04-09,Steuben,New York,US,89,5.0,30
+2020-04-09,Suffolk,New York,US,18980,362.0,449
+2020-04-09,Sullivan,New York,US,296,6.0,0
+2020-04-09,Tioga,New York,US,17,0.0,0
+2020-04-09,Tompkins,New York,US,105,0.0,73
+2020-04-09,Ulster,New York,US,462,8.0,0
+2020-04-09,Warren,New York,US,40,0.0,0
+2020-04-09,Washington,New York,US,25,1.0,7
+2020-04-09,Wayne,New York,US,39,0.0,11
+2020-04-09,Westchester,New York,US,17004,359.0,4376
+2020-04-09,Wyoming,New York,US,29,1.0,5
+2020-04-09,Yates,New York,US,2,0.0,1
+2020-04-10,Albany,New York,US,426,8.0,0
+2020-04-10,Allegany,New York,US,26,1.0,0
+2020-04-10,Broome,New York,US,112,6.0,24
+2020-04-10,Cattaraugus,New York,US,18,0.0,3
+2020-04-10,Cayuga,New York,US,27,2.0,5
+2020-04-10,Chautauqua,New York,US,23,3.0,12
+2020-04-10,Chemung,New York,US,59,1.0,4
+2020-04-10,Chenango,New York,US,60,0.0,7
+2020-04-10,Clinton,New York,US,43,0.0,7
+2020-04-10,Columbia,New York,US,74,4.0,32
+2020-04-10,Cortland,New York,US,20,1.0,16
+2020-04-10,Delaware,New York,US,39,1.0,7
+2020-04-10,Dutchess,New York,US,1598,22.0,104
+2020-04-10,Erie,New York,US,1498,54.0,410
+2020-04-10,Essex,New York,US,10,0.0,0
+2020-04-10,Franklin,New York,US,11,0.0,0
+2020-04-10,Fulton,New York,US,18,2.0,0
+2020-04-10,Genesee,New York,US,65,1.0,0
+2020-04-10,Greene,New York,US,34,0.0,14
+2020-04-10,Hamilton,New York,US,3,0.0,0
+2020-04-10,Herkimer,New York,US,36,3.0,0
+2020-04-10,Jefferson,New York,US,43,0.0,9
+2020-04-10,Lewis,New York,US,6,3.0,0
+2020-04-10,Livingston,New York,US,34,3.0,15
+2020-04-10,Madison,New York,US,105,3.0,77
+2020-04-10,Monroe,New York,US,742,44.0,341
+2020-04-10,Montgomery,New York,US,29,2.0,0
+2020-04-10,Nassau,New York,US,21512,723.0,232
+2020-04-10,Niagara,New York,US,166,4.0,51
+2020-04-10,Oneida,New York,US,172,2.0,30
+2020-04-10,Onondaga,New York,US,456,7.0,176
+2020-04-10,Ontario,New York,US,51,0.0,0
+2020-04-10,Orange,New York,US,4640,129.0,0
+2020-04-10,Orleans,New York,US,24,0.0,0
+2020-04-10,Oswego,New York,US,42,2.0,20
+2020-04-10,Otsego,New York,US,41,2.0,9
+2020-04-10,Putnam,New York,US,487,22.0,0
+2020-04-10,Rensselaer,New York,US,112,5.0,37
+2020-04-10,Rockland,New York,US,7122,172.0,1
+2020-04-10,Saratoga,New York,US,182,5.0,0
+2020-04-10,Schenectady,New York,US,191,7.0,21
+2020-04-10,Schoharie,New York,US,12,0.0,0
+2020-04-10,Schuyler,New York,US,5,0.0,2
+2020-04-10,Seneca,New York,US,15,0.0,0
+2020-04-10,St. Lawrence,New York,US,78,1.0,0
+2020-04-10,Steuben,New York,US,117,5.0,30
+2020-04-10,Suffolk,New York,US,18980,414.0,449
+2020-04-10,Sullivan,New York,US,318,6.0,0
+2020-04-10,Tioga,New York,US,18,0.0,0
+2020-04-10,Tompkins,New York,US,112,0.0,82
+2020-04-10,Ulster,New York,US,530,9.0,0
+2020-04-10,Warren,New York,US,43,0.0,0
+2020-04-10,Washington,New York,US,26,1.0,7
+2020-04-10,Wayne,New York,US,41,0.0,12
+2020-04-10,Westchester,New York,US,18077,389.0,4376
+2020-04-10,Wyoming,New York,US,30,1.0,5
+2020-04-10,Yates,New York,US,2,0.0,1
+2020-04-11,Albany,New York,US,446,9.0,0
+2020-04-11,Allegany,New York,US,26,1.0,0
+2020-04-11,Broome,New York,US,117,6.0,24
+2020-04-11,Cattaraugus,New York,US,19,0.0,3
+2020-04-11,Cayuga,New York,US,28,2.0,5
+2020-04-11,Chautauqua,New York,US,23,3.0,12
+2020-04-11,Chemung,New York,US,60,1.0,4
+2020-04-11,Chenango,New York,US,61,0.0,7
+2020-04-11,Clinton,New York,US,43,0.0,7
+2020-04-11,Columbia,New York,US,77,6.0,32
+2020-04-11,Cortland,New York,US,21,1.0,15
+2020-04-11,Delaware,New York,US,39,1.0,7
+2020-04-11,Dutchess,New York,US,1744,23.0,104
+2020-04-11,Erie,New York,US,1558,57.0,430
+2020-04-11,Essex,New York,US,12,0.0,0
+2020-04-11,Franklin,New York,US,11,0.0,0
+2020-04-11,Fulton,New York,US,21,2.0,0
+2020-04-11,Genesee,New York,US,67,1.0,0
+2020-04-11,Greene,New York,US,37,0.0,14
+2020-04-11,Hamilton,New York,US,3,0.0,0
+2020-04-11,Herkimer,New York,US,37,3.0,0
+2020-04-11,Jefferson,New York,US,44,0.0,9
+2020-04-11,Lewis,New York,US,6,3.0,0
+2020-04-11,Livingston,New York,US,34,2.0,15
+2020-04-11,Madison,New York,US,105,2.0,77
+2020-04-11,Monroe,New York,US,767,43.0,341
+2020-04-11,Montgomery,New York,US,29,2.0,0
+2020-04-11,Nassau,New York,US,22584,723.0,232
+2020-04-11,Niagara,New York,US,194,6.0,51
+2020-04-11,Oneida,New York,US,183,2.0,31
+2020-04-11,Onondaga,New York,US,456,8.0,176
+2020-04-11,Ontario,New York,US,56,0.0,0
+2020-04-11,Orange,New York,US,4847,132.0,0
+2020-04-11,Orleans,New York,US,24,0.0,0
+2020-04-11,Oswego,New York,US,42,2.0,20
+2020-04-11,Otsego,New York,US,43,2.0,9
+2020-04-11,Putnam,New York,US,494,26.0,0
+2020-04-11,Rensselaer,New York,US,119,5.0,46
+2020-04-11,Rockland,New York,US,7477,200.0,1
+2020-04-11,Saratoga,New York,US,187,5.0,0
+2020-04-11,Schenectady,New York,US,194,7.0,21
+2020-04-11,Schoharie,New York,US,12,0.0,0
+2020-04-11,Schuyler,New York,US,5,0.0,2
+2020-04-11,Seneca,New York,US,16,1.0,0
+2020-04-11,St. Lawrence,New York,US,80,1.0,0
+2020-04-11,Steuben,New York,US,119,5.0,30
+2020-04-11,Suffolk,New York,US,19883,458.0,449
+2020-04-11,Sullivan,New York,US,340,6.0,0
+2020-04-11,Tioga,New York,US,19,0.0,0
+2020-04-11,Tompkins,New York,US,108,0.0,82
+2020-04-11,Ulster,New York,US,589,10.0,0
+2020-04-11,Warren,New York,US,44,0.0,0
+2020-04-11,Washington,New York,US,31,1.0,7
+2020-04-11,Wayne,New York,US,42,0.0,12
+2020-04-11,Westchester,New York,US,18729,461.0,4376
+2020-04-11,Wyoming,New York,US,31,1.0,5
+2020-04-11,Yates,New York,US,2,0.0,1
+2020-04-12,Albany,New York,US,446,9.0,0
+2020-04-12,Allegany,New York,US,26,1.0,0
+2020-04-12,Broome,New York,US,117,6.0,24
+2020-04-12,Cattaraugus,New York,US,19,0.0,3
+2020-04-12,Cayuga,New York,US,28,2.0,5
+2020-04-12,Chautauqua,New York,US,23,3.0,12
+2020-04-12,Chemung,New York,US,60,1.0,4
+2020-04-12,Chenango,New York,US,61,0.0,7
+2020-04-12,Clinton,New York,US,43,0.0,7
+2020-04-12,Columbia,New York,US,77,6.0,32
+2020-04-12,Cortland,New York,US,21,1.0,15
+2020-04-12,Delaware,New York,US,39,1.0,7
+2020-04-12,Dutchess,New York,US,1744,23.0,104
+2020-04-12,Erie,New York,US,1558,57.0,430
+2020-04-12,Essex,New York,US,12,0.0,0
+2020-04-12,Franklin,New York,US,11,0.0,0
+2020-04-12,Fulton,New York,US,21,2.0,0
+2020-04-12,Genesee,New York,US,67,1.0,0
+2020-04-12,Greene,New York,US,37,0.0,14
+2020-04-12,Hamilton,New York,US,3,0.0,0
+2020-04-12,Herkimer,New York,US,37,3.0,0
+2020-04-12,Jefferson,New York,US,44,0.0,9
+2020-04-12,Lewis,New York,US,6,3.0,0
+2020-04-12,Livingston,New York,US,34,2.0,15
+2020-04-12,Madison,New York,US,105,2.0,77
+2020-04-12,Monroe,New York,US,767,43.0,341
+2020-04-12,Montgomery,New York,US,29,2.0,0
+2020-04-12,Nassau,New York,US,22584,723.0,232
+2020-04-12,Niagara,New York,US,194,6.0,51
+2020-04-12,Oneida,New York,US,183,2.0,31
+2020-04-12,Onondaga,New York,US,456,8.0,176
+2020-04-12,Ontario,New York,US,56,0.0,0
+2020-04-12,Orange,New York,US,4847,132.0,0
+2020-04-12,Orleans,New York,US,24,0.0,0
+2020-04-12,Oswego,New York,US,42,2.0,20
+2020-04-12,Otsego,New York,US,43,2.0,9
+2020-04-12,Putnam,New York,US,494,26.0,0
+2020-04-12,Rensselaer,New York,US,119,5.0,46
+2020-04-12,Rockland,New York,US,7477,200.0,1
+2020-04-12,Saratoga,New York,US,187,5.0,0
+2020-04-12,Schenectady,New York,US,194,7.0,21
+2020-04-12,Schoharie,New York,US,12,0.0,0
+2020-04-12,Schuyler,New York,US,5,0.0,2
+2020-04-12,Seneca,New York,US,16,1.0,0
+2020-04-12,St. Lawrence,New York,US,80,1.0,0
+2020-04-12,Steuben,New York,US,119,5.0,30
+2020-04-12,Suffolk,New York,US,19883,458.0,449
+2020-04-12,Sullivan,New York,US,340,6.0,0
+2020-04-12,Tioga,New York,US,19,0.0,0
+2020-04-12,Tompkins,New York,US,108,0.0,82
+2020-04-12,Ulster,New York,US,589,10.0,0
+2020-04-12,Warren,New York,US,44,0.0,0
+2020-04-12,Washington,New York,US,31,1.0,7
+2020-04-12,Wayne,New York,US,42,0.0,12
+2020-04-12,Westchester,New York,US,18729,461.0,4376
+2020-04-12,Wyoming,New York,US,31,1.0,5
+2020-04-12,Yates,New York,US,2,0.0,1
+2020-04-13,Albany,New York,US,499,10.0,0
+2020-04-13,Allegany,New York,US,26,1.0,0
+2020-04-13,Broome,New York,US,133,6.0,24
+2020-04-13,Cattaraugus,New York,US,28,0.0,3
+2020-04-13,Cayuga,New York,US,30,2.0,5
+2020-04-13,Chautauqua,New York,US,24,1.0,13
+2020-04-13,Chemung,New York,US,60,1.0,4
+2020-04-13,Chenango,New York,US,65,0.0,7
+2020-04-13,Clinton,New York,US,44,3.0,7
+2020-04-13,Columbia,New York,US,80,8.0,32
+2020-04-13,Cortland,New York,US,24,1.0,16
+2020-04-13,Delaware,New York,US,42,1.0,7
+2020-04-13,Dutchess,New York,US,1838,31.0,104
+2020-04-13,Erie,New York,US,1624,81.0,479
+2020-04-13,Essex,New York,US,12,0.0,0
+2020-04-13,Franklin,New York,US,12,0.0,0
+2020-04-13,Fulton,New York,US,21,2.0,0
+2020-04-13,Genesee,New York,US,71,1.0,0
+2020-04-13,Greene,New York,US,45,0.0,14
+2020-04-13,Hamilton,New York,US,3,0.0,0
+2020-04-13,Herkimer,New York,US,38,3.0,0
+2020-04-13,Jefferson,New York,US,46,0.0,9
+2020-04-13,Lewis,New York,US,6,3.0,0
+2020-04-13,Livingston,New York,US,35,1.0,20
+2020-04-13,Madison,New York,US,110,2.0,77
+2020-04-13,Monroe,New York,US,823,47.0,434
+2020-04-13,Montgomery,New York,US,29,2.0,0
+2020-04-13,Nassau,New York,US,24358,910.0,232
+2020-04-13,Niagara,New York,US,205,9.0,51
+2020-04-13,Oneida,New York,US,206,2.0,42
+2020-04-13,Onondaga,New York,US,481,9.0,197
+2020-04-13,Ontario,New York,US,57,1.0,0
+2020-04-13,Orange,New York,US,5598,171.0,0
+2020-04-13,Orleans,New York,US,26,0.0,0
+2020-04-13,Oswego,New York,US,44,2.0,22
+2020-04-13,Otsego,New York,US,43,2.0,9
+2020-04-13,Putnam,New York,US,502,30.0,0
+2020-04-13,Rensselaer,New York,US,119,5.0,46
+2020-04-13,Rockland,New York,US,7965,200.0,1
+2020-04-13,Saratoga,New York,US,201,6.0,0
+2020-04-13,Schenectady,New York,US,204,8.0,21
+2020-04-13,Schoharie,New York,US,12,1.0,0
+2020-04-13,Schuyler,New York,US,5,0.0,2
+2020-04-13,Seneca,New York,US,16,1.0,0
+2020-04-13,St. Lawrence,New York,US,89,1.0,0
+2020-04-13,Steuben,New York,US,123,7.0,30
+2020-04-13,Suffolk,New York,US,21643,568.0,449
+2020-04-13,Sullivan,New York,US,380,6.0,0
+2020-04-13,Tioga,New York,US,20,0.0,0
+2020-04-13,Tompkins,New York,US,110,0.0,83
+2020-04-13,Ulster,New York,US,655,12.0,0
+2020-04-13,Warren,New York,US,48,1.0,0
+2020-04-13,Washington,New York,US,37,2.0,7
+2020-04-13,Wayne,New York,US,42,0.0,12
+2020-04-13,Westchester,New York,US,19786,557.0,4376
+2020-04-13,Wyoming,New York,US,31,4.0,5
+2020-04-13,Yates,New York,US,4,0.0,1
+2020-04-13,Total ,New York,US,88596,2751.0,6836
+2020-04-14,Albany,New York,US,535,13.0,0
+2020-04-14,Allegany,New York,US,28,1.0,0
+2020-04-14,Broome,New York,US,146,8.0,29
+2020-04-14,Cattaraugus,New York,US,32,0.0,5
+2020-04-14,Cayuga,New York,US,33,2.0,5
+2020-04-14,Chautauqua,New York,US,24,3.0,18
+2020-04-14,Chemung,New York,US,64,1.0,10
+2020-04-14,Chenango,New York,US,68,0.0,7
+2020-04-14,Clinton,New York,US,45,3.0,29
+2020-04-14,Columbia,New York,US,84,9.0,40
+2020-04-14,Cortland,New York,US,25,1.0,17
+2020-04-14,Delaware,New York,US,45,1.0,12
+2020-04-14,Dutchess,New York,US,1934,34.0,196
+2020-04-14,Erie,New York,US,1730,94.0,479
+2020-04-14,Essex,New York,US,12,0.0,8
+2020-04-14,Franklin,New York,US,13,0.0,4
+2020-04-14,Fulton,New York,US,22,2.0,0
+2020-04-14,Genesee,New York,US,76,1.0,20
+2020-04-14,Greene,New York,US,66,0.0,34
+2020-04-14,Hamilton,New York,US,3,0.0,0
+2020-04-14,Herkimer,New York,US,39,3.0,0
+2020-04-14,Jefferson,New York,US,47,0.0,9
+2020-04-14,Lewis,New York,US,7,3.0,0
+2020-04-14,Livingston,New York,US,37,1.0,22
+2020-04-14,Madison,New York,US,110,2.0,83
+2020-04-14,Monroe,New York,US,850,53.0,483
+2020-04-14,Montgomery,New York,US,32,2.0,10
+2020-04-14,Nassau,New York,US,25520,1001.0,764
+2020-04-14,Niagara,New York,US,216,10.0,89
+2020-04-14,Oneida,New York,US,229,2.0,53
+2020-04-14,Onondaga,New York,US,537,11.0,268
+2020-04-14,Ontario,New York,US,61,1.0,0
+2020-04-14,Orange,New York,US,5830,178.0,0
+2020-04-14,Orleans,New York,US,31,0.0,7
+2020-04-14,Oswego,New York,US,47,2.0,30
+2020-04-14,Otsego,New York,US,44,2.0,19
+2020-04-14,Putnam,New York,US,558,31.0,0
+2020-04-14,Rensselaer,New York,US,140,6.0,49
+2020-04-14,Rockland,New York,US,8335,241.0,1
+2020-04-14,Saratoga,New York,US,224,6.0,121
+2020-04-14,Schenectady,New York,US,235,8.0,63
+2020-04-14,Schoharie,New York,US,20,1.0,0
+2020-04-14,Schuyler,New York,US,8,0.0,6
+2020-04-14,Seneca,New York,US,18,2.0,0
+2020-04-14,St. Lawrence,New York,US,92,1.0,0
+2020-04-14,Steuben,New York,US,147,8.0,44
+2020-04-14,Suffolk,New York,US,22634,608.0,1138
+2020-04-14,Sullivan,New York,US,415,6.0,296
+2020-04-14,Tioga,New York,US,24,0.0,13
+2020-04-14,Tompkins,New York,US,113,0.0,87
+2020-04-14,Ulster,New York,US,716,13.0,0
+2020-04-14,Warren,New York,US,77,2.0,0
+2020-04-14,Washington,New York,US,40,3.0,14
+2020-04-14,Wayne,New York,US,48,1.0,16
+2020-04-14,Westchester,New York,US,20191,596.0,4376
+2020-04-14,Wyoming,New York,US,32,4.0,5
+2020-04-14,Yates,New York,US,6,0.0,2
+2020-04-14,Total ,New York,US,92111,2936.0,8981
+2020-03-19,Anne Arundel,Maryland,US,5,0.0,0
+2020-03-19,Baltimore,Maryland,US,12,0.0,0
+2020-03-19,Baltimore City,Maryland,US,8,0.0,0
+2020-03-19,Carroll,Maryland,US,2,0.0,0
+2020-03-19,Calvert,Maryland,US,1,0.0,0
+2020-03-19,Charles,Maryland,US,2,0.0,0
+2020-03-19,Frederick,Maryland,US,1,0.0,0
+2020-03-19,Harford,Maryland,US,3,0.0,0
+2020-03-19,Howard,Maryland,US,16,0.0,0
+2020-03-19,Montgomery,Maryland,US,33,0.0,3
+2020-03-19,Prince George's,Maryland,US,23,1.0,0
+2020-03-19,Talbot,Maryland,US,1,0.0,0
+2020-03-19,Wicomico,Maryland,US,1,0.0,0
+2020-03-20,Allegany,Maryland,US,0,0.0,0
+2020-03-20,Anne Arundel,Maryland,US,10,0.0,0
+2020-03-20,Baltimore County,Maryland,US,13,0.0,0
+2020-03-20,Baltimore City,Maryland,US,11,0.0,0
+2020-03-20,Calvert,Maryland,US,1,0.0,0
+2020-03-20,Caroline,Maryland,US,0,0.0,0
+2020-03-20,Carroll,Maryland,US,4,0.0,0
+2020-03-20,Cecil,Maryland,US,0,0.0,0
+2020-03-20,Charles,Maryland,US,2,0.0,0
+2020-03-20,Dorchester,Maryland,US,0,0.0,0
+2020-03-20,Frederick,Maryland,US,1,0.0,0
+2020-03-20,Garrett,Maryland,US,0,0.0,0
+2020-03-20,Harford,Maryland,US,5,0.0,0
+2020-03-20,Howard,Maryland,US,18,0.0,0
+2020-03-20,Kent,Maryland,US,0,0.0,0
+2020-03-20,Montgomery,Maryland,US,51,0.0,3
+2020-03-20,Prince George's,Maryland,US,31,1.0,0
+2020-03-20,Queen Anne's,Maryland,US,0,0.0,0
+2020-03-20,St. Mary's,Maryland,US,0,0.0,0
+2020-03-20,Somerset,Maryland,US,0,0.0,0
+2020-03-20,Talbot,Maryland,US,1,0.0,0
+2020-03-20,Washington,Maryland,US,0,0.0,0
+2020-03-20,Wicomico,Maryland,US,1,0.0,0
+2020-03-21,Allegany County Library System,Maryland,US,March 14,March 29,[64]
+2020-03-21,Anne Arundel County Public Library,Maryland,US,March 13,March 29,[65][66]
+2020-03-21,Baltimore County Public Library,Maryland,US,March 16,March 29,[65][67]
+2020-03-21,Enoch Pratt Free Library,Maryland,US,March 13,March 30,[65][68]
+2020-03-21,Calvert Library,Maryland,US,March 16,March 27,[69]
+2020-03-21,Caroline County Public Library,Maryland,US,March 16,March 28,[70]
+2020-03-21,Carroll County Public Library,Maryland,US,March 14,March 29,[65][71]
+2020-03-21,Cecil County Public Library,Maryland,US,March 15,March 29,[65][72]
+2020-03-21,Charles County Public Library,Maryland,US,March 13,March 28,[73]
+2020-03-21,Dorchester County Public Library,Maryland,US,March 14,March 28,[74]
+2020-03-21,Frederick County Public Library,Maryland,US,March 16,March 27,[69]
+2020-03-21,Ruth Enlow Library of Garrett County,Maryland,US,March 16,March 30,[75]
+2020-03-21,Harford County Public Library,Maryland,US,March 15,March 31,[65][76]
+2020-03-21,Howard County Library System,Maryland,US,March 16,March 27,[65][69]
+2020-03-21,Kent County Public Library,Maryland,US,March 16,March 28,[77]
+2020-03-21,Montgomery County Public Libraries,Maryland,US,March 16,March 27,[69]
+2020-03-21,Prince George's County Memorial Library System,Maryland,US,March 16,March 27,[69]
+2020-03-21,Queen Anne's County Library,Maryland,US,March 15,March 29,[78]
+2020-03-21,St. Mary's County Library,Maryland,US,March 13,March 29,[69]
+2020-03-21,Somerset County Library System,Maryland,US,March 16,March 28,[79]
+2020-03-21,Talbot County Free Library,Maryland,US,March 16,March 28,[80]
+2020-03-21,Washington County Free Library,Maryland,US,March 13,March 28,[81]
+2020-03-22,Anne Arundel,Maryland,US,18,0,0
+2020-03-22,Baltimore,Maryland,US,28,1,0
+2020-03-22,Baltimore City,Maryland,US,24,0,0
+2020-03-22,Calvert,Maryland,US,2,0,0
+2020-03-22,Caroline,Maryland,US,1,0,0
+2020-03-22,Carroll,Maryland,US,4,0,0
+2020-03-22,Cecil,Maryland,US,1,0,0
+2020-03-22,Charles,Maryland,US,5,0,0
+2020-03-22,Frederick,Maryland,US,1,0,0
+2020-03-22,Harford,Maryland,US,5,0,0
+2020-03-22,Howard,Maryland,US,24,0,0
+2020-03-22,Montgomery,Maryland,US,83,1,3
+2020-03-22,Prince George's,Maryland,US,40,1,0
+2020-03-22,St. Mary's,Maryland,US,1,0,0
+2020-03-22,Somerset,Maryland,US,1,0,0
+2020-03-22,Talbot,Maryland,US,1,0,0
+2020-03-22,Washington,Maryland,US,1,0,0
+2020-03-22,Wicomico,Maryland,US,2,0,0
+2020-03-23,Anne Arundel,Maryland,US,20,0,0
+2020-03-23,Baltimore,Maryland,US,35,1,0
+2020-03-23,Baltimore City,Maryland,US,31,0,0
+2020-03-23,Calvert,Maryland,US,1,0,0
+2020-03-23,Caroline,Maryland,US,1,0,0
+2020-03-23,Carroll,Maryland,US,5,0,0
+2020-03-23,Cecil,Maryland,US,1,0,0
+2020-03-23,Charles,Maryland,US,5,0,0
+2020-03-23,Frederick,Maryland,US,4,0,0
+2020-03-23,Garrett,Maryland,US,3,0,0
+2020-03-23,Harford,Maryland,US,5,0,0
+2020-03-23,Howard,Maryland,US,26,0,0
+2020-03-23,Montgomery,Maryland,US,94,1,3
+2020-03-23,Prince George's,Maryland,US,47,1,0
+2020-03-23,Queen Anne's,Maryland,US,1,0,0
+2020-03-23,St. Mary's,Maryland,US,1,0,0
+2020-03-23,Somerset,Maryland,US,1,0,0
+2020-03-23,Talbot,Maryland,US,1,0,0
+2020-03-23,Washington,Maryland,US,2,0,0
+2020-03-23,Wicomico,Maryland,US,4,0,0
+2020-03-24,Anne Arundel,Maryland,US,24,0,0
+2020-03-24,Baltimore,Maryland,US,42,1,0
+2020-03-24,Baltimore City,Maryland,US,41,0,0
+2020-03-24,Calvert,Maryland,US,3,0,0
+2020-03-24,Caroline,Maryland,US,1,0,0
+2020-03-24,Carroll,Maryland,US,5,0,0
+2020-03-24,Cecil,Maryland,US,1,0,0
+2020-03-24,Charles,Maryland,US,5,0,0
+2020-03-24,Frederick,Maryland,US,4,0,0
+2020-03-24,Garrett,Maryland,US,3,0,0
+2020-03-24,Harford,Maryland,US,5,0,0
+2020-03-24,Howard,Maryland,US,30,0,0
+2020-03-24,Montgomery,Maryland,US,107,1,3
+2020-03-24,Prince George's,Maryland,US,63,2,0
+2020-03-24,Queen Anne's,Maryland,US,1,0,0
+2020-03-24,St. Mary's,Maryland,US,2,0,0
+2020-03-24,Somerset,Maryland,US,1,0,0
+2020-03-24,Talbot,Maryland,US,1,0,0
+2020-03-24,Washington,Maryland,US,2,0,0
+2020-03-24,Wicomico,Maryland,US,4,0,0
+2020-03-25,Anne Arundel,Maryland,US,31,0,0
+2020-03-25,Baltimore,Maryland,US,51,1,0
+2020-03-25,Baltimore City,Maryland,US,53,0,0
+2020-03-25,Calvert,Maryland,US,3,0,0
+2020-03-25,Caroline,Maryland,US,1,0,0
+2020-03-25,Carroll,Maryland,US,5,0,0
+2020-03-25,Cecil,Maryland,US,4,0,0
+2020-03-25,Charles,Maryland,US,8,0,0
+2020-03-25,Frederick,Maryland,US,7,0,0
+2020-03-25,Garrett,Maryland,US,3,0,0
+2020-03-25,Harford,Maryland,US,5,0,0
+2020-03-25,Howard,Maryland,US,35,0,0
+2020-03-25,Montgomery,Maryland,US,127,1,3
+2020-03-25,Prince George's,Maryland,US,76,2,0
+2020-03-25,Queen Anne's,Maryland,US,1,0,0
+2020-03-25,St. Mary's,Maryland,US,2,0,0
+2020-03-25,Somerset,Maryland,US,1,0,0
+2020-03-25,Talbot,Maryland,US,1,0,0
+2020-03-25,Washington,Maryland,US,2,0,0
+2020-03-25,Wicomico,Maryland,US,4,0,0
+2020-03-26,Anne Arundel,Maryland,US,41,0,0
+2020-03-26,Baltimore,Maryland,US,81,1,0
+2020-03-26,Baltimore City,Maryland,US,72,0,0
+2020-03-26,Calvert,Maryland,US,7,0,0
+2020-03-26,Caroline,Maryland,US,1,0,0
+2020-03-26,Carroll,Maryland,US,7,0,0
+2020-03-26,Cecil,Maryland,US,4,0,0
+2020-03-26,Charles,Maryland,US,10,0,0
+2020-03-26,Frederick,Maryland,US,14,0,0
+2020-03-26,Garrett,Maryland,US,3,0,0
+2020-03-26,Harford,Maryland,US,9,0,0
+2020-03-26,Howard,Maryland,US,49,0,0
+2020-03-26,Montgomery,Maryland,US,164,1,3
+2020-03-26,Prince George's,Maryland,US,101,2,0
+2020-03-26,Queen Anne's,Maryland,US,1,0,0
+2020-03-26,St. Mary's,Maryland,US,4,0,0
+2020-03-26,Somerset,Maryland,US,1,0,0
+2020-03-26,Talbot,Maryland,US,1,0,0
+2020-03-26,Washington,Maryland,US,2,0,0
+2020-03-26,Wicomico,Maryland,US,5,0,0
+2020-03-27,Anne Arundel,Maryland,US,63,0,0
+2020-03-27,Baltimore,Maryland,US,103,1,0
+2020-03-27,Baltimore City,Maryland,US,88,0,0
+2020-03-27,Calvert,Maryland,US,9,0,0
+2020-03-27,Caroline,Maryland,US,1,0,0
+2020-03-27,Carroll,Maryland,US,9,0,0
+2020-03-27,Cecil,Maryland,US,9,0,0
+2020-03-27,Charles,Maryland,US,17,0,0
+2020-03-27,Frederick,Maryland,US,15,0,0
+2020-03-27,Garrett,Maryland,US,3,0,0
+2020-03-27,Harford,Maryland,US,18,0,0
+2020-03-27,Howard,Maryland,US,62,0,0
+2020-03-27,Kent,Maryland,US,2,0,0
+2020-03-27,Kent,Maryland,US,2,0,0
+2020-03-27,Montgomery,Maryland,US,208,1,3
+2020-03-27,Prince George's,Maryland,US,148,2,0
+2020-03-27,Queen Anne's,Maryland,US,1,0,0
+2020-03-27,St. Mary's,Maryland,US,4,0,0
+2020-03-27,Somerset,Maryland,US,1,0,0
+2020-03-27,Talbot,Maryland,US,1,0,0
+2020-03-27,Washington,Maryland,US,5,0,0
+2020-03-27,Wicomico,Maryland,US,5,0,0
+2020-03-27,Worcester,Maryland,US,2,0,0
+2020-03-27,Under Investigation,Maryland,US,0,1,22
+2020-03-28,Anne Arundel,Maryland,US,88,1,0
+2020-03-28,Baltimore,Maryland,US,141,1,0
+2020-03-28,Baltimore City,Maryland,US,112,2,0
+2020-03-28,Calvert,Maryland,US,8,0,0
+2020-03-28,Caroline,Maryland,US,1,0,0
+2020-03-28,Carroll,Maryland,US,10,0,0
+2020-03-28,Cecil,Maryland,US,13,0,0
+2020-03-28,Charles,Maryland,US,21,1,0
+2020-03-28,Frederick,Maryland,US,22,0,0
+2020-03-28,Garrett,Maryland,US,3,0,0
+2020-03-28,Harford,Maryland,US,21,0,0
+2020-03-28,Howard,Maryland,US,73,0,0
+2020-03-28,Kent,Maryland,US,2,0,0
+2020-03-28,Montgomery,Maryland,US,255,1,3
+2020-03-28,Prince George's,Maryland,US,196,3,0
+2020-03-28,Queen Anne's,Maryland,US,1,0,0
+2020-03-28,St. Mary's,Maryland,US,8,0,0
+2020-03-28,Somerset,Maryland,US,1,0,0
+2020-03-28,Talbot,Maryland,US,2,0,0
+2020-03-28,Washington,Maryland,US,6,0,0
+2020-03-28,Wicomico,Maryland,US,6,1,0
+2020-03-28,Worcester,Maryland,US,2,0,0
+2020-03-28,Unassigned,Maryland,US,0,0,29
+2020-03-29,Anne Arundel,Maryland,US,99,1,0
+2020-03-29,Baltimore,Maryland,US,162,1,0
+2020-03-29,Baltimore City,Maryland,US,129,2,0
+2020-03-29,Calvert,Maryland,US,10,0,0
+2020-03-29,Caroline,Maryland,US,3,0,0
+2020-03-29,Carroll,Maryland,US,82,1,0
+2020-03-29,Cecil,Maryland,US,13,0,0
+2020-03-29,Charles,Maryland,US,28,1,0
+2020-03-29,Frederick,Maryland,US,24,0,0
+2020-03-29,Garrett,Maryland,US,3,0,0
+2020-03-29,Harford,Maryland,US,23,0,0
+2020-03-29,Howard,Maryland,US,81,2,0
+2020-03-29,Kent,Maryland,US,3,0,0
+2020-03-29,Montgomery,Maryland,US,301,1,3
+2020-03-29,Prince George's,Maryland,US,247,3,0
+2020-03-29,Queen Anne's,Maryland,US,4,0,0
+2020-03-29,St. Mary's,Maryland,US,9,0,0
+2020-03-29,Somerset,Maryland,US,1,0,0
+2020-03-29,Talbot,Maryland,US,3,0,0
+2020-03-29,Washington,Maryland,US,6,0,0
+2020-03-29,Wicomico,Maryland,US,6,1,0
+2020-03-29,Worcester,Maryland,US,2,0,0
+2020-03-29,Unassigned,Maryland,US,0,0,36
+2020-03-30,Anne Arundel,Maryland,US,110,1,0
+2020-03-30,Baltimore,Maryland,US,186,1,0
+2020-03-30,Baltimore City,Maryland,US,152,2,0
+2020-03-30,Calvert,Maryland,US,12,0,0
+2020-03-30,Caroline,Maryland,US,4,0,0
+2020-03-30,Carroll,Maryland,US,82,1,0
+2020-03-30,Cecil,Maryland,US,13,0,0
+2020-03-30,Charles,Maryland,US,33,1,0
+2020-03-30,Frederick,Maryland,US,26,0,3
+2020-03-30,Garrett,Maryland,US,3,0,0
+2020-03-30,Harford,Maryland,US,24,0,0
+2020-03-30,Howard,Maryland,US,96,1,0
+2020-03-30,Kent,Maryland,US,3,0,0
+2020-03-30,Montgomery,Maryland,US,341,1,3
+2020-03-30,Prince George's,Maryland,US,294,6,0
+2020-03-30,Queen Anne's,Maryland,US,4,0,0
+2020-03-30,St. Mary's,Maryland,US,9,0,0
+2020-03-30,Somerset,Maryland,US,1,0,0
+2020-03-30,Talbot,Maryland,US,4,0,0
+2020-03-30,Washington,Maryland,US,7,0,0
+2020-03-30,Wicomico,Maryland,US,6,1,0
+2020-03-30,Worcester,Maryland,US,3,0,0
+2020-03-30,Unassigned,Maryland,US,0,0,37
+2020-03-31,Anne Arundel,Maryland,US,127,1,0
+2020-03-31,Baltimore,Maryland,US,227,1,0
+2020-03-31,Baltimore City,Maryland,US,187,2,0
+2020-03-31,Calvert,Maryland,US,15,0,0
+2020-03-31,Caroline,Maryland,US,4,0,0
+2020-03-31,Carroll,Maryland,US,92,1,0
+2020-03-31,Cecil,Maryland,US,14,0,0
+2020-03-31,Charles,Maryland,US,40,1,0
+2020-03-31,Dorchester,Maryland,US,1,0,0
+2020-03-31,Frederick,Maryland,US,33,0,3
+2020-03-31,Garrett,Maryland,US,3,0,0
+2020-03-31,Harford,Maryland,US,25,0,0
+2020-03-31,Howard,Maryland,US,117,1,0
+2020-03-31,Kent,Maryland,US,3,0,0
+2020-03-31,Montgomery,Maryland,US,388,1,3
+2020-03-31,Prince George's,Maryland,US,341,6,0
+2020-03-31,Queen Anne's,Maryland,US,4,0,0
+2020-03-31,St. Mary's,Maryland,US,15,0,0
+2020-03-31,Somerset,Maryland,US,1,0,0
+2020-03-31,Talbot,Maryland,US,3,0,0
+2020-03-31,Washington,Maryland,US,11,0,0
+2020-03-31,Wicomico,Maryland,US,7,1,0
+2020-03-31,Worcester,Maryland,US,3,0,0
+2020-03-31,Unassigned,Maryland,US,0,3,47
+2020-04-01,Anne Arundel,Maryland,US,158,1,0
+2020-04-01,Baltimore,Maryland,US,221,1,0
+2020-04-01,Baltimore City,Maryland,US,289,2,0
+2020-04-01,Calvert,Maryland,US,18,0,0
+2020-04-01,Caroline,Maryland,US,4,0,0
+2020-04-01,Carroll,Maryland,US,96,1,0
+2020-04-01,Cecil,Maryland,US,16,0,0
+2020-04-01,Charles,Maryland,US,56,1,0
+2020-04-01,Dorchester,Maryland,US,1,0,0
+2020-04-01,Frederick,Maryland,US,35,0,3
+2020-04-01,Garrett,Maryland,US,3,0,0
+2020-04-01,Harford,Maryland,US,34,0,0
+2020-04-01,Howard,Maryland,US,142,1,0
+2020-04-01,Kent,Maryland,US,3,0,0
+2020-04-01,Montgomery,Maryland,US,447,1,3
+2020-04-01,Prince George's,Maryland,US,403,6,0
+2020-04-01,Queen Anne's,Maryland,US,7,0,0
+2020-04-01,St. Mary's,Maryland,US,19,0,0
+2020-04-01,Somerset,Maryland,US,4,0,0
+2020-04-01,Talbot,Maryland,US,3,0,0
+2020-04-01,Washington,Maryland,US,15,0,0
+2020-04-01,Wicomico,Maryland,US,7,1,0
+2020-04-01,Worcester,Maryland,US,4,0,0
+2020-04-01,Unassigned,Maryland,US,0,16,63
+2020-04-02,Allegany,Maryland,US,2,0,0
+2020-04-02,Anne Arundel,Maryland,US,206,1,0
+2020-04-02,Baltimore,Maryland,US,353,1,0
+2020-04-02,Baltimore City,Maryland,US,265,2,0
+2020-04-02,Calvert,Maryland,US,22,0,0
+2020-04-02,Caroline,Maryland,US,4,0,0
+2020-04-02,Carroll,Maryland,US,105,1,0
+2020-04-02,Cecil,Maryland,US,20,0,0
+2020-04-02,Charles,Maryland,US,69,1,0
+2020-04-02,Dorchester,Maryland,US,1,0,0
+2020-04-02,Frederick,Maryland,US,45,0,3
+2020-04-02,Garrett,Maryland,US,3,0,0
+2020-04-02,Harford,Maryland,US,37,0,0
+2020-04-02,Howard,Maryland,US,152,1,0
+2020-04-02,Kent,Maryland,US,5,0,0
+2020-04-02,Montgomery,Maryland,US,498,1,3
+2020-04-02,Prince George's,Maryland,US,473,6,0
+2020-04-02,Queen Anne's,Maryland,US,8,0,0
+2020-04-02,St. Mary's,Maryland,US,27,0,0
+2020-04-02,Somerset,Maryland,US,4,0,0
+2020-04-02,Talbot,Maryland,US,4,0,0
+2020-04-02,Washington,Maryland,US,17,0,0
+2020-04-02,Wicomico,Maryland,US,7,1,0
+2020-04-02,Worcester,Maryland,US,5,0,0
+2020-04-02,Unassigned,Maryland,US,0,21,75
+2020-04-03,Allegany,Maryland,US,2,0,0
+2020-04-03,Anne Arundel,Maryland,US,249,4,0
+2020-04-03,Baltimore,Maryland,US,427,3,0
+2020-04-03,Baltimore City,Maryland,US,313,4,0
+2020-04-03,Calvert,Maryland,US,30,1,0
+2020-04-03,Caroline,Maryland,US,4,0,0
+2020-04-03,Carroll,Maryland,US,129,5,0
+2020-04-03,Cecil,Maryland,US,25,1,0
+2020-04-03,Charles,Maryland,US,90,1,0
+2020-04-03,Dorchester,Maryland,US,1,0,0
+2020-04-03,Frederick,Maryland,US,63,2,20
+2020-04-03,Garrett,Maryland,US,3,0,0
+2020-04-03,Harford,Maryland,US,41,0,0
+2020-04-03,Howard,Maryland,US,166,2,28
+2020-04-03,Kent,Maryland,US,5,0,0
+2020-04-03,Montgomery,Maryland,US,566,9,3
+2020-04-03,Prince George's,Maryland,US,563,9,0
+2020-04-03,Queen Anne's,Maryland,US,12,0,0
+2020-04-03,St. Mary's,Maryland,US,30,0,0
+2020-04-03,Somerset,Maryland,US,4,0,0
+2020-04-03,Talbot,Maryland,US,5,0,0
+2020-04-03,Washington,Maryland,US,27,0,0
+2020-04-03,Wicomico,Maryland,US,7,1,0
+2020-04-03,Worcester,Maryland,US,5,0,0
+2020-04-03,Unassigned,Maryland,US,0,0,108
+2020-04-04,Allegany,Maryland,US,3,0,0
+2020-04-04,Anne Arundel,Maryland,US,289,6,0
+2020-04-04,Baltimore,Maryland,US,491,4,0
+2020-04-04,Baltimore City,Maryland,US,343,6,0
+2020-04-04,Calvert,Maryland,US,33,1,0
+2020-04-04,Caroline,Maryland,US,4,0,0
+2020-04-04,Carroll,Maryland,US,134,6,0
+2020-04-04,Cecil,Maryland,US,33,1,0
+2020-04-04,Charles,Maryland,US,95,1,0
+2020-04-04,Dorchester,Maryland,US,1,0,0
+2020-04-04,Frederick,Maryland,US,73,2,20
+2020-04-04,Garrett,Maryland,US,3,0,0
+2020-04-04,Harford,Maryland,US,44,0,0
+2020-04-04,Howard,Maryland,US,180,3,28
+2020-04-04,Kent,Maryland,US,5,0,0
+2020-04-04,Montgomery,Maryland,US,640,9,3
+2020-04-04,Prince George's,Maryland,US,653,13,0
+2020-04-04,Queen Anne's,Maryland,US,13,0,0
+2020-04-04,St. Mary's,Maryland,US,34,0,0
+2020-04-04,Somerset,Maryland,US,4,0,0
+2020-04-04,Talbot,Maryland,US,6,0,0
+2020-04-04,Washington,Maryland,US,29,0,0
+2020-04-04,Wicomico,Maryland,US,8,1,0
+2020-04-04,Worcester,Maryland,US,7,0,0
+2020-04-04,Unassigned,Maryland,US,0,0,108
+2020-04-05,Allegany,Maryland,US,6,0,0
+2020-04-05,Anne Arundel,Maryland,US,319,6,0
+2020-04-05,Baltimore,Maryland,US,590,6,0
+2020-04-05,Baltimore City,Maryland,US,394,7,0
+2020-04-05,Calvert,Maryland,US,39,1,0
+2020-04-05,Caroline,Maryland,US,4,0,0
+2020-04-05,Carroll,Maryland,US,142,8,0
+2020-04-05,Cecil,Maryland,US,36,1,0
+2020-04-05,Charles,Maryland,US,111,1,0
+2020-04-05,Dorchester,Maryland,US,1,0,0
+2020-04-05,Frederick,Maryland,US,112,3,20
+2020-04-05,Garrett,Maryland,US,3,0,0
+2020-04-05,Harford,Maryland,US,52,0,0
+2020-04-05,Howard,Maryland,US,199,3,30
+2020-04-05,Kent,Maryland,US,5,0,0
+2020-04-05,Montgomery,Maryland,US,693,13,3
+2020-04-05,Prince George's,Maryland,US,785,16,0
+2020-04-05,Queen Anne's,Maryland,US,13,0,0
+2020-04-05,St. Mary's,Maryland,US,40,0,0
+2020-04-05,Somerset,Maryland,US,4,0,0
+2020-04-05,Talbot,Maryland,US,7,0,0
+2020-04-05,Washington,Maryland,US,34,0,0
+2020-04-05,Wicomico,Maryland,US,11,1,0
+2020-04-05,Worcester,Maryland,US,9,0,0
+2020-04-05,Unassigned,Maryland,US,0,0,106
+2020-04-06,Allegany,Maryland,US,6,0,0
+2020-04-06,Anne Arundel,Maryland,US,343,8,0
+2020-04-06,Baltimore,Maryland,US,648,11,0
+2020-04-06,Baltimore City,Maryland,US,435,8,0
+2020-04-06,Calvert,Maryland,US,40,1,0
+2020-04-06,Caroline,Maryland,US,6,0,0
+2020-04-06,Carroll,Maryland,US,150,10,0
+2020-04-06,Cecil,Maryland,US,37,1,0
+2020-04-06,Charles,Maryland,US,129,2,0
+2020-04-06,Dorchester,Maryland,US,1,0,0
+2020-04-06,Frederick,Maryland,US,138,4,20
+2020-04-06,Garrett,Maryland,US,3,0,0
+2020-04-06,Harford,Maryland,US,55,0,0
+2020-04-06,Howard,Maryland,US,214,3,30
+2020-04-06,Kent,Maryland,US,5,0,0
+2020-04-06,Montgomery,Maryland,US,793,19,3
+2020-04-06,Prince George's,Maryland,US,916,23,0
+2020-04-06,Queen Anne's,Maryland,US,15,0,0
+2020-04-06,St. Mary's,Maryland,US,41,0,0
+2020-04-06,Somerset,Maryland,US,4,0,0
+2020-04-06,Talbot,Maryland,US,8,0,0
+2020-04-06,Washington,Maryland,US,37,0,0
+2020-04-06,Wicomico,Maryland,US,11,1,0
+2020-04-06,Worcester,Maryland,US,10,0,0
+2020-04-06,Unassigned,Maryland,US,0,0,131
+2020-04-07,Allegany,Maryland,US,7,0,0
+2020-04-07,Anne Arundel,Maryland,US,370,8,0
+2020-04-07,Baltimore,Maryland,US,652,11,0
+2020-04-07,Baltimore City,Maryland,US,459,8,0
+2020-04-07,Calvert,Maryland,US,41,1,0
+2020-04-07,Caroline,Maryland,US,11,0,0
+2020-04-07,Carroll,Maryland,US,159,16,0
+2020-04-07,Cecil,Maryland,US,41,1,0
+2020-04-07,Charles,Maryland,US,136,2,0
+2020-04-07,Dorchester,Maryland,US,3,0,0
+2020-04-07,Frederick,Maryland,US,151,4,20
+2020-04-07,Garrett,Maryland,US,3,0,0
+2020-04-07,Harford,Maryland,US,59,0,0
+2020-04-07,Howard,Maryland,US,236,3,36
+2020-04-07,Kent,Maryland,US,8,0,0
+2020-04-07,Montgomery,Maryland,US,871,21,3
+2020-04-07,Prince George's,Maryland,US,1020,26,0
+2020-04-07,Queen Anne's,Maryland,US,15,0,0
+2020-04-07,St. Mary's,Maryland,US,46,0,0
+2020-04-07,Somerset,Maryland,US,4,0,0
+2020-04-07,Talbot,Maryland,US,8,0,0
+2020-04-07,Washington,Maryland,US,44,0,0
+2020-04-07,Wicomico,Maryland,US,17,1,0
+2020-04-07,Worcester,Maryland,US,10,0,0
+2020-04-07,Unassigned,Maryland,US,0,0,229
+2020-04-08,Allegany,Maryland,US,6,0,0
+2020-04-08,Anne Arundel,Maryland,US,466,11,0
+2020-04-08,Baltimore,Maryland,US,866,13,0
+2020-04-08,Baltimore City,Maryland,US,571,10,0
+2020-04-08,Calvert,Maryland,US,56,2,0
+2020-04-08,Caroline,Maryland,US,11,0,0
+2020-04-08,Carroll,Maryland,US,186,18,12
+2020-04-08,Cecil,Maryland,US,49,1,0
+2020-04-08,Charles,Maryland,US,164,2,0
+2020-04-08,Dorchester,Maryland,US,4,0,0
+2020-04-08,Frederick,Maryland,US,199,4,20
+2020-04-08,Garrett,Maryland,US,5,0,0
+2020-04-08,Harford,Maryland,US,86,0,0
+2020-04-08,Howard,Maryland,US,274,3,36
+2020-04-08,Kent,Maryland,US,9,0,0
+2020-04-08,Montgomery,Maryland,US,1088,26,3
+2020-04-08,Prince George's,Maryland,US,1310,32,0
+2020-04-08,Queen Anne's,Maryland,US,16,0,0
+2020-04-08,St. Mary's,Maryland,US,62,0,0
+2020-04-08,Somerset,Maryland,US,4,0,0
+2020-04-08,Talbot,Maryland,US,10,0,0
+2020-04-08,Washington,Maryland,US,57,0,0
+2020-04-08,Wicomico,Maryland,US,20,1,0
+2020-04-08,Worcester,Maryland,US,10,0,0
+2020-04-08,Unassigned,Maryland,US,0,0,294
+2020-04-09,Allegany,Maryland,US,6,0,0
+2020-04-09,Anne Arundel,Maryland,US,466,11,0
+2020-04-09,Baltimore,Maryland,US,979,16,0
+2020-04-09,Baltimore City,Maryland,US,638,13,0
+2020-04-09,Calvert,Maryland,US,56,2,0
+2020-04-09,Caroline,Maryland,US,11,0,0
+2020-04-09,Carroll,Maryland,US,192,19,12
+2020-04-09,Cecil,Maryland,US,49,1,0
+2020-04-09,Charles,Maryland,US,164,2,0
+2020-04-09,Dorchester,Maryland,US,7,0,0
+2020-04-09,Frederick,Maryland,US,233,4,20
+2020-04-09,Garrett,Maryland,US,5,0,0
+2020-04-09,Harford,Maryland,US,101,0,0
+2020-04-09,Howard,Maryland,US,274,3,36
+2020-04-09,Kent,Maryland,US,9,0,0
+2020-04-09,Montgomery,Maryland,US,1214,29,3
+2020-04-09,Prince George's,Maryland,US,1476,35,0
+2020-04-09,Queen Anne's,Maryland,US,17,0,0
+2020-04-09,St. Mary's,Maryland,US,65,0,0
+2020-04-09,Somerset,Maryland,US,4,0,0
+2020-04-09,Talbot,Maryland,US,10,0,0
+2020-04-09,Washington,Maryland,US,60,0,0
+2020-04-09,Wicomico,Maryland,US,21,1,0
+2020-04-09,Worcester,Maryland,US,16,0,0
+2020-04-09,Unassigned,Maryland,US,0,0,294
+2020-04-10,Allegany,Maryland,US,6,0,0
+2020-04-10,Anne Arundel,Maryland,US,466,11,0
+2020-04-10,Baltimore,Maryland,US,979,16,0
+2020-04-10,Baltimore City,Maryland,US,638,13,0
+2020-04-10,Calvert,Maryland,US,56,2,0
+2020-04-10,Caroline,Maryland,US,11,0,0
+2020-04-10,Carroll,Maryland,US,192,19,12
+2020-04-10,Cecil,Maryland,US,49,1,0
+2020-04-10,Charles,Maryland,US,164,2,0
+2020-04-10,Dorchester,Maryland,US,7,0,0
+2020-04-10,Frederick,Maryland,US,233,4,20
+2020-04-10,Garrett,Maryland,US,5,0,0
+2020-04-10,Harford,Maryland,US,101,0,0
+2020-04-10,Howard,Maryland,US,274,3,36
+2020-04-10,Kent,Maryland,US,9,0,0
+2020-04-10,Montgomery,Maryland,US,1214,29,3
+2020-04-10,Prince George's,Maryland,US,1476,35,0
+2020-04-10,Queen Anne's,Maryland,US,17,0,0
+2020-04-10,St. Mary's,Maryland,US,65,0,0
+2020-04-10,Somerset,Maryland,US,4,0,0
+2020-04-10,Talbot,Maryland,US,10,0,0
+2020-04-10,Washington,Maryland,US,60,0,0
+2020-04-10,Wicomico,Maryland,US,21,1,0
+2020-04-10,Worcester,Maryland,US,16,0,0
+2020-04-10,Unassigned,Maryland,US,0,0,294
+2020-04-11,Allegany,Maryland,US,11,0,0
+2020-04-11,Anne Arundel,Maryland,US,615,19,0
+2020-04-11,Baltimore,Maryland,US,1173,26,0
+2020-04-11,Baltimore City,Maryland,US,756,22,0
+2020-04-11,Calvert,Maryland,US,82,1,0
+2020-04-11,Caroline,Maryland,US,15,0,0
+2020-04-11,Carroll,Maryland,US,214,25,12
+2020-04-11,Cecil,Maryland,US,66,1,0
+2020-04-11,Charles,Maryland,US,235,5,0
+2020-04-11,Dorchester,Maryland,US,8,0,0
+2020-04-11,Frederick,Maryland,US,341,11,20
+2020-04-11,Garrett,Maryland,US,4,0,0
+2020-04-11,Harford,Maryland,US,120,1,0
+2020-04-11,Howard,Maryland,US,351,6,36
+2020-04-11,Kent,Maryland,US,10,0,0
+2020-04-11,Montgomery,Maryland,US,1537,36,3
+2020-04-11,Prince George's,Maryland,US,1923,50,0
+2020-04-11,Queen Anne's,Maryland,US,19,0,0
+2020-04-11,St. Mary's,Maryland,US,73,0,0
+2020-04-11,Somerset,Maryland,US,4,0,0
+2020-04-11,Talbot,Maryland,US,13,1,0
+2020-04-11,Washington,Maryland,US,72,1,0
+2020-04-11,Wicomico,Maryland,US,33,1,0
+2020-04-11,Worcester,Maryland,US,19,0,0
+2020-04-11,Unassigned,Maryland,US,0,0,328
+2020-04-12,Allegany,Maryland,US,13,0,0
+2020-04-12,Anne Arundel,Maryland,US,659,27,0
+2020-04-12,Baltimore,Maryland,US,1257,30,0
+2020-04-12,Baltimore City,Maryland,US,812,24,0
+2020-04-12,Calvert,Maryland,US,90,1,0
+2020-04-12,Caroline,Maryland,US,17,0,0
+2020-04-12,Carroll,Maryland,US,236,25,12
+2020-04-12,Cecil,Maryland,US,74,1,0
+2020-04-12,Charles,Maryland,US,253,9,0
+2020-04-12,Dorchester,Maryland,US,12,1,0
+2020-04-12,Frederick,Maryland,US,368,12,20
+2020-04-12,Garrett,Maryland,US,4,0,0
+2020-04-12,Harford,Maryland,US,129,0,0
+2020-04-12,Howard,Maryland,US,371,6,36
+2020-04-12,Kent,Maryland,US,11,0,0
+2020-04-12,Montgomery,Maryland,US,1631,42,3
+2020-04-12,Prince George's,Maryland,US,2035,55,0
+2020-04-12,Queen Anne's,Maryland,US,19,0,0
+2020-04-12,St. Mary's,Maryland,US,82,0,0
+2020-04-12,Somerset,Maryland,US,4,0,0
+2020-04-12,Talbot,Maryland,US,14,1,0
+2020-04-12,Washington,Maryland,US,75,1,0
+2020-04-12,Wicomico,Maryland,US,42,1,0
+2020-04-12,Worcester,Maryland,US,20,0,0
+2020-04-13,Allegany,Maryland,US,15,0,0
+2020-04-13,Anne Arundel,Maryland,US,724,29,0
+2020-04-13,Baltimore,Maryland,US,1361,31,0
+2020-04-13,Baltimore City,Maryland,US,873,26,0
+2020-04-13,Calvert,Maryland,US,94,1,0
+2020-04-13,Caroline,Maryland,US,21,0,0
+2020-04-13,Carroll,Maryland,US,250,28,12
+2020-04-13,Cecil,Maryland,US,83,1,0
+2020-04-13,Charles,Maryland,US,274,10,0
+2020-04-13,Dorchester,Maryland,US,12,1,0
+2020-04-13,Frederick,Maryland,US,417,12,20
+2020-04-13,Garrett,Maryland,US,4,0,0
+2020-04-13,Harford,Maryland,US,142,0,0
+2020-04-13,Howard,Maryland,US,386,8,36
+2020-04-13,Kent,Maryland,US,11,0,0
+2020-04-13,Montgomery,Maryland,US,1756,48,3
+2020-04-13,Prince George's,Maryland,US,2205,63,0
+2020-04-13,Queen Anne's,Maryland,US,19,0,0
+2020-04-13,St. Mary's,Maryland,US,95,1,0
+2020-04-13,Somerset,Maryland,US,6,0,0
+2020-04-13,Talbot,Maryland,US,16,1,0
+2020-04-13,Washington,Maryland,US,93,1,0
+2020-04-13,Wicomico,Maryland,US,58,1,0
+2020-04-13,Worcester,Maryland,US,21,0,0
+2020-04-14,Allegany,Maryland,US,70416,17,0.24
+2020-04-14,Anne Arundel,Maryland,US,579234,783,1.35
+2020-04-14,Baltimore,Maryland,US,827370,1377,1.66
+2020-04-14,Baltimore City,Maryland,US,593490,962,1.62
+2020-04-14,Calvert,Maryland,US,92525,99,1.07
+2020-04-14,Caroline,Maryland,US,33406,21,0.63
+2020-04-14,Carroll,Maryland,US,168447,259,1.54
+2020-04-14,Cecil,Maryland,US,102855,85,0.83
+2020-04-14,Charles,Maryland,US,163257,292,1.79
+2020-04-14,Dorchester,Maryland,US,31929,14,0.44
+2020-04-14,Frederick,Maryland,US,259547,441,1.7
+2020-04-14,Garrett,Maryland,US,29014,4,0.14
+2020-04-14,Harford,Maryland,US,255441,147,0.58
+2020-04-14,Howard,Maryland,US,325690,403,1.24
+2020-04-14,Kent,Maryland,US,19422,11,0.57
+2020-04-14,Montgomery,Maryland,US,1050688,1883,1.79
+2020-04-14,Prince George's,Maryland,US,909327,2356,2.59
+2020-04-14,Queen Anne's,Maryland,US,50381,19,0.38
+2020-04-14,St. Mary's,Maryland,US,113510,98,0.86
+2020-04-14,Somerset,Maryland,US,26616,5,0.19
+2020-04-14,Talbot,Maryland,US,37181,16,0.43
+2020-04-14,Washington,Maryland,US,151049,96,0.64
+2020-04-14,Wicomico,Maryland,US,103609,63,0.61
+2020-04-14,Worcester,Maryland,US,52276,21,0.4

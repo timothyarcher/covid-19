@@ -233,7 +233,7 @@ states_list = []
 
 # Use individual appends just to keep the code readable
 states_list.append(['South Dakota','SD','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_South_Dakota'])
-states_list.append(['Illinois','IL','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Illinois'])
+#states_list.append(['Illinois','IL','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Illinois'])
 states_list.append(['Maine','ME','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Maine'])
 states_list.append(['New Jersey','NJ','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_New_Jersey'])
 states_list.append(['New York','NY','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_New_York_(state)'])
